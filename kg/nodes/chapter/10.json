@@ -1,0 +1,33 @@
+{
+  "id": "chapter:10",
+  "type": "chapter",
+  "title": "Chapter 10 — Patterns of Inheritance",
+  "slug": "10",
+  "aliases": [
+    "Chapter 10"
+  ],
+  "tags": [
+    "chapter-10",
+    "inheritance",
+    "mendel",
+    "genetics"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/chapters/chapter-10.md",
+  "summary": "Chapter 10 covers Mendelian genetics: dominant/recessive alleles, P/F1/F2 generations, monohybrid and dihybrid Punnett squares, and the laws of segregation and independent assortment. It then extends Mendel's framework to incomplete dominance, codominance (ABO blood typing), pleiotropy, sex-linked traits, X-inactivation, polygenic traits, gene linkage, and environmental influences on phenotype.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/chapters/chapter-10.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    10
+  ]
+}

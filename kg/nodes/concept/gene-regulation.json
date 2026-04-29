@@ -1,0 +1,31 @@
+{
+  "id": "concept:gene-regulation",
+  "type": "concept",
+  "title": "Gene Regulation",
+  "slug": "gene-regulation",
+  "aliases": [],
+  "tags": [
+    "chapter-12"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/concepts/gene-regulation.md",
+  "summary": "The control of when, where, and how much a gene is expressed. Eukaryotes regulate at multiple levels:\n1. Chromatin — DNA wound on histones; tightly wound = silent.\n2. Transcription factors — required for RNA polymerase to bind promoter.\n3. Alternative splicing — different exon combinations → different proteins.\n4. mRNA export — proteins can hold mRNA in the nucleus.\n5. mRNA stability — quick degra",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/concepts/gene-regulation.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    12
+  ],
+  "exam_topics": [
+    "eukaryotic-gene-regulation"
+  ]
+}

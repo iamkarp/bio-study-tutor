@@ -1,0 +1,30 @@
+{
+  "id": "structure:sister-chromatids",
+  "type": "structure",
+  "title": "Sister Chromatids",
+  "slug": "sister-chromatids",
+  "aliases": [],
+  "tags": [
+    "chapter-09",
+    "chapter-11"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/structures/sister-chromatids.md",
+  "summary": "The two identical copies of a chromosome produced by processes/dna-replication in processes/s-phase, held together at the centromere. They are separated during anaphase of mitosis or anaphase II of meiosis. They are not homologous chromosomes — they are exact copies of each other (apart from any rare replication errors).",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/structures/sister-chromatids.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    9,
+    11
+  ]
+}

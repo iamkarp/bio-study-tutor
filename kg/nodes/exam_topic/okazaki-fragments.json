@@ -1,0 +1,29 @@
+{
+  "id": "exam_topic:okazaki-fragments",
+  "type": "exam_topic",
+  "title": "Where do you find Okazaki fragments?",
+  "slug": "okazaki-fragments",
+  "aliases": [],
+  "tags": [
+    "exam-3",
+    "chapter-11"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/exam-topics/okazaki-fragments.md",
+  "summary": "",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/exam-topics/okazaki-fragments.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    11
+  ]
+}

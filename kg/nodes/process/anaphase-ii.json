@@ -1,0 +1,32 @@
+{
+  "id": "process:anaphase-ii",
+  "type": "process",
+  "title": "Anaphase II",
+  "slug": "anaphase-ii",
+  "aliases": [],
+  "tags": [
+    "chapter-09",
+    "meiosis"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/processes/anaphase-ii.md",
+  "summary": "Sister chromatids separate and move to opposite poles. Each chromatid is now a single (unduplicated) chromosome. If processes/nondisjunction occurs here (only in some of the cells from meiosis I), only some gametes will be abnormal — outcome: 1 with extra, 1 missing, 2 normal.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/processes/anaphase-ii.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    9
+  ],
+  "exam_topics": [
+    "meiosis-ii-phases"
+  ]
+}

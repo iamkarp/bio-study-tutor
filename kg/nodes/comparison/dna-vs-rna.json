@@ -1,0 +1,33 @@
+{
+  "id": "comparison:dna-vs-rna",
+  "type": "comparison",
+  "title": "DNA vs. RNA",
+  "slug": "dna-vs-rna",
+  "aliases": [],
+  "tags": [
+    "chapter-12",
+    "comparison"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/comparisons/dna-vs-rna.md",
+  "summary": "",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/comparisons/dna-vs-rna.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    11,
+    12
+  ],
+  "exam_topics": [
+    "dna-vs-rna-three-differences"
+  ]
+}

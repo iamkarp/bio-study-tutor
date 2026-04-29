@@ -1,0 +1,224 @@
+[
+  {
+    "label": "Ch 9 · Meiosis · Easy",
+    "scope": "chapter-9",
+    "difficulty": "easy",
+    "questions": [
+      {
+        "question": "How many rounds of DNA replication occur in meiosis?",
+        "choices": ["Zero", "One", "Two", "Four"],
+        "answer_index": 1,
+        "explanation": "DNA replicates exactly once, in S phase of interphase, BEFORE meiosis I begins. There is no replication between meiosis I and meiosis II."
+      },
+      {
+        "question": "How many haploid cells does meiosis produce from one diploid parent cell?",
+        "choices": ["1", "2", "3", "4"],
+        "answer_index": 3,
+        "explanation": "Meiosis I produces 2 haploid cells (separates homologous pairs); meiosis II then divides each into 2, yielding 4 haploid cells total."
+      },
+      {
+        "question": "In humans, sex is determined by:",
+        "choices": ["XX = male, XY = female", "XX = female, XY = male", "Number of autosomes", "X chromosome only"],
+        "answer_index": 1,
+        "explanation": "Humans have 22 pairs of autosomes and one pair of sex chromosomes. XX is female; XY is male. The Y chromosome carries the SRY gene that drives male development."
+      },
+      {
+        "question": "Crossing over occurs during which phase?",
+        "choices": ["Prophase I of meiosis", "Metaphase I of meiosis", "Anaphase II of meiosis", "Prophase of mitosis"],
+        "answer_index": 0,
+        "explanation": "Crossing over happens in prophase I, when homologous chromosomes pair up (synapsis) and exchange segments at chiasmata. This is a major source of genetic variation."
+      },
+      {
+        "question": "What separates during anaphase I of meiosis?",
+        "choices": ["Sister chromatids", "Homologous chromosomes", "Nuclear membranes", "Cytoplasm"],
+        "answer_index": 1,
+        "explanation": "Anaphase I separates HOMOLOGOUS PAIRS — sister chromatids stay attached at the centromere. Sister chromatids do not separate until anaphase II."
+      }
+    ]
+  },
+  {
+    "label": "Ch 10 · Inheritance · Medium",
+    "scope": "chapter-10",
+    "difficulty": "medium",
+    "questions": [
+      {
+        "question": "A heterozygous (Aa) individual produces gametes in what proportion?",
+        "choices": ["All A", "All a", "Half A, half a", "1/4 A, 3/4 a"],
+        "answer_index": 2,
+        "explanation": "Mendel's law of segregation: the two alleles separate during meiosis, so a heterozygote (Aa) produces gametes in a 1:1 ratio of A to a."
+      },
+      {
+        "question": "When two heterozygous parents (Aa × Aa) cross, what F2 phenotype ratio results (assuming complete dominance)?",
+        "choices": ["1:2:1", "3:1 dominant:recessive", "9:3:3:1", "All dominant"],
+        "answer_index": 1,
+        "explanation": "Genotype ratio is 1 AA : 2 Aa : 1 aa. With complete dominance, AA and Aa look the same → phenotype ratio is 3:1 dominant to recessive."
+      },
+      {
+        "question": "Red snapdragon × white snapdragon → all pink F1. This pattern is:",
+        "choices": ["Codominance", "Incomplete dominance", "X-linkage", "Pleiotropy"],
+        "answer_index": 1,
+        "explanation": "Incomplete dominance: heterozygotes show an intermediate (blended) phenotype. In codominance, both phenotypes appear simultaneously (e.g. AB blood type), not blended."
+      },
+      {
+        "question": "ABO blood typing demonstrates which inheritance pattern?",
+        "choices": ["Incomplete dominance", "Codominance", "Sex linkage", "Polygenic"],
+        "answer_index": 1,
+        "explanation": "I^A and I^B are codominant — heterozygotes (I^A I^B) display BOTH antigens on red blood cells, giving type AB blood. Both proteins are produced; neither masks the other."
+      },
+      {
+        "question": "Why are X-linked recessive disorders more common in males?",
+        "choices": ["Males have more X chromosomes", "Males inherit only X-linked genes", "Males have only one X, so any recessive allele is expressed", "Males' Y chromosomes also carry the genes"],
+        "answer_index": 2,
+        "explanation": "Females (XX) need two recessive alleles to express the trait. Males (XY) have only one X — any recessive allele on it is expressed because the Y carries no second copy of the gene."
+      }
+    ]
+  },
+  {
+    "label": "Ch 11 · DNA & Replication · Medium",
+    "scope": "chapter-11",
+    "difficulty": "medium",
+    "questions": [
+      {
+        "question": "If 30% of a DNA sample is adenine, what percentage is cytosine?",
+        "choices": ["30%", "20%", "70%", "Cannot determine"],
+        "answer_index": 1,
+        "explanation": "Chargaff's rule: %A = %T and %G = %C. So %A = 30% → %T = 30% → A+T = 60% → G+C = 40% → %C = 20%."
+      },
+      {
+        "question": "DNA polymerase III synthesizes new DNA in which direction?",
+        "choices": ["3' to 5'", "5' to 3'", "Both directions simultaneously", "Either direction"],
+        "answer_index": 1,
+        "explanation": "DNA polymerase III adds nucleotides only to the 3'-OH of the growing strand, building new DNA in the 5' → 3' direction. The template is read 3' → 5'."
+      },
+      {
+        "question": "Okazaki fragments are found on which strand?",
+        "choices": ["Leading strand only", "Lagging strand only", "Both strands", "Neither — only in RNA"],
+        "answer_index": 1,
+        "explanation": "Because the lagging strand must be synthesized away from the replication fork (due to the 5'→3' rule + antiparallel strands), it is built in short pieces called Okazaki fragments, later joined by DNA ligase."
+      },
+      {
+        "question": "Which enzyme replaces RNA primers with DNA nucleotides?",
+        "choices": ["DNA polymerase III", "DNA polymerase I", "DNA ligase", "Helicase"],
+        "answer_index": 1,
+        "explanation": "DNA polymerase I removes RNA primers and replaces them with DNA. DNA polymerase III does the main extension; DNA ligase seals the final gap between fragments."
+      },
+      {
+        "question": "Why do telomeres shorten with each cell division (in cells without telomerase)?",
+        "choices": ["DNA polymerase makes errors at the ends", "The lagging strand can't replicate to the very end", "Telomeres are unstable", "Helicase damages them"],
+        "answer_index": 1,
+        "explanation": "After the last RNA primer is removed from the lagging strand, there's no upstream 3'-OH for DNA polymerase to extend onto. The end gap can't be filled, so the chromosome shortens slightly each round."
+      }
+    ]
+  },
+  {
+    "label": "Ch 12 · How Genes Work · Medium",
+    "scope": "chapter-12",
+    "difficulty": "medium",
+    "questions": [
+      {
+        "question": "Which is NOT one of the three differences between RNA and DNA?",
+        "choices": ["RNA uses ribose; DNA uses deoxyribose", "RNA has uracil; DNA has thymine", "RNA is single-stranded; DNA is double-stranded", "RNA is found only in prokaryotes"],
+        "answer_index": 3,
+        "explanation": "RNA is found in all cells. The three actual differences: sugar (ribose vs. deoxyribose), base (U vs. T), and structure (single vs. double stranded)."
+      },
+      {
+        "question": "What enzyme catalyzes transcription?",
+        "choices": ["DNA polymerase", "RNA polymerase", "Ribosome", "Helicase"],
+        "answer_index": 1,
+        "explanation": "RNA polymerase binds the promoter, unwinds DNA, and synthesizes RNA 5'→3' using the DNA template strand."
+      },
+      {
+        "question": "What is the start codon, and what amino acid does it specify?",
+        "choices": ["AUG → methionine", "UAA → tyrosine", "GCC → glycine", "UGA → tryptophan"],
+        "answer_index": 0,
+        "explanation": "Every protein starts with methionine, encoded by AUG. The initiator tRNA carrying methionine pairs its anticodon (3'-UAC-5') with the start codon."
+      },
+      {
+        "question": "What happens to introns during mRNA processing?",
+        "choices": ["They're translated into protein", "They stay in the mRNA permanently", "They're spliced out before mRNA leaves the nucleus", "They become tRNA"],
+        "answer_index": 2,
+        "explanation": "Introns are 'intervening' sequences — they're transcribed into pre-mRNA but spliced out by the spliceosome. Only exons remain in mature mRNA and reach the ribosome."
+      },
+      {
+        "question": "A single-base substitution that changes the 6th amino acid of beta-hemoglobin from glutamate to valine causes:",
+        "choices": ["Cystic fibrosis", "Sickle cell anemia", "Down syndrome", "Marfan syndrome"],
+        "answer_index": 1,
+        "explanation": "Sickle cell anemia is the textbook example of a missense substitution (GAG -> GTG, Glu -> Val). The hydrophobic valine causes hemoglobin to aggregate under low oxygen, deforming red blood cells."
+      }
+    ]
+  },
+  {
+    "label": "Ch 13 · Biotechnology · Medium",
+    "scope": "chapter-13",
+    "difficulty": "medium",
+    "questions": [
+      {
+        "question": "PCR doubles DNA copies per cycle. After 10 cycles, how many copies of the target sequence?",
+        "choices": ["20", "100", "1024", "1,000,000"],
+        "answer_index": 2,
+        "explanation": "Each cycle doubles, so after n cycles you have 2^n copies. 2^10 = 1024."
+      },
+      {
+        "question": "Which is NOT a required PCR component?",
+        "choices": ["Target DNA", "Heat-stable DNA polymerase", "Ribosomes", "Free dNTPs and primers"],
+        "answer_index": 2,
+        "explanation": "PCR is cell-free. Required: target template, heat-stable polymerase (e.g. Taq), free nucleotides (dNTPs), and two primers flanking the target."
+      },
+      {
+        "question": "What is the function of the 95 degree C step in PCR?",
+        "choices": ["Anneal primers", "Extend new DNA", "Denature DNA strands", "Activate the polymerase"],
+        "answer_index": 2,
+        "explanation": "Denaturation: 95C breaks the hydrogen bonds between the two DNA strands, separating them. Then ~55C anneals primers, and ~72C extends new DNA."
+      },
+      {
+        "question": "Why are 13 STR loci used in DNA profiling?",
+        "choices": ["More are too expensive", "13 STRs give ~1-in-a-trillion uniqueness", "13 is the number of human chromosome pairs", "Only 13 STRs exist in the genome"],
+        "answer_index": 1,
+        "explanation": "Each STR has a count that varies between individuals. Across 13 unlinked loci, the chance of two unrelated people matching is ~1 in a trillion."
+      },
+      {
+        "question": "In gel electrophoresis, smaller DNA fragments:",
+        "choices": ["Move slower than larger ones", "Move faster, traveling farther", "Don't move at all", "Move toward the negative electrode"],
+        "answer_index": 1,
+        "explanation": "DNA's negatively charged backbone migrates toward the positive electrode. Smaller fragments slip through the agarose gel mesh more easily, traveling farther in a fixed time."
+      }
+    ]
+  },
+  {
+    "label": "Mixed · Hard · 5 challenging questions",
+    "scope": "all",
+    "difficulty": "hard",
+    "questions": [
+      {
+        "question": "If nondisjunction occurs in meiosis II of one of the two cells from meiosis I, what is the outcome of the four final gametes?",
+        "choices": ["All four abnormal", "2 normal, 1 with extra, 1 missing chromosome", "All four normal", "3 abnormal, 1 normal"],
+        "answer_index": 1,
+        "explanation": "Nondisjunction in meiosis II affects only one of the two meiosis-I daughter cells. That cell produces two abnormal gametes (1 extra, 1 missing). The other meiosis-I daughter divides normally, giving 2 normal gametes."
+      },
+      {
+        "question": "Given the DNA template strand 3'-TACGGT-5', the mRNA produced will be:",
+        "choices": ["5'-AUGCCA-3'", "5'-TACGGT-3'", "5'-UACGGU-3'", "3'-AUGCCA-5'"],
+        "answer_index": 0,
+        "explanation": "RNA is complementary to the template (A-U, T-A, G-C, C-G) and antiparallel. Template 3'-TACGGT-5' -> RNA 5'-AUGCCA-3'. Note this happens to start with AUG (a start codon)."
+      },
+      {
+        "question": "An autosomal-recessive carrier mother (Aa) and a homozygous recessive (aa) father have a child. What is the probability the child is a carrier?",
+        "choices": ["0%", "25%", "50%", "100%"],
+        "answer_index": 2,
+        "explanation": "Aa x aa produces 1/2 Aa (carrier) and 1/2 aa (affected). The child has a 50% chance of being a carrier, 50% chance of being affected."
+      },
+      {
+        "question": "A frameshift mutation is most likely to be catastrophic because:",
+        "choices": ["It increases mRNA length", "Every amino acid downstream changes", "It always creates a stop codon immediately", "It prevents transcription"],
+        "answer_index": 1,
+        "explanation": "Codons are read in groups of three. An insertion or deletion not divisible by 3 shifts the reading frame, so EVERY codon downstream is wrong - usually with an early premature stop codon."
+      },
+      {
+        "question": "Why can a carrier (Aa) female with an X-linked recessive disease pass the disease to her sons but not daughters (when crossed with an unaffected X^H Y male)?",
+        "choices": ["Y chromosome carries the trait", "Sons inherit the X from her — 50% chance of getting the diseased X^a", "Daughters can't inherit X-linked alleles", "Mothers don't pass alleles to daughters"],
+        "answer_index": 1,
+        "explanation": "Sons inherit Y from dad and X from mom. Mom (X^A X^a) passes X^A or X^a with equal probability - 50% chance of an affected son. Daughters get X^A from dad (unaffected) and X^A or X^a from mom - at most carriers, never affected."
+      }
+    ]
+  }
+]

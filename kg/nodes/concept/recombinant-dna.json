@@ -1,0 +1,28 @@
+{
+  "id": "concept:recombinant-dna",
+  "type": "concept",
+  "title": "Recombinant DNA",
+  "slug": "recombinant-dna",
+  "aliases": [],
+  "tags": [
+    "chapter-13"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/concepts/recombinant-dna.md",
+  "summary": "DNA composed of segments from different sources joined together. Created in the lab — for example, splicing a human insulin gene into a bacterial structures/plasmid so the bacterium produces human insulin. One of the first major tools of concepts/genetic-engineering.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/concepts/recombinant-dna.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    13
+  ]
+}

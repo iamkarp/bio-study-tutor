@@ -1,0 +1,32 @@
+{
+  "id": "concept:crossover-probability",
+  "type": "concept",
+  "title": "Crossover Probability",
+  "slug": "crossover-probability",
+  "aliases": [],
+  "tags": [
+    "chapter-10",
+    "recombination"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/concepts/crossover-probability.md",
+  "summary": "The probability of processes/crossing-over occurring between two genes is proportional to the distance between them on the chromosome. Genes far apart cross over often; closely linked genes cross over rarely. This is the basis for genetic mapping — frequencies of recombination are translated into distances (centimorgans).",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/concepts/crossover-probability.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    10
+  ],
+  "exam_topics": [
+    "crossing-over-and-linkage"
+  ]
+}

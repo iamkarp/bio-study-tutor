@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "kg/schema/node.base.schema.json",
+  "title": "BaseNode",
+  "description": "Universal attributes every KG node must have.",
+  "type": "object",
+  "required": ["id", "type", "title", "slug", "status", "wiki_path"],
+  "additionalProperties": true,
+  "properties": {
+    "id": {"type": "string", "pattern": "^[a-z_]+:[a-z0-9-]+$"},
+    "type": {
+      "type": "string",
+      "enum": [
+        "chapter", "exam_topic", "concept", "process", "structure", "molecule",
+        "enzyme", "term", "inheritance_pattern", "experiment", "person",
+        "disease", "technique", "principle", "comparison", "source"
+      ]
+    },
+    "title": {"type": "string"},
+    "aliases": {"type": "array", "items": {"type": "string"}, "default": []},
+    "slug": {"type": "string", "pattern": "^[a-z0-9-]+$"},
+    "tags": {"type": "array", "items": {"type": "string"}, "default": []},
+    "status": {"type": "string", "enum": ["draft", "active", "stale", "deprecated", "archived"]},
+    "created": {"type": "string"},
+    "updated": {"type": "string"},
+    "summary": {"type": "string"},
+    "wiki_path": {"type": "string"},
+    "chapters": {"type": "array", "items": {"type": ["integer", "string"]}, "default": []},
+    "exam_topics": {"type": "array", "items": {"type": "string"}, "default": []},
+    "source_refs": {"type": "array", "default": []},
+    "confidence": {"type": "number", "minimum": 0, "maximum": 1, "default": 1.0},
+    "provenance": {"type": "object"},
+    "version": {"type": "integer", "minimum": 1, "default": 1}
+  }
+}

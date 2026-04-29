@@ -1,0 +1,32 @@
+{
+  "id": "process:prophase-ii",
+  "type": "process",
+  "title": "Prophase II",
+  "slug": "prophase-ii",
+  "aliases": [],
+  "tags": [
+    "chapter-09",
+    "meiosis"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/processes/prophase-ii.md",
+  "summary": "The first stage of meiosis II. Chromosomes recondense (if they had decondensed in telophase I), the spindle re-forms, and microtubules capture the duplicated chromosomes. Kinetochores of sister chromatids attach to opposite poles (in contrast to metaphase I, where each whole chromosome attached to one pole). No crossing over at this stage.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/processes/prophase-ii.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    9
+  ],
+  "exam_topics": [
+    "meiosis-ii-phases"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "exam_topic:introns-exons",
+  "type": "exam_topic",
+  "title": "What are introns and exons? Which leave the nucleus?",
+  "slug": "introns-exons",
+  "aliases": [],
+  "tags": [
+    "exam-3",
+    "chapter-12",
+    "splicing"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/exam-topics/introns-exons.md",
+  "summary": "",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/exam-topics/introns-exons.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    12
+  ]
+}

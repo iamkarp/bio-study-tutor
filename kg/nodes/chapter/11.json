@@ -1,0 +1,33 @@
+{
+  "id": "chapter:11",
+  "type": "chapter",
+  "title": "Chapter 11 — DNA Structure and Replication",
+  "slug": "11",
+  "aliases": [
+    "Chapter 11"
+  ],
+  "tags": [
+    "chapter-11",
+    "dna",
+    "replication",
+    "molecular-biology"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/chapters/chapter-11.md",
+  "summary": "Chapter 11 establishes DNA as the genetic material (Griffith's transformation experiment), describes the nucleotide structure (phosphate, deoxyribose, nitrogenous base) and the antiparallel double helix held together by complementary base pairing (A-T, G-C). It then walks through the enzymes and mechanism of semiconservative DNA replication, leading vs. lagging strand synthesis with Okazaki fragme",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/chapters/chapter-11.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    11
+  ]
+}

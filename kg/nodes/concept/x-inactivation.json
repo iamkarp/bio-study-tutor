@@ -1,0 +1,29 @@
+{
+  "id": "concept:x-inactivation",
+  "type": "concept",
+  "title": "X-Inactivation",
+  "slug": "x-inactivation",
+  "aliases": [],
+  "tags": [
+    "chapter-10",
+    "dosage-compensation"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/concepts/x-inactivation.md",
+  "summary": "A mechanism for dosage compensation: in each cell of an XX individual, one of the two X chromosomes is randomly silenced (\"inactivated\") early in development and condensed into a Barr body. This prevents double-dosing of X-linked gene products.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/concepts/x-inactivation.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    10
+  ]
+}

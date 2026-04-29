@@ -1,0 +1,33 @@
+{
+  "id": "concept:deletion-mutation",
+  "type": "concept",
+  "title": "Deletion Mutation",
+  "slug": "deletion-mutation",
+  "aliases": [],
+  "tags": [
+    "chapter-12",
+    "mutation"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/concepts/deletion-mutation.md",
+  "summary": "A mutation in which one or more bases are removed from the DNA sequence. Multiple-of-3 deletions remove whole amino acids without shifting the frame; non-multiple-of-3 deletions cause a concepts/frameshift-mutation|frameshift downstream.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/concepts/deletion-mutation.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    12
+  ],
+  "exam_topics": [
+    "types-of-mutations-dna",
+    "mutations-affect-protein"
+  ]
+}

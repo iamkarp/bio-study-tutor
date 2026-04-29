@@ -1,0 +1,32 @@
+{
+  "id": "structure:exon",
+  "type": "structure",
+  "title": "Exon",
+  "slug": "exon",
+  "aliases": [],
+  "tags": [
+    "chapter-12",
+    "mrna"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/structures/exon.md",
+  "summary": "\"Expressed\" DNA sequences within a gene. Exons stay in the mature mRNA after splicing and are translated into protein. Through concepts/alternative-splicing, a single gene's exons can be assembled in different combinations to produce multiple protein isoforms.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/structures/exon.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    12
+  ],
+  "exam_topics": [
+    "introns-exons"
+  ]
+}

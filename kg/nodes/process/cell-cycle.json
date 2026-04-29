@@ -1,0 +1,32 @@
+{
+  "id": "process:cell-cycle",
+  "type": "process",
+  "title": "Cell Cycle",
+  "slug": "cell-cycle",
+  "aliases": [],
+  "tags": [
+    "chapter-11",
+    "cell-cycle"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/processes/cell-cycle.md",
+  "summary": "The ordered sequence of events a cell goes through from one division to the next. Composed of interphase (G1 → S → G2) followed by M phase (mitosis or meiosis).",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/processes/cell-cycle.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    11
+  ],
+  "exam_topics": [
+    "when-replication-occurs"
+  ]
+}

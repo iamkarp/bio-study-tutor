@@ -1,0 +1,98 @@
+[
+  {
+    "label": "Ch 9 · Meiosis essentials · 10 cards",
+    "scope": "chapter-9",
+    "cards": [
+      {"front": "What does meiosis produce?", "back": "Four genetically unique haploid (n) gametes from one diploid (2n) parent cell. One round of DNA replication, two rounds of division."},
+      {"front": "Crossing over: what, when, why?", "back": "**What**: exchange of DNA between non-sister chromatids of homologous chromosomes at chiasmata.\n**When**: prophase I.\n**Why**: generates new allele combinations (genetic recombination)."},
+      {"front": "Anaphase I vs. anaphase II", "back": "**Anaphase I** separates homologous chromosomes (sister chromatids stay together).\n**Anaphase II** separates sister chromatids."},
+      {"front": "Independent assortment — cellular mechanism", "back": "In metaphase I, each homologous pair orients randomly relative to other pairs. With 23 pairs in humans, 2^23 ≈ 8.4 million combinations per gamete (before crossing over)."},
+      {"front": "Sex chromosomes", "back": "**XX** = female, **XY** = male. The Y chromosome carries the SRY gene that triggers male development. 22 pairs of autosomes are the same in both sexes."},
+      {"front": "Nondisjunction outcomes", "back": "**Meiosis I**: ALL FOUR gametes abnormal (2 extra, 2 missing).\n**Meiosis II**: 2 normal + 2 abnormal (1 extra, 1 missing). Trisomy 21 → Down syndrome."},
+      {"front": "Haploid vs. diploid (numbers)", "back": "Human haploid (n) = 23 chromosomes (gametes).\nHuman diploid (2n) = 46 chromosomes (somatic cells)."},
+      {"front": "Why sexual reproduction?", "back": "Generates genetic diversity → at least some offspring survive when conditions change (disease, climate, predators). Asexual = clones, vulnerable to a single threat."},
+      {"front": "Sister chromatids vs. homologous chromosomes", "back": "**Sister chromatids** = identical copies of one chromosome (made in S phase), joined at centromere.\n**Homologous chromosomes** = matching pair (one maternal, one paternal); same genes, possibly different alleles."},
+      {"front": "Compare metaphase I, II, and mitotic metaphase", "back": "**Met I**: homologous PAIRS at equator (random orientation = independent assortment).\n**Met II** & **mitotic met**: single duplicated chromosomes lined up — but met II starts haploid."}
+    ]
+  },
+  {
+    "label": "Ch 10 · Genetics vocabulary · 10 cards",
+    "scope": "chapter-10",
+    "cards": [
+      {"front": "Genotype vs. phenotype", "back": "**Genotype**: the two alleles for a gene (e.g. YY, Yy, yy).\n**Phenotype**: the observable trait (yellow seed, green seed). Same phenotype can come from different genotypes."},
+      {"front": "Homozygous vs. heterozygous", "back": "**Homozygous**: two identical alleles (YY or yy).\n**Heterozygous**: one of each (Yy). Heterozygotes can be carriers — unaffected but able to pass a recessive disease allele."},
+      {"front": "Mendel's law of segregation", "back": "The two alleles for a gene separate during meiosis, so each gamete gets only one. Cellular basis: anaphase I separates homologous chromosomes. Heterozygote (Aa) → 1:1 gametes."},
+      {"front": "Mendel's law of independent assortment", "back": "Alleles for one gene segregate into gametes independently of alleles for another (different) gene. Cellular basis: random orientation of pairs at metaphase I."},
+      {"front": "True breeding (= pure breeding)", "back": "An organism whose self-fertilized offspring all show the same trait. True-breeding individuals are HOMOZYGOUS for the gene."},
+      {"front": "P, F1, F2 generations", "back": "**P**: parental (true-breeding).\n**F1**: first filial — hybrid offspring of P. From YY×yy, all F1 = Yy (heterozygous, dominant phenotype).\n**F2**: F1 self-cross → 3:1 dominant:recessive."},
+      {"front": "Incomplete dominance vs. codominance", "back": "**Incomplete**: heterozygote shows BLENDED intermediate (red × white → pink).\n**Codominance**: BOTH phenotypes appear simultaneously (I^A I^B → type AB blood, both A and B antigens)."},
+      {"front": "Polygenic vs. pleiotropy", "back": "**Polygenic**: ONE trait controlled by MANY genes (e.g. skin color, height) — continuous variation.\n**Pleiotropy**: ONE gene with MANY unrelated effects (e.g. Marfan syndrome → tall stature + lens dislocation + aortic aneurysm)."},
+      {"front": "X-linked recessive — why males more affected?", "back": "Females (XX) need two copies to express. Males (XY) have only one X — any recessive X-linked allele is expressed because Y carries no copy. Males CANNOT be carriers."},
+      {"front": "X-inactivation (Lyon hypothesis)", "back": "In each cell of an XX individual, ONE X is randomly inactivated → Barr body. Prevents double-dosing of X-linked gene products. Why female calicos have patchy fur and why Rett syndrome severity varies in girls."}
+    ]
+  },
+  {
+    "label": "Ch 11 · DNA structure & replication · 10 cards",
+    "scope": "chapter-11",
+    "cards": [
+      {"front": "Three components of a DNA nucleotide", "back": "1. Phosphate group (PO₄⁻)\n2. Deoxyribose sugar (5-carbon)\n3. Nitrogenous base (A, T, G, or C)\nThe sugar-phosphate backbone faces the EXTERIOR; bases face the INTERIOR."},
+      {"front": "Base-pairing rules + bond counts", "back": "**A pairs with T** via 2 hydrogen bonds.\n**G pairs with C** via 3 hydrogen bonds.\nIn RNA, **U replaces T** (so A pairs with U)."},
+      {"front": "Chargaff's rule", "back": "%A = %T and %G = %C in any double-stranded DNA. So if T = 20%, then A = 20%, G + C = 60% → G = C = 30%."},
+      {"front": "Antiparallel strands", "back": "The two DNA strands run in opposite 5' → 3' directions. This is why one new strand is leading (continuous) and the other is lagging (Okazaki fragments)."},
+      {"front": "DNA replication enzymes (mnemonic: HSL-PPL)", "back": "**H**elicase: unwinds helix.\n**S**SB: stabilizes single strands.\n**L**(topoiso) topoisomerase: relieves tension ahead of fork.\n**P**rimase: lays RNA primer.\n**P**ol III: extends DNA 5'→3' (proofreads).\n**P**ol I: replaces RNA primers with DNA.\n**L**igase: seals gaps."},
+      {"front": "Leading vs. lagging strand", "back": "**Leading**: continuous, toward replication fork, one primer.\n**Lagging**: away from fork, in Okazaki fragments, multiple primers. Both reasons stem from DNA pol III's 5'→3' rule + antiparallel template."},
+      {"front": "Semiconservative replication", "back": "Each daughter helix has ONE original (template) strand and ONE newly synthesized strand. Confirmed by the Meselson-Stahl experiment (1958)."},
+      {"front": "Why telomeres shorten", "back": "After the last RNA primer is removed from the lagging strand, no upstream 3'-OH exists for DNA pol to extend — the end gap can't fill. Each replication clips a small piece off linear chromosomes."},
+      {"front": "Telomerase — what it does and where", "back": "Adds repetitive DNA (TTAGGG) to the 3' end of telomeres using its own RNA template. Active in **germ cells, stem cells, ~85% of cancers**. Inactive in most adult somatic cells."},
+      {"front": "S phase, the cell cycle, and replication", "back": "DNA replicates ONCE during **S (synthesis) phase** of interphase. Cell cycle: G1 → S → G2 → M (mitosis or meiosis). Same mechanism whether mitosis or meiosis follows."}
+    ]
+  },
+  {
+    "label": "Ch 12 · How genes work · 10 cards",
+    "scope": "chapter-12",
+    "cards": [
+      {"front": "Central dogma", "back": "**DNA → (transcription) → RNA → (translation) → Protein**.\nTranscription happens in the nucleus by RNA polymerase. Translation happens at ribosomes in the cytoplasm."},
+      {"front": "DNA vs. RNA — three differences", "back": "1. **Sugar**: ribose (RNA) vs. deoxyribose (DNA).\n2. **Base**: U in RNA replaces T.\n3. **Strands**: RNA single-stranded; DNA double-stranded helix."},
+      {"front": "Three classes of RNA", "back": "**mRNA**: messenger — carries the gene's message to the ribosome.\n**tRNA**: transfer — adaptor, brings amino acids to the ribosome (anticodon ↔ codon).\n**rRNA**: ribosomal — structural + catalytic component of the ribosome (a ribozyme)."},
+      {"front": "Three steps of transcription", "back": "**Initiation**: RNA polymerase binds the promoter (with transcription factors in eukaryotes), unwinds DNA.\n**Elongation**: builds RNA 5'→3' from template strand.\n**Termination**: at terminator sequence, everything dissociates."},
+      {"front": "mRNA processing — what's added/removed", "back": "1. **5' cap** (modified G) — ribosome recognition, stability.\n2. **3' poly-A tail** (~100-250 A's) — stability, export.\n3. **Splicing** — introns removed, exons joined. Alternative splicing → multiple proteins from one gene."},
+      {"front": "Three steps of translation", "back": "**Initiation**: small subunit + initiator tRNA(Met) bind 5' cap, scan to AUG; large subunit joins.\n**Elongation**: tRNA enters A site, peptide bond forms (catalyzed by rRNA), ribosome shifts.\n**Termination**: stop codon → release factor → polypeptide released."},
+      {"front": "Start and stop codons", "back": "**Start**: AUG → methionine. Every protein starts with Met.\n**Stop**: UAA, UAG, UGA → no amino acid; release factor binds. Mnemonic: U Are Away · U Are Gone · U Go Away."},
+      {"front": "Codon — what is it?", "back": "A 3-nucleotide sequence on mRNA that specifies one amino acid. 64 codons total: 61 code for amino acids, 3 are stop codons. The genetic code is REDUNDANT (most amino acids have multiple codons)."},
+      {"front": "Mutation types and impacts", "back": "**Substitution**: silent / missense / nonsense.\n**Insertion** or **Deletion**: in-frame = mild; not multiple of 3 = **frameshift** (every downstream codon changed; usually catastrophic).\nClassic example: **sickle cell** = single A→T substitution (Glu → Val)."},
+      {"front": "Eukaryotic gene regulation — 6 levels", "back": "1. Chromatin packing (histones)\n2. Transcription factors\n3. Alternative splicing\n4. mRNA export from nucleus\n5. mRNA stability + microRNA silencing\n6. Post-translational (folding, modification, degradation)"}
+    ]
+  },
+  {
+    "label": "Ch 13 · Biotechnology · 10 cards",
+    "scope": "chapter-13",
+    "cards": [
+      {"front": "PCR — what it does", "back": "Polymerase Chain Reaction: amplifies a SPECIFIC DNA sequence exponentially. Each cycle DOUBLES the target. After n cycles → 2ⁿ copies. Invented by Kary Mullis (Nobel 1993)."},
+      {"front": "PCR — four required ingredients", "back": "1. **Target DNA** (template)\n2. **Heat-stable DNA polymerase** (Taq)\n3. **dNTPs** (free nucleotides)\n4. **Primers** (two short DNAs flanking the target)"},
+      {"front": "PCR — three temperature steps", "back": "1. **Denaturation @ ~95°C** — H-bonds break, strands separate\n2. **Annealing @ ~55°C** — primers bind to single strands\n3. **Extension @ ~72°C** — Taq polymerase synthesizes new DNA from primers"},
+      {"front": "Why heat-stable polymerase for PCR?", "back": "The 95°C denaturation step would destroy ordinary DNA polymerase. Taq polymerase from *Thermus aquaticus* (a hot-spring bacterium) survives the cycling temperatures."},
+      {"front": "Gel electrophoresis — separating principle", "back": "DNA is negatively charged (phosphate backbone) → migrates toward + electrode. SMALLER fragments slip through agarose mesh faster, traveling FARTHER in the same time. Result: bands by size."},
+      {"front": "Short Tandem Repeat (STR)", "back": "A short DNA sequence (2-6 bp) repeated head-to-tail many times. The NUMBER of repeats varies between individuals. CODIS uses 13 STR loci → 1-in-a-trillion uniqueness for DNA profiling."},
+      {"front": "DNA sequencing (Sanger method)", "back": "Replicate the unknown DNA with normal nucleotides + dye-labeled chain-terminator nucleotides. Each position produces fragments of one length, color-coded by terminal base. Run on a gel and read sequence."},
+      {"front": "Biotechnology vs. genetic engineering", "back": "**Biotechnology**: any use of organisms or biomolecules for human purposes (PCR, vaccines, GMO, fingerprinting).\n**Genetic engineering**: SUBSET — direct alteration of an organism's genome (recombinant DNA, CRISPR)."},
+      {"front": "Recombinant DNA — why useful?", "back": "Joining DNA from different sources → e.g. inserting human insulin gene into a bacterial plasmid lets the bacterium produce human insulin cheaply at scale."},
+      {"front": "Human Genome Project — key facts", "back": "Sequenced ALL 3 billion human DNA bases by 2003 (started 1990). Found ~19,949 genes (far fewer than predicted). Genes are only ~2% of the genome — most DNA is non-coding."}
+    ]
+  },
+  {
+    "label": "Mixed · Comparison drills · 10 cards",
+    "scope": "all",
+    "cards": [
+      {"front": "Mitosis vs. meiosis (one-line answer)", "back": "**Mitosis**: 2 identical diploid cells (growth/repair).\n**Meiosis**: 4 unique haploid cells (gametes for sexual reproduction)."},
+      {"front": "Transcription vs. translation", "back": "**Transcription**: DNA → RNA, in nucleus, by RNA polymerase.\n**Translation**: mRNA → protein, in cytoplasm at ribosomes, using tRNA adaptors."},
+      {"front": "DNA replication vs. transcription (5 differences)", "back": "Replication: copies ALL DNA, makes DNA, uses DNA pol III, RNA primer needed, creates 2 identical helices.\nTranscription: copies ONE gene, makes RNA, uses RNA pol, no primer, creates 1 RNA strand."},
+      {"front": "Prokaryote vs. eukaryote DNA replication", "back": "**Prokaryotes**: single circular chromosome, ONE origin, often + plasmids, fast (~1000 nt/s).\n**Eukaryotes**: multiple linear chromosomes, MANY origins, slower (~50 nt/s) but parallelized."},
+      {"front": "Leading vs. lagging strand", "back": "**Leading**: continuous, toward fork, ONE primer.\n**Lagging**: discontinuous, away from fork, MULTIPLE primers (one per Okazaki fragment), needs DNA pol I + ligase to finish."},
+      {"front": "Incomplete dominance vs. codominance — visualize blood", "back": "**Incomplete**: blend (red + white → pink). One blended phenotype.\n**Codominance**: both visible (A-antigen + B-antigen → type AB blood). Two distinct phenotypes simultaneously."},
+      {"front": "Sister chromatids vs. homologues", "back": "**Sister chromatids**: identical copies of ONE chromosome (formed in S phase, joined at centromere).\n**Homologues**: same chromosome NUMBER but different ORIGINS (one maternal, one paternal); same genes, possibly different alleles."},
+      {"front": "Anaphase I vs. anaphase II vs. mitotic anaphase", "back": "**Ana I**: separates HOMOLOGUES (chromatids stay together).\n**Ana II** & **mitotic**: separate SISTER CHROMATIDS. Identical mechanism; ana II just starts haploid."},
+      {"front": "Introns vs. exons (mnemonic)", "back": "**Ex**ons stay = **EX**pressed (in mature mRNA, code for protein).\n**In**trons go = **IN**tervening (spliced out, never reach the ribosome).\nAlternative splicing of exons → multiple proteins from one gene."},
+      {"front": "Substitution vs. frameshift mutation", "back": "**Substitution** (point): one base swapped. Effect ranges from silent (codon redundancy) to missense (sickle cell) to nonsense (premature stop).\n**Frameshift**: insertion/deletion not divisible by 3 → reading frame shifts → ALL downstream codons change → usually catastrophic."}
+    ]
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "id": "concept:monozygotic-twins",
+  "type": "concept",
+  "title": "Monozygotic (Identical) Twins",
+  "slug": "monozygotic-twins",
+  "aliases": [],
+  "tags": [
+    "chapter-09"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/concepts/monozygotic-twins.md",
+  "summary": "Identical twins. A single fertilized egg (zygote) splits in two early in development; each half develops independently. Both twins share virtually identical DNA (apart from rare somatic mutations). Always the same sex.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/concepts/monozygotic-twins.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    9
+  ]
+}

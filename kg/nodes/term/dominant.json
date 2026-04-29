@@ -1,0 +1,32 @@
+{
+  "id": "term:dominant",
+  "type": "term",
+  "title": "Dominant Allele",
+  "slug": "dominant",
+  "aliases": [],
+  "tags": [
+    "chapter-10",
+    "vocabulary"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/terms/dominant.md",
+  "summary": "An allele whose effect appears whenever it is present — even in heterozygotes (Yy shows the dominant phenotype). Mendel called this trait the \"dominant\" of the pair. Dominant alleles typically encode functional proteins, whereas recessive alleles often encode non-functional or absent products.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/terms/dominant.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    10
+  ],
+  "exam_topics": [
+    "inheritance-vocabulary"
+  ]
+}

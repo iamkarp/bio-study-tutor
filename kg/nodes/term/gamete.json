@@ -1,0 +1,32 @@
+{
+  "id": "term:gamete",
+  "type": "term",
+  "title": "Gamete",
+  "slug": "gamete",
+  "aliases": [],
+  "tags": [
+    "chapter-09",
+    "vocabulary"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/terms/gamete.md",
+  "summary": "A haploid reproductive cell — sperm in males, eggs in females. Gametes are produced by processes/meiosis from diploid germ cells. Two gametes fuse at fertilization to form a diploid zygote.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/terms/gamete.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    9
+  ],
+  "exam_topics": [
+    "gamete-allele-distribution"
+  ]
+}

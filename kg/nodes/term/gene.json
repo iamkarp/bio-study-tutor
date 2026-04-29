@@ -1,0 +1,34 @@
+{
+  "id": "term:gene",
+  "type": "term",
+  "title": "Gene",
+  "slug": "gene",
+  "aliases": [],
+  "tags": [
+    "chapter-10",
+    "chapter-12",
+    "vocabulary"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/terms/gene.md",
+  "summary": "A sequence of DNA that encodes a specific protein (or a functional RNA, like tRNA/rRNA). The basic unit of heredity. Genes occupy specific positions (terms/locus|loci) on chromosomes; diploid cells have two copies of each gene (one on each homologous chromosome) which may be the same or different terms/allele|alleles.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/terms/gene.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    10,
+    12
+  ],
+  "exam_topics": [
+    "inheritance-vocabulary"
+  ]
+}

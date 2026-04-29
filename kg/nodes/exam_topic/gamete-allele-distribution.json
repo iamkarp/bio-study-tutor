@@ -1,0 +1,29 @@
+{
+  "id": "exam_topic:gamete-allele-distribution",
+  "type": "exam_topic",
+  "title": "How are alleles distributed into gametes? If a parent is Pp...",
+  "slug": "gamete-allele-distribution",
+  "aliases": [],
+  "tags": [
+    "exam-3",
+    "chapter-10"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/exam-topics/gamete-allele-distribution.md",
+  "summary": "",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/exam-topics/gamete-allele-distribution.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    10
+  ]
+}

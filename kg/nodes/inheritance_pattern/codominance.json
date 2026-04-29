@@ -1,0 +1,32 @@
+{
+  "id": "inheritance_pattern:codominance",
+  "type": "inheritance_pattern",
+  "title": "Codominance",
+  "slug": "codominance",
+  "aliases": [],
+  "tags": [
+    "chapter-10",
+    "non-mendelian"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/inheritance/codominance.md",
+  "summary": "A non-Mendelian inheritance pattern in which both alleles are fully expressed in the heterozygote — neither masks the other. Both proteins are produced and both phenotypes are visible simultaneously (not blended).",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/inheritance/codominance.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    10
+  ],
+  "exam_topics": [
+    "abo-codominance"
+  ]
+}

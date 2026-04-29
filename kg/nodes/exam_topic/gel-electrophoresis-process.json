@@ -1,0 +1,30 @@
+{
+  "id": "exam_topic:gel-electrophoresis-process",
+  "type": "exam_topic",
+  "title": "Describe the process of gel electrophoresis",
+  "slug": "gel-electrophoresis-process",
+  "aliases": [],
+  "tags": [
+    "exam-3",
+    "chapter-13",
+    "gel"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/exam-topics/gel-electrophoresis-process.md",
+  "summary": "",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/exam-topics/gel-electrophoresis-process.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    13
+  ]
+}

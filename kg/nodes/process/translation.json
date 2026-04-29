@@ -1,0 +1,33 @@
+{
+  "id": "process:translation",
+  "type": "process",
+  "title": "Translation",
+  "slug": "translation",
+  "aliases": [],
+  "tags": [
+    "chapter-12",
+    "gene-expression"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/processes/translation.md",
+  "summary": "The process by which a structures/ribosome reads an molecules/mrna template in 3-nucleotide codons and assembles a corresponding protein. Catalysis is performed by the molecules/rrna in the large ribosomal subunit (a ribozyme). Occurs in the cytoplasm (free ribosomes) or on the rough ER.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/processes/translation.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    12
+  ],
+  "exam_topics": [
+    "translation-process",
+    "transcription-vs-translation"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "concept:environment-and-phenotype",
+  "type": "concept",
+  "title": "Environment Affects Phenotype",
+  "slug": "environment-and-phenotype",
+  "aliases": [],
+  "tags": [
+    "chapter-10",
+    "phenotype"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/concepts/environment-and-phenotype.md",
+  "summary": "Genotype is fixed; phenotype is genotype × environment. Many genes have phenotypic effects that depend on temperature, nutrition, light, or other environmental conditions.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/concepts/environment-and-phenotype.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    10
+  ],
+  "exam_topics": [
+    "environment-regulates-phenotype"
+  ]
+}

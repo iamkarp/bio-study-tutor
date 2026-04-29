@@ -1,0 +1,32 @@
+{
+  "id": "molecule:dna",
+  "type": "molecule",
+  "title": "DNA (Deoxyribonucleic Acid)",
+  "slug": "dna",
+  "aliases": [
+    "deoxyribonucleic acid"
+  ],
+  "tags": [
+    "chapter-11",
+    "dna"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/molecules/dna.md",
+  "summary": "The molecule that stores the information cells need to make proteins. DNA is a double-stranded helix (structures/double-helix) of nucleotides. Each nucleotide consists of a structures/phosphate-group, a molecules/deoxyribose sugar, and one of four structures/nitrogenous-base|nitrogenous bases: molecules/adenine|A, molecules/thymine|T, molecules/guanine|G, molecules/cytosine|C.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/molecules/dna.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    11,
+    12
+  ]
+}

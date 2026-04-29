@@ -1,0 +1,30 @@
+{
+  "id": "exam_topic:sex-chromosomes",
+  "type": "exam_topic",
+  "title": "What are the sex chromosomes? What makes someone female vs. male?",
+  "slug": "sex-chromosomes",
+  "aliases": [],
+  "tags": [
+    "exam-3",
+    "chapter-09",
+    "sex-determination"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/exam-topics/sex-chromosomes.md",
+  "summary": "",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/exam-topics/sex-chromosomes.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    9
+  ]
+}

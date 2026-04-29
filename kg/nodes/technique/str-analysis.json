@@ -1,0 +1,33 @@
+{
+  "id": "technique:str-analysis",
+  "type": "technique",
+  "title": "STR Analysis (DNA Profiling)",
+  "slug": "str-analysis",
+  "aliases": [],
+  "tags": [
+    "chapter-13",
+    "forensics"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/techniques/str-analysis.md",
+  "summary": "A forensic technique that identifies individuals by analyzing concepts/short-tandem-repeat|short tandem repeats (STRs) at multiple genomic loci. The standard CODIS panel uses 13 STR loci.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/techniques/str-analysis.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    13
+  ],
+  "exam_topics": [
+    "short-tandem-repeats",
+    "gel-electrophoresis-process"
+  ]
+}

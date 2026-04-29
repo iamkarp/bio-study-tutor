@@ -1,0 +1,30 @@
+{
+  "id": "experiment:griffith-experiment",
+  "type": "experiment",
+  "title": "Griffith's Bacterial Transformation Experiment",
+  "slug": "griffith-experiment",
+  "aliases": [],
+  "tags": [
+    "chapter-11",
+    "history",
+    "dna-discovery"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/experiments/griffith-experiment.md",
+  "summary": "Frederick Griffith worked with two strains of Streptococcus pneumoniae:\n- Smooth (S) strain — virulent (kills mice)\n- Rough (R) strain — harmless",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/experiments/griffith-experiment.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    11
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "structure:origin-of-replication",
+  "type": "structure",
+  "title": "Origin of Replication",
+  "slug": "origin-of-replication",
+  "aliases": [
+    "ORI",
+    "origin"
+  ],
+  "tags": [
+    "chapter-11",
+    "replication"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/structures/origin-of-replication.md",
+  "summary": "A specific DNA sequence where DNA replication starts. Helicase opens the helix here, creating a structures/replication-bubble with two outward-moving structures/replication-fork|replication forks.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/structures/origin-of-replication.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    11
+  ],
+  "exam_topics": [
+    "origin-of-replication-prokaryote-eukaryote"
+  ]
+}

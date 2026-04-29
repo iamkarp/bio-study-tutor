@@ -1,0 +1,30 @@
+{
+  "id": "exam_topic:punnett-cross-genotype-phenotype",
+  "type": "exam_topic",
+  "title": "For a given cross (e.g. TT × tt), draw genotypes and phenotypes for F1 and F2",
+  "slug": "punnett-cross-genotype-phenotype",
+  "aliases": [],
+  "tags": [
+    "exam-3",
+    "chapter-10",
+    "punnett-square"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/exam-topics/punnett-cross-genotype-phenotype.md",
+  "summary": "",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/exam-topics/punnett-cross-genotype-phenotype.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    10
+  ]
+}

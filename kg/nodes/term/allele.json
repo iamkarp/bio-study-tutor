@@ -1,0 +1,34 @@
+{
+  "id": "term:allele",
+  "type": "term",
+  "title": "Allele",
+  "slug": "allele",
+  "aliases": [],
+  "tags": [
+    "chapter-09",
+    "chapter-10",
+    "vocabulary"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/terms/allele.md",
+  "summary": "An alternative version of a gene. Diploid cells carry two alleles per gene (one on each homologous chromosome); they may be the same (terms/homozygous|homozygous) or different (terms/heterozygous|heterozygous). Alleles can be terms/dominant|dominant (effect appears in heterozygotes) or terms/recessive|recessive (effect masked when a dominant is present).",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/terms/allele.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    9,
+    10
+  ],
+  "exam_topics": [
+    "inheritance-vocabulary"
+  ]
+}

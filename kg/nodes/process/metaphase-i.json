@@ -1,0 +1,34 @@
+{
+  "id": "process:metaphase-i",
+  "type": "process",
+  "title": "Metaphase I",
+  "slug": "metaphase-i",
+  "aliases": [],
+  "tags": [
+    "chapter-09",
+    "meiosis"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/processes/metaphase-i.md",
+  "summary": "Homologous chromosome pairs line up at the cell equator. Each homologue is attached by spindle microtubules to the opposite pole from its partner. Maternal/paternal orientation is random across pairs — this is the cellular basis of principles/law-of-independent-assortment.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/processes/metaphase-i.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    9
+  ],
+  "exam_topics": [
+    "meiosis-i-phases",
+    "law-of-independent-assortment",
+    "metaphase-comparison"
+  ]
+}

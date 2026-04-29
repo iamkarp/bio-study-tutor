@@ -1,0 +1,24 @@
+---
+id: principle:codon-redundancy
+type: principle
+title: Codon Redundancy
+slug: codon-redundancy-principle
+aliases: ["degeneracy of the genetic code"]
+tags: [chapter-12]
+status: active
+created: 2026-04-29
+updated: 2026-04-29
+chapters: [12]
+---
+
+# Codon Redundancy
+
+## Summary
+Most amino acids are encoded by **more than one codon**. With 64 codons but only 20 amino acids, this redundancy means many point mutations (especially in the 3rd position of a codon) produce the **same amino acid** — these are **silent mutations** with no effect on the protein.
+
+Example: leucine has 6 codons (UUA, UUG, CUU, CUC, CUA, CUG). A 3rd-position substitution within the CUx group typically doesn't change the amino acid.
+
+See [[concepts/codon-redundancy]] (synonym; same content reused).
+
+## Sources
+- [[../raw/extracted/chapter-12-how-genes-work]] slide 56

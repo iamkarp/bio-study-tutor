@@ -1,0 +1,29 @@
+{
+  "id": "disease:cystic-fibrosis",
+  "type": "disease",
+  "title": "Cystic Fibrosis",
+  "slug": "cystic-fibrosis",
+  "aliases": [],
+  "tags": [
+    "chapter-10",
+    "autosomal-recessive"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/diseases/cystic-fibrosis.md",
+  "summary": "An autosomal-recessive genetic disorder caused by mutations in the CFTR gene on chromosome 7. CFTR encodes a chloride channel; the mutated version produces thick mucus that clogs the lungs and pancreas. Carriers (heterozygotes) are unaffected; only homozygous-recessive individuals show the disease.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/diseases/cystic-fibrosis.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    10
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "enzyme:dna-polymerase-iii",
+  "type": "enzyme",
+  "title": "DNA Polymerase III",
+  "slug": "dna-polymerase-iii",
+  "aliases": [
+    "DNA pol III"
+  ],
+  "tags": [
+    "chapter-11",
+    "replication"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/enzymes/dna-polymerase-iii.md",
+  "summary": "The main enzyme of DNA replication — adds new nucleotides to the 3' end of a primer or growing strand, building DNA in the 5' → 3' direction. Has 3' → 5' exonuclease (proofreading) activity that catches mismatches: error rate drops from ~1 per 10³ nt to ~1 per 10⁷ nt after proofreading. Cannot start a chain from scratch — requires a primer.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/enzymes/dna-polymerase-iii.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    11
+  ],
+  "exam_topics": [
+    "replication-enzyme-functions",
+    "leading-vs-lagging-strand",
+    "template-direction-and-synthesis"
+  ]
+}

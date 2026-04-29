@@ -1,0 +1,30 @@
+{
+  "id": "exam_topic:dna-vs-rna-three-differences",
+  "type": "exam_topic",
+  "title": "Three ways RNA differs from DNA",
+  "slug": "dna-vs-rna-three-differences",
+  "aliases": [],
+  "tags": [
+    "exam-3",
+    "chapter-12",
+    "comparison"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/exam-topics/dna-vs-rna-three-differences.md",
+  "summary": "",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/exam-topics/dna-vs-rna-three-differences.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    12
+  ]
+}

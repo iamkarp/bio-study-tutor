@@ -1,0 +1,32 @@
+{
+  "id": "structure:replication-fork",
+  "type": "structure",
+  "title": "Replication Fork",
+  "slug": "replication-fork",
+  "aliases": [],
+  "tags": [
+    "chapter-11",
+    "replication"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/structures/replication-fork.md",
+  "summary": "The Y-shaped structure where the DNA double helix is being unwound during replication — one side is the still-paired parental duplex, the other is the two separated strands being copied. enzymes/dna-helicase|Helicase does the unwinding at the fork; replication proceeds outward from the structures/origin-of-replication.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/structures/replication-fork.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    11
+  ],
+  "exam_topics": [
+    "leading-vs-lagging-strand"
+  ]
+}

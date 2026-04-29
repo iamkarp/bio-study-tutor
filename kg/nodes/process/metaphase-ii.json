@@ -1,0 +1,33 @@
+{
+  "id": "process:metaphase-ii",
+  "type": "process",
+  "title": "Metaphase II",
+  "slug": "metaphase-ii",
+  "aliases": [],
+  "tags": [
+    "chapter-09",
+    "meiosis"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/processes/metaphase-ii.md",
+  "summary": "Duplicated chromosomes line up singly (not in pairs) at the equator, perpendicular to the spindle. This is mechanically very similar to mitotic metaphase, but it occurs in haploid cells with one copy of each chromosome (still as sister chromatids).",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/processes/metaphase-ii.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    9
+  ],
+  "exam_topics": [
+    "meiosis-ii-phases",
+    "metaphase-comparison"
+  ]
+}

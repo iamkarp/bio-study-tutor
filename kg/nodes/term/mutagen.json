@@ -1,0 +1,32 @@
+{
+  "id": "term:mutagen",
+  "type": "term",
+  "title": "Mutagen",
+  "slug": "mutagen",
+  "aliases": [],
+  "tags": [
+    "chapter-11",
+    "vocabulary"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/terms/mutagen.md",
+  "summary": "Any agent that increases the rate of mutation in DNA. Examples: UV light, X-rays, gamma radiation, tobacco smoke, certain industrial chemicals (benzene, formaldehyde), some viruses. Mutagens damage bases or the DNA backbone, leading to errors during replication.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/terms/mutagen.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    11
+  ],
+  "exam_topics": [
+    "mutagen"
+  ]
+}

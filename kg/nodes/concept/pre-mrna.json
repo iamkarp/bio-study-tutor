@@ -1,0 +1,34 @@
+{
+  "id": "concept:pre-mrna",
+  "type": "concept",
+  "title": "Pre-mRNA",
+  "slug": "pre-mrna",
+  "aliases": [
+    "primary transcript"
+  ],
+  "tags": [
+    "chapter-12",
+    "mrna"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/concepts/pre-mrna.md",
+  "summary": "The initial transcript produced by RNA polymerase from a eukaryotic gene — longer than the final message because it contains both structures/intron|introns and structures/exon|exons. Before it can leave the nucleus and be translated, pre-mRNA undergoes processes/rna-processing:\n1. 5' cap added (structures/mrna-cap)\n2. 3' poly-A tail added (structures/poly-a-tail)\n3. processes/splicing|Introns spli",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/concepts/pre-mrna.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    12
+  ],
+  "exam_topics": [
+    "pre-mrna"
+  ]
+}

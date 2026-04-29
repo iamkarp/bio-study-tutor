@@ -1,0 +1,34 @@
+{
+  "id": "term:diploid",
+  "type": "term",
+  "title": "Diploid (2n)",
+  "slug": "diploid",
+  "aliases": [
+    "2n"
+  ],
+  "tags": [
+    "chapter-09",
+    "vocabulary"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/terms/diploid.md",
+  "summary": "A cell with two copies of each chromosome (two sets, denoted 2n) — one inherited from each parent. Human diploid cells (somatic cells) have 46 chromosomes (2n=46). Most body cells are diploid; only gametes are haploid.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/terms/diploid.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    9
+  ],
+  "exam_topics": [
+    "outcome-meiosis-i"
+  ]
+}

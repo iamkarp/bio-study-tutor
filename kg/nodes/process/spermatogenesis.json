@@ -1,0 +1,29 @@
+{
+  "id": "process:spermatogenesis",
+  "type": "process",
+  "title": "Spermatogenesis",
+  "slug": "spermatogenesis",
+  "aliases": [],
+  "tags": [
+    "chapter-09",
+    "gametogenesis"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/processes/spermatogenesis.md",
+  "summary": "Meiosis in males. A diploid spermatogonium undergoes meiosis to produce four haploid sperm cells of roughly equal size. Occurs in the testes throughout adult life.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/processes/spermatogenesis.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    9
+  ]
+}

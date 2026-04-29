@@ -1,0 +1,13 @@
+Chapter*.pptx
+Chapter*.PPTX
+Study Guide*.docx
+Study Guide*.DOCX
+raw/*.pptx
+raw/*.docx
+__pycache__/
+*.pyc
+.git/
+.DS_Store
+rsconnect-python/
+.shiny/
+node_modules/

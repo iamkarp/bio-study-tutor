@@ -1,0 +1,35 @@
+{
+  "id": "process:meiosis-i",
+  "type": "process",
+  "title": "Meiosis I",
+  "slug": "meiosis-i",
+  "aliases": [
+    "reductive division"
+  ],
+  "tags": [
+    "chapter-09",
+    "meiosis"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/processes/meiosis-i.md",
+  "summary": "The first of meiosis's two divisions. Meiosis I separates homologous chromosomes (one of each pair to each daughter cell), reducing chromosome number from diploid to haploid. Sister chromatids stay attached.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/processes/meiosis-i.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    9
+  ],
+  "exam_topics": [
+    "outcome-meiosis-i",
+    "meiosis-i-phases"
+  ]
+}

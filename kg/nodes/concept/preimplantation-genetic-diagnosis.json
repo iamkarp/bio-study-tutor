@@ -1,0 +1,31 @@
+{
+  "id": "concept:preimplantation-genetic-diagnosis",
+  "type": "concept",
+  "title": "Preimplantation Genetic Diagnosis (PGD)",
+  "slug": "preimplantation-genetic-diagnosis",
+  "aliases": [
+    "PGD"
+  ],
+  "tags": [
+    "chapter-13",
+    "medicine"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/concepts/preimplantation-genetic-diagnosis.md",
+  "summary": "A technique used during in vitro fertilization (IVF) to screen embryos for genetic disorders before implantation. A single cell is removed from the embryo at the 8-cell stage; its DNA is amplified by techniques/pcr and tested with DNA probes for specific genetic conditions (cystic fibrosis, Huntington's, etc.). Only embryos free of the disorder are implanted.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/concepts/preimplantation-genetic-diagnosis.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    13
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "term:phenotype",
+  "type": "term",
+  "title": "Phenotype",
+  "slug": "phenotype",
+  "aliases": [],
+  "tags": [
+    "chapter-10",
+    "vocabulary"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/terms/phenotype.md",
+  "summary": "The observable characteristics of an organism (color, shape, behavior, biochemistry). Phenotype is the result of genotype + environment — see concepts/environment-and-phenotype (Siamese cat fur color is the classic example). For a gene with complete dominance, both YY and Yy give the same phenotype but different genotypes.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/terms/phenotype.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    10
+  ],
+  "exam_topics": [
+    "punnett-cross-genotype-phenotype",
+    "environment-regulates-phenotype"
+  ]
+}

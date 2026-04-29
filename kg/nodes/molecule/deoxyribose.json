@@ -1,0 +1,32 @@
+{
+  "id": "molecule:deoxyribose",
+  "type": "molecule",
+  "title": "Deoxyribose",
+  "slug": "deoxyribose",
+  "aliases": [],
+  "tags": [
+    "chapter-11",
+    "dna"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/molecules/deoxyribose.md",
+  "summary": "The 5-carbon sugar in a DNA nucleotide. \"Deoxy\" means it lacks an –OH at the 2' position (compared to ribose, which has it). The carbons are numbered 1' through 5':\n- 5' carbon — attached to the structures/phosphate-group.\n- 3' carbon — has the –OH that gets linked to the next nucleotide's phosphate (this is what DNA polymerase extends).\n- 1' carbon — attached to the structures/nitrogenous-base.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/molecules/deoxyribose.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    11
+  ],
+  "exam_topics": [
+    "nucleotide-components"
+  ]
+}

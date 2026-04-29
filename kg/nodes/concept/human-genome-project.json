@@ -1,0 +1,31 @@
+{
+  "id": "concept:human-genome-project",
+  "type": "concept",
+  "title": "Human Genome Project",
+  "slug": "human-genome-project",
+  "aliases": [
+    "HGP"
+  ],
+  "tags": [
+    "chapter-13",
+    "genomics"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/concepts/human-genome-project.md",
+  "summary": "An international research effort to determine the complete nucleotide sequence of all human DNA (~3 billion bases). Launched 1990, finished 2003 with 99.99% accuracy. Findings:",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/concepts/human-genome-project.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    13
+  ]
+}

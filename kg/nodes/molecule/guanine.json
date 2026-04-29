@@ -1,0 +1,34 @@
+{
+  "id": "molecule:guanine",
+  "type": "molecule",
+  "title": "Guanine (G)",
+  "slug": "guanine",
+  "aliases": [
+    "G"
+  ],
+  "tags": [
+    "chapter-11",
+    "base"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/molecules/guanine.md",
+  "summary": "A purine (double-ring) nitrogenous base. Pairs with cytosine (C) via 3 hydrogen bonds. Present in both DNA and RNA.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/molecules/guanine.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    11
+  ],
+  "exam_topics": [
+    "four-nucleotides"
+  ]
+}

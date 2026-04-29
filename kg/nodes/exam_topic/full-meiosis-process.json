@@ -1,0 +1,30 @@
+{
+  "id": "exam_topic:full-meiosis-process",
+  "type": "exam_topic",
+  "title": "Explain the entire process of meiosis end-to-end",
+  "slug": "full-meiosis-process",
+  "aliases": [],
+  "tags": [
+    "exam-3",
+    "chapter-09",
+    "meiosis"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/exam-topics/full-meiosis-process.md",
+  "summary": "",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/exam-topics/full-meiosis-process.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    9
+  ]
+}

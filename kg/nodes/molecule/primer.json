@@ -1,0 +1,37 @@
+{
+  "id": "molecule:primer",
+  "type": "molecule",
+  "title": "Primer",
+  "slug": "primer",
+  "aliases": [
+    "RNA primer",
+    "PCR primer"
+  ],
+  "tags": [
+    "chapter-11",
+    "chapter-13"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/molecules/primer.md",
+  "summary": "A short single-stranded nucleic acid that provides a free 3'-OH for enzymes/dna-polymerase-iii|DNA polymerase to extend.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/molecules/primer.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    11,
+    13
+  ],
+  "exam_topics": [
+    "pcr-components",
+    "replication-enzyme-functions"
+  ]
+}

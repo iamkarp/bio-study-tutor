@@ -1,0 +1,34 @@
+{
+  "id": "structure:sex-chromosomes",
+  "type": "structure",
+  "title": "Sex Chromosomes",
+  "slug": "sex-chromosomes",
+  "aliases": [
+    "sex chromosome"
+  ],
+  "tags": [
+    "chapter-09",
+    "sex-determination"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/structures/sex-chromosomes.md",
+  "summary": "The pair of chromosomes that determine biological sex in mammals. Humans have one pair (the 23rd pair):\n- structures/x-chromosome|XX = female\n- structures/x-chromosome|Xstructures/y-chromosome|Y = male",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/structures/sex-chromosomes.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    9
+  ],
+  "exam_topics": [
+    "sex-chromosomes"
+  ]
+}

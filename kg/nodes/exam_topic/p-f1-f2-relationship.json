@@ -1,0 +1,30 @@
+{
+  "id": "exam_topic:p-f1-f2-relationship",
+  "type": "exam_topic",
+  "title": "Relationship between P, F1, and F2 generations",
+  "slug": "p-f1-f2-relationship",
+  "aliases": [],
+  "tags": [
+    "exam-3",
+    "chapter-10",
+    "mendel"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/exam-topics/p-f1-f2-relationship.md",
+  "summary": "",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/exam-topics/p-f1-f2-relationship.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    10
+  ]
+}

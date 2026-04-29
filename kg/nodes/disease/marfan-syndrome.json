@@ -1,0 +1,29 @@
+{
+  "id": "disease:marfan-syndrome",
+  "type": "disease",
+  "title": "Marfan Syndrome",
+  "slug": "marfan-syndrome",
+  "aliases": [],
+  "tags": [
+    "chapter-10",
+    "pleiotropy"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/diseases/marfan-syndrome.md",
+  "summary": "An autosomal-dominant disorder caused by mutations in the fibrillin-1 (FBN1) gene. The textbook example of terms/pleiotropy|pleiotropy — one gene with multiple, seemingly unrelated effects:\n- Tall stature, long limbs, long fingers (arachnodactyly)\n- Lens dislocation in the eye\n- Aortic aneurysm and other cardiovascular issues\n- Joint hyperflexibility",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/diseases/marfan-syndrome.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    10
+  ]
+}

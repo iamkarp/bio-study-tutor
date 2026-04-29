@@ -1,0 +1,32 @@
+{
+  "id": "term:homozygous",
+  "type": "term",
+  "title": "Homozygous",
+  "slug": "homozygous",
+  "aliases": [],
+  "tags": [
+    "chapter-10",
+    "vocabulary"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/terms/homozygous.md",
+  "summary": "Carrying two identical alleles for a given gene. Subtypes:\n- Homozygous dominant (e.g. YY) — two dominant alleles.\n- Homozygous recessive (e.g. yy) — two recessive alleles; this is when a recessive trait is expressed.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/terms/homozygous.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    10
+  ],
+  "exam_topics": [
+    "inheritance-vocabulary"
+  ]
+}

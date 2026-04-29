@@ -1,0 +1,5184 @@
+{
+  "chapter:09": [
+    {
+      "source": "chapter:09",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "source:study-guide-exam-3",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "comparison:mitosis-vs-meiosis",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "concept:dizygotic-twins",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "concept:heteropaternal-superfecundation",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "concept:monozygotic-twins",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "concept:sexual-reproduction-advantages",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "disease:down-syndrome",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:crossing-over",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:full-meiosis-process",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:law-of-independent-assortment",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:meiosis-i-phases",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:meiosis-ii-phases",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:metaphase-comparison",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:nondisjunction",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:outcome-meiosis-i",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:outcome-meiosis-ii",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:rounds-of-division-in-meiosis",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:rounds-of-replication-in-meiosis",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:sex-chromosomes",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:sexual-reproduction-survival",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "principle:law-of-independent-assortment",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:anaphase-i",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:anaphase-ii",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:crossing-over",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:meiosis-i",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:meiosis-ii",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:meiosis",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:metaphase-i",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:metaphase-ii",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:mitosis",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:nondisjunction",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:oogenesis",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:prophase-i",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:prophase-ii",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:spermatogenesis",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:telophase-i",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:telophase-ii",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "structure:autosome",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "structure:chiasmata",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "structure:chromosome",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "structure:homologous-chromosomes",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "structure:sex-chromosomes",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "structure:sister-chromatids",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "structure:x-chromosome",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "structure:y-chromosome",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "term:allele",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "term:chromatid",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "term:diploid",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "term:gamete",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "term:genetic-recombination",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "term:haploid",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "term:independent-assortment",
+      "relation": "mentioned_in"
+    }
+  ],
+  "concept:sexual-reproduction-advantages": [
+    {
+      "source": "chapter:09",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:sexual-reproduction-survival",
+      "relation": "covers"
+    }
+  ],
+  "structure:sex-chromosomes": [
+    {
+      "source": "chapter:09",
+      "relation": "related_to"
+    },
+    {
+      "source": "source:study-guide-exam-3",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:sex-chromosomes",
+      "relation": "covers"
+    },
+    {
+      "source": "structure:autosome",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "structure:chromosome",
+      "relation": "related_to"
+    }
+  ],
+  "structure:x-chromosome": [
+    {
+      "source": "chapter:09",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:sex-chromosomes",
+      "relation": "covers"
+    },
+    {
+      "source": "structure:sex-chromosomes",
+      "relation": "mentioned_in"
+    }
+  ],
+  "structure:y-chromosome": [
+    {
+      "source": "chapter:09",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:sex-chromosomes",
+      "relation": "covers"
+    },
+    {
+      "source": "structure:sex-chromosomes",
+      "relation": "mentioned_in"
+    }
+  ],
+  "structure:homologous-chromosomes": [
+    {
+      "source": "chapter:09",
+      "relation": "related_to"
+    },
+    {
+      "source": "process:crossing-over",
+      "relation": "related_to"
+    },
+    {
+      "source": "process:prophase-i",
+      "relation": "related_to"
+    }
+  ],
+  "term:allele": [
+    {
+      "source": "chapter:09",
+      "relation": "related_to"
+    },
+    {
+      "source": "chapter:10",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:inheritance-vocabulary",
+      "relation": "covers"
+    },
+    {
+      "source": "term:gene",
+      "relation": "mentioned_in"
+    }
+  ],
+  "process:cell-cycle": [
+    {
+      "source": "chapter:09",
+      "relation": "related_to"
+    },
+    {
+      "source": "chapter:11",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:when-replication-occurs",
+      "relation": "covers"
+    },
+    {
+      "source": "process:s-phase",
+      "relation": "mentioned_in"
+    }
+  ],
+  "process:meiosis": [
+    {
+      "source": "chapter:09",
+      "relation": "related_to"
+    },
+    {
+      "source": "comparison:mitosis-vs-meiosis",
+      "relation": "compared_to"
+    },
+    {
+      "source": "exam_topic:full-meiosis-process",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:replication-mitosis-vs-meiosis",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:rounds-of-division-in-meiosis",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:rounds-of-replication-in-meiosis",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:sexual-reproduction-survival",
+      "relation": "covers"
+    },
+    {
+      "source": "process:cell-cycle",
+      "relation": "part_of"
+    },
+    {
+      "source": "process:mitosis",
+      "relation": "compared_to"
+    },
+    {
+      "source": "term:gamete",
+      "relation": "mentioned_in"
+    }
+  ],
+  "process:meiosis-i": [
+    {
+      "source": "chapter:09",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:full-meiosis-process",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:gamete-allele-distribution",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:nondisjunction",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:outcome-meiosis-i",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:rounds-of-division-in-meiosis",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:meiosis-i-phases",
+      "relation": "covers"
+    },
+    {
+      "source": "process:meiosis",
+      "relation": "part_of"
+    },
+    {
+      "source": "structure:homologous-chromosomes",
+      "relation": "mentioned_in"
+    }
+  ],
+  "process:prophase-i": [
+    {
+      "source": "chapter:09",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:crossing-over",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:meiosis-i-phases",
+      "relation": "covers"
+    },
+    {
+      "source": "process:meiosis-i",
+      "relation": "part_of"
+    },
+    {
+      "source": "structure:chiasmata",
+      "relation": "mentioned_in"
+    }
+  ],
+  "process:metaphase-i": [
+    {
+      "source": "chapter:09",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:law-of-independent-assortment",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:meiosis-i-phases",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:metaphase-comparison",
+      "relation": "covers"
+    },
+    {
+      "source": "principle:law-of-independent-assortment",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:meiosis-i",
+      "relation": "part_of"
+    }
+  ],
+  "process:anaphase-i": [
+    {
+      "source": "chapter:09",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:meiosis-i-phases",
+      "relation": "covers"
+    },
+    {
+      "source": "principle:law-of-segregation",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:meiosis-i",
+      "relation": "part_of"
+    }
+  ],
+  "process:telophase-i": [
+    {
+      "source": "chapter:09",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:meiosis-i-phases",
+      "relation": "covers"
+    },
+    {
+      "source": "process:meiosis-i",
+      "relation": "part_of"
+    }
+  ],
+  "process:meiosis-ii": [
+    {
+      "source": "chapter:09",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:full-meiosis-process",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:nondisjunction",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:outcome-meiosis-ii",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:rounds-of-division-in-meiosis",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:meiosis-ii-phases",
+      "relation": "covers"
+    },
+    {
+      "source": "process:meiosis",
+      "relation": "part_of"
+    }
+  ],
+  "process:prophase-ii": [
+    {
+      "source": "chapter:09",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:meiosis-ii-phases",
+      "relation": "covers"
+    },
+    {
+      "source": "process:meiosis-ii",
+      "relation": "part_of"
+    }
+  ],
+  "process:metaphase-ii": [
+    {
+      "source": "chapter:09",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:meiosis-ii-phases",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:metaphase-comparison",
+      "relation": "covers"
+    },
+    {
+      "source": "process:meiosis-ii",
+      "relation": "part_of"
+    },
+    {
+      "source": "process:metaphase-i",
+      "relation": "compared_to"
+    }
+  ],
+  "process:anaphase-ii": [
+    {
+      "source": "chapter:09",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:meiosis-ii-phases",
+      "relation": "covers"
+    },
+    {
+      "source": "process:meiosis-ii",
+      "relation": "part_of"
+    }
+  ],
+  "process:telophase-ii": [
+    {
+      "source": "chapter:09",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:meiosis-ii-phases",
+      "relation": "covers"
+    },
+    {
+      "source": "process:meiosis-ii",
+      "relation": "part_of"
+    }
+  ],
+  "process:crossing-over": [
+    {
+      "source": "chapter:09",
+      "relation": "related_to"
+    },
+    {
+      "source": "source:study-guide-exam-3",
+      "relation": "related_to"
+    },
+    {
+      "source": "concept:crossover-probability",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "concept:gene-linkage",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:crossing-over-and-linkage",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:crossing-over-and-linkage",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:crossing-over",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:full-meiosis-process",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:meiosis-i-phases",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:meiosis-i-phases",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:sexual-reproduction-survival",
+      "relation": "covers"
+    },
+    {
+      "source": "principle:law-of-independent-assortment",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:meiosis-i",
+      "relation": "part_of"
+    },
+    {
+      "source": "process:meiosis",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:prophase-i",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:prophase-i",
+      "relation": "related_to"
+    },
+    {
+      "source": "structure:chiasmata",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "term:genetic-recombination",
+      "relation": "mentioned_in"
+    }
+  ],
+  "principle:law-of-independent-assortment": [
+    {
+      "source": "chapter:09",
+      "relation": "related_to"
+    },
+    {
+      "source": "chapter:10",
+      "relation": "related_to"
+    },
+    {
+      "source": "source:study-guide-exam-3",
+      "relation": "related_to"
+    },
+    {
+      "source": "concept:dihybrid-cross",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "concept:gene-linkage",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:crossing-over",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:full-meiosis-process",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:gene-linkage",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:gene-linkage",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:independent-assortment-in-inheritance",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:law-of-independent-assortment",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:meiosis-i-phases",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:meiosis-i-phases",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:sexual-reproduction-survival",
+      "relation": "covers"
+    },
+    {
+      "source": "experiment:mendel-pea-experiment",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "person:gregor-mendel",
+      "relation": "related_to"
+    },
+    {
+      "source": "process:crossing-over",
+      "relation": "covers"
+    },
+    {
+      "source": "process:meiosis-i",
+      "relation": "part_of"
+    },
+    {
+      "source": "process:meiosis",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:metaphase-i",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "term:independent-assortment",
+      "relation": "mentioned_in"
+    }
+  ],
+  "process:nondisjunction": [
+    {
+      "source": "chapter:09",
+      "relation": "related_to"
+    },
+    {
+      "source": "source:study-guide-exam-3",
+      "relation": "related_to"
+    },
+    {
+      "source": "disease:down-syndrome",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:nondisjunction",
+      "relation": "covers"
+    },
+    {
+      "source": "process:anaphase-i",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:anaphase-ii",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:meiosis",
+      "relation": "mentioned_in"
+    }
+  ],
+  "disease:down-syndrome": [
+    {
+      "source": "chapter:09",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:nondisjunction",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:nondisjunction",
+      "relation": "related_to"
+    },
+    {
+      "source": "process:meiosis",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:nondisjunction",
+      "relation": "mentioned_in"
+    }
+  ],
+  "comparison:mitosis-vs-meiosis": [
+    {
+      "source": "chapter:09",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:metaphase-comparison",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:replication-mitosis-vs-meiosis",
+      "relation": "covers"
+    },
+    {
+      "source": "process:meiosis",
+      "relation": "compared_to"
+    },
+    {
+      "source": "process:metaphase-i",
+      "relation": "compared_to"
+    },
+    {
+      "source": "process:mitosis",
+      "relation": "compared_to"
+    }
+  ],
+  "concept:monozygotic-twins": [
+    {
+      "source": "chapter:09",
+      "relation": "related_to"
+    }
+  ],
+  "concept:dizygotic-twins": [
+    {
+      "source": "chapter:09",
+      "relation": "related_to"
+    },
+    {
+      "source": "concept:heteropaternal-superfecundation",
+      "relation": "mentioned_in"
+    }
+  ],
+  "concept:heteropaternal-superfecundation": [
+    {
+      "source": "chapter:09",
+      "relation": "related_to"
+    }
+  ],
+  "process:spermatogenesis": [
+    {
+      "source": "chapter:09",
+      "relation": "related_to"
+    }
+  ],
+  "process:oogenesis": [
+    {
+      "source": "chapter:09",
+      "relation": "related_to"
+    }
+  ],
+  "term:haploid": [
+    {
+      "source": "chapter:09",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:outcome-meiosis-i",
+      "relation": "covers"
+    }
+  ],
+  "term:diploid": [
+    {
+      "source": "chapter:09",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:outcome-meiosis-i",
+      "relation": "covers"
+    },
+    {
+      "source": "term:haploid",
+      "relation": "mentioned_in"
+    }
+  ],
+  "term:gamete": [
+    {
+      "source": "chapter:09",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:gamete-allele-distribution",
+      "relation": "covers"
+    }
+  ],
+  "term:chromatid": [
+    {
+      "source": "chapter:09",
+      "relation": "related_to"
+    }
+  ],
+  "structure:sister-chromatids": [
+    {
+      "source": "chapter:09",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:outcome-meiosis-i",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:outcome-meiosis-ii",
+      "relation": "covers"
+    },
+    {
+      "source": "process:s-phase",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "structure:chromosome",
+      "relation": "mentioned_in"
+    }
+  ],
+  "structure:chiasmata": [
+    {
+      "source": "chapter:09",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:crossing-over",
+      "relation": "covers"
+    },
+    {
+      "source": "process:crossing-over",
+      "relation": "related_to"
+    },
+    {
+      "source": "process:prophase-i",
+      "relation": "related_to"
+    }
+  ],
+  "term:genetic-recombination": [
+    {
+      "source": "chapter:09",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:crossing-over",
+      "relation": "covers"
+    },
+    {
+      "source": "process:crossing-over",
+      "relation": "related_to"
+    },
+    {
+      "source": "process:prophase-i",
+      "relation": "related_to"
+    }
+  ],
+  "term:independent-assortment": [
+    {
+      "source": "chapter:09",
+      "relation": "related_to"
+    }
+  ],
+  "chapter:10": [
+    {
+      "source": "chapter:10",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "source:study-guide-exam-3",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "source:study-guide-exam-3",
+      "relation": "related_to"
+    },
+    {
+      "source": "concept:abo-blood-typing",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "concept:crossover-probability",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "concept:dihybrid-cross",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "concept:environment-and-phenotype",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "concept:epistasis",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "concept:gene-linkage",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "concept:monohybrid-cross",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "concept:x-inactivation",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "disease:albinism",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "disease:alkaptonuria",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "disease:color-blindness",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "disease:cystic-fibrosis",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "disease:marfan-syndrome",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "disease:rett-syndrome",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:abo-codominance",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:crossing-over-and-linkage",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:environment-regulates-phenotype",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:gamete-allele-distribution",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:gene-linkage",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:incomplete-dominance",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:independent-assortment-in-inheritance",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:inheritance-vocabulary",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:law-of-independent-assortment",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:mendel-cross-explanation",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:p-f1-f2-relationship",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:punnett-cross-genotype-phenotype",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:pure-breeding",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:sex-linked-punnett",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "experiment:mendel-pea-experiment",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "inheritance_pattern:codominance",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "inheritance_pattern:incomplete-dominance",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "inheritance_pattern:pleiotropy",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "inheritance_pattern:polygenic-trait",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "inheritance_pattern:sex-linked",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "inheritance_pattern:x-linked-recessive",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "person:gregor-mendel",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "principle:law-of-independent-assortment",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "principle:law-of-segregation",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:crossing-over",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "structure:homologous-chromosomes",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "structure:x-chromosome",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "technique:punnett-square",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "term:allele",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "term:carrier",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "term:dominant",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "term:f1-generation",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "term:f2-generation",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "term:gene",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "term:genotype",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "term:heterozygous",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "term:homozygous",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "term:independent-assortment",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "term:inheritance",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "term:locus",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "term:p-generation",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "term:phenotype",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "term:pleiotropy",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "term:polygenic",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "term:recessive",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "term:true-breeding",
+      "relation": "mentioned_in"
+    }
+  ],
+  "term:inheritance": [
+    {
+      "source": "chapter:10",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:inheritance-vocabulary",
+      "relation": "covers"
+    }
+  ],
+  "term:gene": [
+    {
+      "source": "chapter:10",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:inheritance-vocabulary",
+      "relation": "covers"
+    }
+  ],
+  "term:homozygous": [
+    {
+      "source": "chapter:10",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:inheritance-vocabulary",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:pure-breeding",
+      "relation": "covers"
+    },
+    {
+      "source": "term:allele",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "term:true-breeding",
+      "relation": "mentioned_in"
+    }
+  ],
+  "term:heterozygous": [
+    {
+      "source": "chapter:10",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:incomplete-dominance",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:inheritance-vocabulary",
+      "relation": "covers"
+    },
+    {
+      "source": "term:allele",
+      "relation": "mentioned_in"
+    }
+  ],
+  "term:dominant": [
+    {
+      "source": "chapter:10",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:inheritance-vocabulary",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:mendel-cross-explanation",
+      "relation": "covers"
+    },
+    {
+      "source": "term:allele",
+      "relation": "mentioned_in"
+    }
+  ],
+  "term:recessive": [
+    {
+      "source": "chapter:10",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:inheritance-vocabulary",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:mendel-cross-explanation",
+      "relation": "covers"
+    },
+    {
+      "source": "term:allele",
+      "relation": "mentioned_in"
+    }
+  ],
+  "term:genotype": [
+    {
+      "source": "chapter:10",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:punnett-cross-genotype-phenotype",
+      "relation": "covers"
+    }
+  ],
+  "term:phenotype": [
+    {
+      "source": "chapter:10",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:environment-regulates-phenotype",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:punnett-cross-genotype-phenotype",
+      "relation": "covers"
+    },
+    {
+      "source": "term:genotype",
+      "relation": "mentioned_in"
+    }
+  ],
+  "term:polygenic": [
+    {
+      "source": "chapter:10",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:inheritance-vocabulary",
+      "relation": "covers"
+    }
+  ],
+  "term:pleiotropy": [
+    {
+      "source": "chapter:10",
+      "relation": "related_to"
+    },
+    {
+      "source": "disease:marfan-syndrome",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:inheritance-vocabulary",
+      "relation": "covers"
+    },
+    {
+      "source": "inheritance_pattern:pleiotropy",
+      "relation": "mentioned_in"
+    }
+  ],
+  "term:carrier": [
+    {
+      "source": "chapter:10",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:inheritance-vocabulary",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:sex-linked-punnett",
+      "relation": "covers"
+    },
+    {
+      "source": "term:heterozygous",
+      "relation": "mentioned_in"
+    }
+  ],
+  "term:locus": [
+    {
+      "source": "chapter:10",
+      "relation": "related_to"
+    },
+    {
+      "source": "term:gene",
+      "relation": "mentioned_in"
+    }
+  ],
+  "experiment:mendel-pea-experiment": [
+    {
+      "source": "chapter:10",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:law-of-independent-assortment",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:mendel-cross-explanation",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:p-f1-f2-relationship",
+      "relation": "covers"
+    },
+    {
+      "source": "person:gregor-mendel",
+      "relation": "related_to"
+    }
+  ],
+  "person:gregor-mendel": [
+    {
+      "source": "chapter:10",
+      "relation": "related_to"
+    }
+  ],
+  "term:true-breeding": [
+    {
+      "source": "chapter:10",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:pure-breeding",
+      "relation": "covers"
+    },
+    {
+      "source": "term:homozygous",
+      "relation": "mentioned_in"
+    }
+  ],
+  "term:p-generation": [
+    {
+      "source": "chapter:10",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:p-f1-f2-relationship",
+      "relation": "covers"
+    }
+  ],
+  "term:f1-generation": [
+    {
+      "source": "chapter:10",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:p-f1-f2-relationship",
+      "relation": "covers"
+    }
+  ],
+  "term:f2-generation": [
+    {
+      "source": "chapter:10",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:p-f1-f2-relationship",
+      "relation": "covers"
+    }
+  ],
+  "technique:punnett-square": [
+    {
+      "source": "chapter:10",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:punnett-cross-genotype-phenotype",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:sex-linked-punnett",
+      "relation": "covers"
+    }
+  ],
+  "concept:monohybrid-cross": [
+    {
+      "source": "chapter:10",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:punnett-cross-genotype-phenotype",
+      "relation": "covers"
+    }
+  ],
+  "concept:dihybrid-cross": [
+    {
+      "source": "chapter:10",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:law-of-independent-assortment",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:independent-assortment-in-inheritance",
+      "relation": "covers"
+    }
+  ],
+  "principle:law-of-segregation": [
+    {
+      "source": "chapter:10",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:gamete-allele-distribution",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:gamete-allele-distribution",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:mendel-cross-explanation",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:mendel-cross-explanation",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:p-f1-f2-relationship",
+      "relation": "related_to"
+    },
+    {
+      "source": "experiment:mendel-pea-experiment",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "person:gregor-mendel",
+      "relation": "related_to"
+    }
+  ],
+  "inheritance_pattern:incomplete-dominance": [
+    {
+      "source": "chapter:10",
+      "relation": "related_to"
+    },
+    {
+      "source": "source:study-guide-exam-3",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:abo-codominance",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:incomplete-dominance",
+      "relation": "covers"
+    }
+  ],
+  "inheritance_pattern:codominance": [
+    {
+      "source": "chapter:10",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:abo-codominance",
+      "relation": "covers"
+    },
+    {
+      "source": "inheritance_pattern:incomplete-dominance",
+      "relation": "mentioned_in"
+    }
+  ],
+  "concept:abo-blood-typing": [
+    {
+      "source": "chapter:10",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:abo-codominance",
+      "relation": "covers"
+    },
+    {
+      "source": "inheritance_pattern:codominance",
+      "relation": "mentioned_in"
+    }
+  ],
+  "concept:epistasis": [
+    {
+      "source": "chapter:10",
+      "relation": "related_to"
+    }
+  ],
+  "inheritance_pattern:sex-linked": [
+    {
+      "source": "chapter:10",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:sex-linked-punnett",
+      "relation": "covers"
+    },
+    {
+      "source": "inheritance_pattern:x-linked-recessive",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "structure:sex-chromosomes",
+      "relation": "mentioned_in"
+    }
+  ],
+  "inheritance_pattern:x-linked-recessive": [
+    {
+      "source": "chapter:10",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:sex-linked-punnett",
+      "relation": "covers"
+    },
+    {
+      "source": "technique:punnett-square",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "term:carrier",
+      "relation": "mentioned_in"
+    }
+  ],
+  "concept:x-inactivation": [
+    {
+      "source": "chapter:10",
+      "relation": "related_to"
+    },
+    {
+      "source": "disease:rett-syndrome",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:environment-regulates-phenotype",
+      "relation": "related_to"
+    },
+    {
+      "source": "structure:x-chromosome",
+      "relation": "mentioned_in"
+    }
+  ],
+  "exam_topic:gene-linkage": [
+    {
+      "source": "chapter:10",
+      "relation": "related_to"
+    },
+    {
+      "source": "source:study-guide-exam-3",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:crossing-over-and-linkage",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:independent-assortment-in-inheritance",
+      "relation": "related_to"
+    },
+    {
+      "source": "principle:law-of-independent-assortment",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:crossing-over",
+      "relation": "covers"
+    }
+  ],
+  "concept:crossover-probability": [
+    {
+      "source": "chapter:10",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:crossing-over-and-linkage",
+      "relation": "covers"
+    },
+    {
+      "source": "process:crossing-over",
+      "relation": "related_to"
+    }
+  ],
+  "concept:environment-and-phenotype": [
+    {
+      "source": "chapter:10",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:environment-regulates-phenotype",
+      "relation": "covers"
+    },
+    {
+      "source": "inheritance_pattern:polygenic-trait",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "term:phenotype",
+      "relation": "mentioned_in"
+    }
+  ],
+  "inheritance_pattern:polygenic-trait": [
+    {
+      "source": "chapter:10",
+      "relation": "related_to"
+    },
+    {
+      "source": "term:polygenic",
+      "relation": "mentioned_in"
+    }
+  ],
+  "disease:cystic-fibrosis": [
+    {
+      "source": "chapter:10",
+      "relation": "related_to"
+    }
+  ],
+  "disease:marfan-syndrome": [
+    {
+      "source": "chapter:10",
+      "relation": "related_to"
+    }
+  ],
+  "disease:rett-syndrome": [
+    {
+      "source": "chapter:10",
+      "relation": "related_to"
+    },
+    {
+      "source": "concept:x-inactivation",
+      "relation": "mentioned_in"
+    }
+  ],
+  "disease:color-blindness": [
+    {
+      "source": "chapter:10",
+      "relation": "related_to"
+    }
+  ],
+  "disease:albinism": [
+    {
+      "source": "chapter:10",
+      "relation": "related_to"
+    }
+  ],
+  "disease:alkaptonuria": [
+    {
+      "source": "chapter:10",
+      "relation": "related_to"
+    }
+  ],
+  "chapter:11": [
+    {
+      "source": "chapter:11",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "source:study-guide-exam-3",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "source:study-guide-exam-3",
+      "relation": "related_to"
+    },
+    {
+      "source": "comparison:dna-vs-rna",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "comparison:prokaryote-vs-eukaryote-replication",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "concept:mutation",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "enzyme:dna-helicase",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "enzyme:dna-ligase",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "enzyme:dna-polymerase-i",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "enzyme:dna-polymerase-iii",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "enzyme:dna-polymerase",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "enzyme:rna-primase",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "enzyme:single-stranded-binding-protein",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "enzyme:telomerase",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "enzyme:topoisomerase",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:chargaffs-rule",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:complementary-base-pairing",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:complementary-strand-from-sequence",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:four-nucleotides",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:leading-vs-lagging-strand",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:mutagen",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:nucleotide-components",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:okazaki-fragments",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:origin-of-replication-prokaryote-eukaryote",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:replication-enzyme-functions",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:replication-mitosis-vs-meiosis",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:telomerase",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:telomere-aging",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:telomeres",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:template-direction-and-synthesis",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:types-of-mutations-dna",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:when-replication-occurs",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "experiment:griffith-experiment",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "molecule:adenine",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "molecule:cytosine",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "molecule:deoxyribose",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "molecule:dna",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "molecule:dntp",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "molecule:guanine",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "molecule:primer",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "molecule:thymine",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "principle:chargaffs-rule",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "principle:complementary-base-pairing",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "principle:semiconservative-replication",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:cell-cycle",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:dna-replication",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:mitosis",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:s-phase",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "structure:antiparallel-strands",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "structure:chromosome",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "structure:double-helix",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "structure:hydrogen-bond",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "structure:lagging-strand",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "structure:leading-strand",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "structure:nitrogenous-base",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "structure:okazaki-fragment",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "structure:origin-of-replication",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "structure:phosphate-group",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "structure:phosphodiester-bond",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "structure:plasmid",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "structure:replication-bubble",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "structure:replication-fork",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "structure:sister-chromatids",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "structure:sugar-phosphate-backbone",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "structure:telomere",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "term:mutagen",
+      "relation": "mentioned_in"
+    }
+  ],
+  "experiment:griffith-experiment": [
+    {
+      "source": "chapter:11",
+      "relation": "related_to"
+    }
+  ],
+  "molecule:dna": [
+    {
+      "source": "chapter:11",
+      "relation": "related_to"
+    },
+    {
+      "source": "comparison:dna-vs-rna",
+      "relation": "compared_to"
+    },
+    {
+      "source": "exam_topic:dna-vs-rna-three-differences",
+      "relation": "covers"
+    },
+    {
+      "source": "structure:nitrogenous-base",
+      "relation": "mentioned_in"
+    }
+  ],
+  "structure:phosphate-group": [
+    {
+      "source": "chapter:11",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:nucleotide-components",
+      "relation": "covers"
+    },
+    {
+      "source": "molecule:deoxyribose",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "molecule:dna",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "structure:sugar-phosphate-backbone",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "technique:gel-electrophoresis",
+      "relation": "related_to"
+    }
+  ],
+  "molecule:deoxyribose": [
+    {
+      "source": "chapter:11",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:nucleotide-components",
+      "relation": "covers"
+    },
+    {
+      "source": "molecule:dna",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "structure:phosphate-group",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "structure:sugar-phosphate-backbone",
+      "relation": "mentioned_in"
+    }
+  ],
+  "molecule:adenine": [
+    {
+      "source": "chapter:11",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:four-nucleotides",
+      "relation": "covers"
+    },
+    {
+      "source": "molecule:dna",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "structure:nitrogenous-base",
+      "relation": "mentioned_in"
+    }
+  ],
+  "molecule:thymine": [
+    {
+      "source": "chapter:11",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:four-nucleotides",
+      "relation": "covers"
+    },
+    {
+      "source": "molecule:dna",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "structure:nitrogenous-base",
+      "relation": "mentioned_in"
+    }
+  ],
+  "molecule:guanine": [
+    {
+      "source": "chapter:11",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:four-nucleotides",
+      "relation": "covers"
+    },
+    {
+      "source": "molecule:dna",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "structure:nitrogenous-base",
+      "relation": "mentioned_in"
+    }
+  ],
+  "molecule:cytosine": [
+    {
+      "source": "chapter:11",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:four-nucleotides",
+      "relation": "covers"
+    },
+    {
+      "source": "molecule:dna",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "structure:nitrogenous-base",
+      "relation": "mentioned_in"
+    }
+  ],
+  "principle:complementary-base-pairing": [
+    {
+      "source": "chapter:11",
+      "relation": "related_to"
+    },
+    {
+      "source": "source:study-guide-exam-3",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:chargaffs-rule",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:complementary-base-pairing",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:complementary-strand-from-sequence",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:four-nucleotides",
+      "relation": "covers"
+    },
+    {
+      "source": "principle:chargaffs-rule",
+      "relation": "mentioned_in"
+    }
+  ],
+  "principle:chargaffs-rule": [
+    {
+      "source": "chapter:11",
+      "relation": "related_to"
+    },
+    {
+      "source": "source:study-guide-exam-3",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:chargaffs-rule",
+      "relation": "covers"
+    }
+  ],
+  "structure:double-helix": [
+    {
+      "source": "chapter:11",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:nucleotide-components",
+      "relation": "covers"
+    },
+    {
+      "source": "molecule:dna",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "structure:hydrogen-bond",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "structure:sugar-phosphate-backbone",
+      "relation": "mentioned_in"
+    }
+  ],
+  "structure:sugar-phosphate-backbone": [
+    {
+      "source": "chapter:11",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:nucleotide-components",
+      "relation": "covers"
+    },
+    {
+      "source": "structure:double-helix",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "structure:phosphate-group",
+      "relation": "mentioned_in"
+    }
+  ],
+  "structure:antiparallel-strands": [
+    {
+      "source": "chapter:11",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:complementary-base-pairing",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:complementary-strand-from-sequence",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:template-direction-and-synthesis",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:leading-vs-lagging-strand",
+      "relation": "covers"
+    }
+  ],
+  "structure:phosphodiester-bond": [
+    {
+      "source": "chapter:11",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:template-direction-and-synthesis",
+      "relation": "covers"
+    },
+    {
+      "source": "structure:phosphate-group",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "structure:sugar-phosphate-backbone",
+      "relation": "mentioned_in"
+    }
+  ],
+  "structure:hydrogen-bond": [
+    {
+      "source": "chapter:11",
+      "relation": "related_to"
+    },
+    {
+      "source": "structure:double-helix",
+      "relation": "mentioned_in"
+    }
+  ],
+  "process:s-phase": [
+    {
+      "source": "chapter:11",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:rounds-of-replication-in-meiosis",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:when-replication-occurs",
+      "relation": "covers"
+    },
+    {
+      "source": "process:dna-replication",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:meiosis",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:mitosis",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "structure:sister-chromatids",
+      "relation": "mentioned_in"
+    }
+  ],
+  "process:dna-replication": [
+    {
+      "source": "chapter:11",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:mutagen",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:replication-mitosis-vs-meiosis",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:rounds-of-replication-in-meiosis",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:template-direction-and-synthesis",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:when-replication-occurs",
+      "relation": "covers"
+    },
+    {
+      "source": "principle:complementary-base-pairing",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:cell-cycle",
+      "relation": "part_of"
+    },
+    {
+      "source": "exam_topic:replication-enzyme-functions",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:leading-vs-lagging-strand",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:complementary-strand-from-sequence",
+      "relation": "covers"
+    },
+    {
+      "source": "process:mitosis",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "structure:sister-chromatids",
+      "relation": "mentioned_in"
+    }
+  ],
+  "principle:semiconservative-replication": [
+    {
+      "source": "chapter:11",
+      "relation": "related_to"
+    },
+    {
+      "source": "process:dna-replication",
+      "relation": "mentioned_in"
+    }
+  ],
+  "comparison:prokaryote-vs-eukaryote-replication": [
+    {
+      "source": "chapter:11",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:origin-of-replication-prokaryote-eukaryote",
+      "relation": "covers"
+    },
+    {
+      "source": "process:dna-replication",
+      "relation": "related_to"
+    }
+  ],
+  "structure:origin-of-replication": [
+    {
+      "source": "chapter:11",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:origin-of-replication-prokaryote-eukaryote",
+      "relation": "covers"
+    },
+    {
+      "source": "process:dna-replication",
+      "relation": "related_to"
+    },
+    {
+      "source": "structure:replication-bubble",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "structure:replication-fork",
+      "relation": "mentioned_in"
+    }
+  ],
+  "structure:replication-fork": [
+    {
+      "source": "chapter:11",
+      "relation": "related_to"
+    },
+    {
+      "source": "enzyme:dna-helicase",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "enzyme:single-stranded-binding-protein",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "enzyme:topoisomerase",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:leading-vs-lagging-strand",
+      "relation": "covers"
+    },
+    {
+      "source": "process:dna-replication",
+      "relation": "related_to"
+    },
+    {
+      "source": "structure:lagging-strand",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "structure:leading-strand",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "structure:origin-of-replication",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "structure:replication-bubble",
+      "relation": "mentioned_in"
+    }
+  ],
+  "structure:replication-bubble": [
+    {
+      "source": "chapter:11",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:origin-of-replication-prokaryote-eukaryote",
+      "relation": "covers"
+    },
+    {
+      "source": "structure:origin-of-replication",
+      "relation": "mentioned_in"
+    }
+  ],
+  "enzyme:dna-helicase": [
+    {
+      "source": "chapter:11",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:replication-enzyme-functions",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:replication-enzyme-functions",
+      "relation": "related_to"
+    },
+    {
+      "source": "process:dna-replication",
+      "relation": "related_to"
+    },
+    {
+      "source": "structure:replication-fork",
+      "relation": "mentioned_in"
+    }
+  ],
+  "enzyme:single-stranded-binding-protein": [
+    {
+      "source": "chapter:11",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:replication-enzyme-functions",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:replication-enzyme-functions",
+      "relation": "related_to"
+    },
+    {
+      "source": "process:dna-replication",
+      "relation": "related_to"
+    }
+  ],
+  "enzyme:topoisomerase": [
+    {
+      "source": "chapter:11",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:replication-enzyme-functions",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:replication-enzyme-functions",
+      "relation": "related_to"
+    },
+    {
+      "source": "process:dna-replication",
+      "relation": "related_to"
+    }
+  ],
+  "enzyme:rna-primase": [
+    {
+      "source": "chapter:11",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:replication-enzyme-functions",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:replication-enzyme-functions",
+      "relation": "related_to"
+    },
+    {
+      "source": "molecule:primer",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:dna-replication",
+      "relation": "related_to"
+    },
+    {
+      "source": "structure:lagging-strand",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "structure:okazaki-fragment",
+      "relation": "mentioned_in"
+    }
+  ],
+  "enzyme:dna-polymerase-iii": [
+    {
+      "source": "chapter:11",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:replication-enzyme-functions",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:leading-vs-lagging-strand",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:template-direction-and-synthesis",
+      "relation": "covers"
+    },
+    {
+      "source": "enzyme:dna-polymerase",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "enzyme:single-stranded-binding-protein",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:replication-enzyme-functions",
+      "relation": "related_to"
+    },
+    {
+      "source": "molecule:primer",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:dna-replication",
+      "relation": "related_to"
+    },
+    {
+      "source": "structure:antiparallel-strands",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "structure:leading-strand",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "structure:okazaki-fragment",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "structure:phosphodiester-bond",
+      "relation": "mentioned_in"
+    }
+  ],
+  "enzyme:dna-polymerase-i": [
+    {
+      "source": "chapter:11",
+      "relation": "related_to"
+    },
+    {
+      "source": "enzyme:dna-ligase",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:replication-enzyme-functions",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:leading-vs-lagging-strand",
+      "relation": "covers"
+    },
+    {
+      "source": "enzyme:dna-polymerase",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "enzyme:rna-primase",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:replication-enzyme-functions",
+      "relation": "related_to"
+    },
+    {
+      "source": "molecule:primer",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:dna-replication",
+      "relation": "related_to"
+    },
+    {
+      "source": "structure:lagging-strand",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "structure:okazaki-fragment",
+      "relation": "mentioned_in"
+    }
+  ],
+  "enzyme:dna-ligase": [
+    {
+      "source": "chapter:11",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:replication-enzyme-functions",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:okazaki-fragments",
+      "relation": "covers"
+    },
+    {
+      "source": "enzyme:dna-polymerase-i",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:replication-enzyme-functions",
+      "relation": "related_to"
+    },
+    {
+      "source": "process:dna-replication",
+      "relation": "related_to"
+    },
+    {
+      "source": "structure:lagging-strand",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "structure:okazaki-fragment",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "structure:phosphodiester-bond",
+      "relation": "mentioned_in"
+    }
+  ],
+  "structure:leading-strand": [
+    {
+      "source": "chapter:11",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:leading-vs-lagging-strand",
+      "relation": "covers"
+    },
+    {
+      "source": "process:dna-replication",
+      "relation": "related_to"
+    },
+    {
+      "source": "structure:antiparallel-strands",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "structure:replication-fork",
+      "relation": "mentioned_in"
+    }
+  ],
+  "structure:lagging-strand": [
+    {
+      "source": "chapter:11",
+      "relation": "related_to"
+    },
+    {
+      "source": "enzyme:dna-ligase",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "enzyme:dna-polymerase-i",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:leading-vs-lagging-strand",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:okazaki-fragments",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:okazaki-fragments",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:telomeres",
+      "relation": "covers"
+    },
+    {
+      "source": "process:dna-replication",
+      "relation": "related_to"
+    },
+    {
+      "source": "structure:antiparallel-strands",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "structure:leading-strand",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "structure:okazaki-fragment",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "structure:replication-fork",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "structure:telomere",
+      "relation": "mentioned_in"
+    }
+  ],
+  "structure:okazaki-fragment": [
+    {
+      "source": "chapter:11",
+      "relation": "related_to"
+    },
+    {
+      "source": "enzyme:dna-ligase",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "enzyme:dna-polymerase-i",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:leading-vs-lagging-strand",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:okazaki-fragments",
+      "relation": "covers"
+    },
+    {
+      "source": "process:dna-replication",
+      "relation": "related_to"
+    },
+    {
+      "source": "structure:lagging-strand",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "structure:replication-fork",
+      "relation": "mentioned_in"
+    }
+  ],
+  "structure:telomere": [
+    {
+      "source": "chapter:11",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:telomerase",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:telomere-aging",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:telomeres",
+      "relation": "covers"
+    },
+    {
+      "source": "process:dna-replication",
+      "relation": "related_to"
+    },
+    {
+      "source": "structure:lagging-strand",
+      "relation": "mentioned_in"
+    }
+  ],
+  "exam_topic:telomerase": [
+    {
+      "source": "chapter:11",
+      "relation": "related_to"
+    },
+    {
+      "source": "source:study-guide-exam-3",
+      "relation": "related_to"
+    },
+    {
+      "source": "comparison:prokaryote-vs-eukaryote-replication",
+      "relation": "compared_to"
+    },
+    {
+      "source": "exam_topic:telomere-aging",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:telomere-aging",
+      "relation": "covers"
+    },
+    {
+      "source": "process:dna-replication",
+      "relation": "related_to"
+    },
+    {
+      "source": "structure:telomere",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "structure:telomere",
+      "relation": "related_to"
+    }
+  ],
+  "concept:mutation": [
+    {
+      "source": "chapter:11",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:types-of-mutations-dna",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:mutations-affect-protein",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:mutagen",
+      "relation": "covers"
+    }
+  ],
+  "term:mutagen": [
+    {
+      "source": "chapter:11",
+      "relation": "related_to"
+    },
+    {
+      "source": "source:study-guide-exam-3",
+      "relation": "related_to"
+    },
+    {
+      "source": "concept:mutation",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:mutagen",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:types-of-mutations-dna",
+      "relation": "covers"
+    }
+  ],
+  "chapter:12": [
+    {
+      "source": "chapter:12",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "source:study-guide-exam-3",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "source:study-guide-exam-3",
+      "relation": "related_to"
+    },
+    {
+      "source": "comparison:dna-vs-rna",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "comparison:transcription-vs-translation",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "concept:alternative-splicing",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "concept:codon-redundancy",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "concept:deletion-mutation",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "concept:frameshift-mutation",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "concept:gene-regulation",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "concept:insertion-mutation",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "concept:mutation",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "concept:point-mutation",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "concept:pre-mrna",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "concept:substitution-mutation",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "disease:sickle-cell-anemia",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "enzyme:rna-polymerase",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:codon-to-amino-acid",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:dna-vs-rna-three-differences",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:eukaryotic-gene-regulation",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:first-amino-acid",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:introns-exons",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:mutations-affect-protein",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:pre-mrna",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:start-stop-codons",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:three-rna-classes",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:transcription-elongation",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:transcription-initiation",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:transcription-process",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:transcription-termination",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:transcription-vs-translation",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:translation-elongation",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:translation-initiation",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:translation-process",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:translation-termination",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:types-of-mutations-dna",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "molecule:amino-acid",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "molecule:anticodon",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "molecule:codon",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "molecule:dna",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "molecule:methionine",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "molecule:microrna",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "molecule:mrna",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "molecule:rna",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "molecule:rrna",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "molecule:trna",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "principle:central-dogma",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "principle:codon-redundancy",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "principle:complementary-base-pairing",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "principle:genetic-code",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "principle:start-codon",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "principle:stop-codon",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:rna-processing",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:splicing",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:transcription-elongation",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:transcription-initiation",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:transcription-termination",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:transcription",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:translation-elongation",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:translation-initiation",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:translation-termination",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:translation",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "structure:exon",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "structure:intron",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "structure:mrna-cap",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "structure:poly-a-tail",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "structure:promoter",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "structure:ribosome",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "structure:terminator",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "structure:transcription-factor",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "term:gene",
+      "relation": "mentioned_in"
+    }
+  ],
+  "principle:central-dogma": [
+    {
+      "source": "chapter:12",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:transcription-vs-translation",
+      "relation": "covers"
+    }
+  ],
+  "comparison:dna-vs-rna": [
+    {
+      "source": "chapter:12",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:dna-vs-rna-three-differences",
+      "relation": "covers"
+    },
+    {
+      "source": "molecule:dna",
+      "relation": "compared_to"
+    },
+    {
+      "source": "molecule:rna",
+      "relation": "compared_to"
+    }
+  ],
+  "molecule:mrna": [
+    {
+      "source": "chapter:12",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:three-rna-classes",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:translation-process",
+      "relation": "covers"
+    },
+    {
+      "source": "molecule:codon",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:transcription-process",
+      "relation": "covers"
+    },
+    {
+      "source": "molecule:rna",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:transcription",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:translation-elongation",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:translation-initiation",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:translation",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:translation",
+      "relation": "related_to"
+    },
+    {
+      "source": "structure:ribosome",
+      "relation": "mentioned_in"
+    }
+  ],
+  "molecule:rrna": [
+    {
+      "source": "chapter:12",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:three-rna-classes",
+      "relation": "covers"
+    },
+    {
+      "source": "molecule:rna",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:transcription",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:translation",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:translation",
+      "relation": "related_to"
+    },
+    {
+      "source": "structure:ribosome",
+      "relation": "mentioned_in"
+    }
+  ],
+  "molecule:trna": [
+    {
+      "source": "chapter:12",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:three-rna-classes",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:translation-elongation",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:translation-initiation",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:translation-process",
+      "relation": "covers"
+    },
+    {
+      "source": "molecule:anticodon",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "molecule:codon",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "molecule:rna",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:transcription",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:translation-elongation",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:translation-termination",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:translation",
+      "relation": "related_to"
+    },
+    {
+      "source": "structure:ribosome",
+      "relation": "mentioned_in"
+    }
+  ],
+  "process:transcription": [
+    {
+      "source": "chapter:12",
+      "relation": "related_to"
+    },
+    {
+      "source": "comparison:transcription-vs-translation",
+      "relation": "compared_to"
+    },
+    {
+      "source": "enzyme:rna-polymerase",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:transcription-process",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:transcription-vs-translation",
+      "relation": "covers"
+    },
+    {
+      "source": "molecule:mrna",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "principle:central-dogma",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "principle:complementary-base-pairing",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:transcription-initiation",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:transcription-termination",
+      "relation": "mentioned_in"
+    }
+  ],
+  "process:transcription-initiation": [
+    {
+      "source": "chapter:12",
+      "relation": "related_to"
+    },
+    {
+      "source": "source:study-guide-exam-3",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:transcription-initiation",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:transcription-process",
+      "relation": "covers"
+    },
+    {
+      "source": "process:transcription",
+      "relation": "part_of"
+    }
+  ],
+  "process:transcription-elongation": [
+    {
+      "source": "chapter:12",
+      "relation": "related_to"
+    },
+    {
+      "source": "source:study-guide-exam-3",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:transcription-elongation",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:transcription-process",
+      "relation": "covers"
+    },
+    {
+      "source": "process:transcription",
+      "relation": "part_of"
+    }
+  ],
+  "process:transcription-termination": [
+    {
+      "source": "chapter:12",
+      "relation": "related_to"
+    },
+    {
+      "source": "source:study-guide-exam-3",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:transcription-process",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:transcription-termination",
+      "relation": "covers"
+    },
+    {
+      "source": "process:transcription",
+      "relation": "part_of"
+    }
+  ],
+  "structure:promoter": [
+    {
+      "source": "chapter:12",
+      "relation": "related_to"
+    },
+    {
+      "source": "enzyme:rna-polymerase",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:transcription-initiation",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:transcription-initiation",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:transcription-process",
+      "relation": "covers"
+    },
+    {
+      "source": "process:transcription-initiation",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:transcription",
+      "relation": "part_of"
+    },
+    {
+      "source": "structure:transcription-factor",
+      "relation": "mentioned_in"
+    }
+  ],
+  "structure:terminator": [
+    {
+      "source": "chapter:12",
+      "relation": "related_to"
+    },
+    {
+      "source": "enzyme:rna-polymerase",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:transcription-process",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:transcription-termination",
+      "relation": "covers"
+    },
+    {
+      "source": "process:transcription-termination",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:transcription",
+      "relation": "part_of"
+    }
+  ],
+  "enzyme:rna-polymerase": [
+    {
+      "source": "chapter:12",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:transcription-initiation",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:transcription-process",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:transcription-elongation",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:transcription-initiation",
+      "relation": "related_to"
+    },
+    {
+      "source": "molecule:mrna",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "principle:central-dogma",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:transcription-elongation",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:transcription-initiation",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:transcription-termination",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:transcription",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "structure:promoter",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "structure:terminator",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "structure:transcription-factor",
+      "relation": "mentioned_in"
+    }
+  ],
+  "process:rna-processing": [
+    {
+      "source": "chapter:12",
+      "relation": "related_to"
+    },
+    {
+      "source": "concept:pre-mrna",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:pre-mrna",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:transcription-process",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:transcription-termination",
+      "relation": "covers"
+    },
+    {
+      "source": "process:transcription-termination",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:transcription",
+      "relation": "part_of"
+    }
+  ],
+  "structure:mrna-cap": [
+    {
+      "source": "chapter:12",
+      "relation": "related_to"
+    },
+    {
+      "source": "concept:pre-mrna",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:pre-mrna",
+      "relation": "covers"
+    },
+    {
+      "source": "process:rna-processing",
+      "relation": "mentioned_in"
+    }
+  ],
+  "structure:poly-a-tail": [
+    {
+      "source": "chapter:12",
+      "relation": "related_to"
+    },
+    {
+      "source": "concept:pre-mrna",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:pre-mrna",
+      "relation": "covers"
+    },
+    {
+      "source": "process:rna-processing",
+      "relation": "mentioned_in"
+    }
+  ],
+  "process:splicing": [
+    {
+      "source": "chapter:12",
+      "relation": "related_to"
+    },
+    {
+      "source": "concept:alternative-splicing",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "concept:pre-mrna",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:introns-exons",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:pre-mrna",
+      "relation": "covers"
+    },
+    {
+      "source": "process:rna-processing",
+      "relation": "mentioned_in"
+    }
+  ],
+  "concept:alternative-splicing": [
+    {
+      "source": "chapter:12",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:introns-exons",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:eukaryotic-gene-regulation",
+      "relation": "covers"
+    },
+    {
+      "source": "process:splicing",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "structure:exon",
+      "relation": "mentioned_in"
+    }
+  ],
+  "structure:intron": [
+    {
+      "source": "chapter:12",
+      "relation": "related_to"
+    },
+    {
+      "source": "concept:pre-mrna",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:introns-exons",
+      "relation": "covers"
+    },
+    {
+      "source": "process:rna-processing",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:splicing",
+      "relation": "mentioned_in"
+    }
+  ],
+  "structure:exon": [
+    {
+      "source": "chapter:12",
+      "relation": "related_to"
+    },
+    {
+      "source": "concept:alternative-splicing",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "concept:pre-mrna",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:introns-exons",
+      "relation": "covers"
+    },
+    {
+      "source": "process:rna-processing",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:splicing",
+      "relation": "mentioned_in"
+    }
+  ],
+  "process:translation": [
+    {
+      "source": "chapter:12",
+      "relation": "related_to"
+    },
+    {
+      "source": "comparison:transcription-vs-translation",
+      "relation": "compared_to"
+    },
+    {
+      "source": "exam_topic:transcription-vs-translation",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:translation-process",
+      "relation": "covers"
+    },
+    {
+      "source": "principle:central-dogma",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "principle:complementary-base-pairing",
+      "relation": "mentioned_in"
+    }
+  ],
+  "process:translation-initiation": [
+    {
+      "source": "chapter:12",
+      "relation": "related_to"
+    },
+    {
+      "source": "source:study-guide-exam-3",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:first-amino-acid",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:start-stop-codons",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:translation-initiation",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:translation-process",
+      "relation": "covers"
+    },
+    {
+      "source": "principle:start-codon",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:translation",
+      "relation": "part_of"
+    },
+    {
+      "source": "structure:mrna-cap",
+      "relation": "mentioned_in"
+    }
+  ],
+  "process:translation-elongation": [
+    {
+      "source": "chapter:12",
+      "relation": "related_to"
+    },
+    {
+      "source": "source:study-guide-exam-3",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:translation-elongation",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:translation-process",
+      "relation": "covers"
+    },
+    {
+      "source": "molecule:amino-acid",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:translation",
+      "relation": "part_of"
+    }
+  ],
+  "process:translation-termination": [
+    {
+      "source": "chapter:12",
+      "relation": "related_to"
+    },
+    {
+      "source": "source:study-guide-exam-3",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:start-stop-codons",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:translation-process",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:translation-termination",
+      "relation": "covers"
+    },
+    {
+      "source": "molecule:trna",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:translation",
+      "relation": "part_of"
+    }
+  ],
+  "structure:ribosome": [
+    {
+      "source": "chapter:12",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:three-rna-classes",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:translation-elongation",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:translation-initiation",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:translation-process",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:translation-termination",
+      "relation": "covers"
+    },
+    {
+      "source": "molecule:rrna",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "principle:central-dogma",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:translation-elongation",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:translation-initiation",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:translation-termination",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:translation",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:translation",
+      "relation": "related_to"
+    }
+  ],
+  "molecule:codon": [
+    {
+      "source": "chapter:12",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:codon-to-amino-acid",
+      "relation": "covers"
+    },
+    {
+      "source": "molecule:anticodon",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:start-stop-codons",
+      "relation": "covers"
+    },
+    {
+      "source": "molecule:trna",
+      "relation": "mentioned_in"
+    }
+  ],
+  "molecule:anticodon": [
+    {
+      "source": "chapter:12",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:translation-elongation",
+      "relation": "covers"
+    }
+  ],
+  "principle:genetic-code": [
+    {
+      "source": "chapter:12",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:codon-to-amino-acid",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:start-stop-codons",
+      "relation": "covers"
+    },
+    {
+      "source": "molecule:amino-acid",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:translation",
+      "relation": "related_to"
+    }
+  ],
+  "principle:start-codon": [
+    {
+      "source": "chapter:12",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:first-amino-acid",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:start-stop-codons",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:translation-initiation",
+      "relation": "covers"
+    }
+  ],
+  "molecule:methionine": [
+    {
+      "source": "chapter:12",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:first-amino-acid",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:start-stop-codons",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:translation-initiation",
+      "relation": "covers"
+    },
+    {
+      "source": "molecule:codon",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "molecule:trna",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "principle:start-codon",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:translation-initiation",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:translation",
+      "relation": "part_of"
+    }
+  ],
+  "principle:stop-codon": [
+    {
+      "source": "chapter:12",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:start-stop-codons",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:translation-termination",
+      "relation": "covers"
+    }
+  ],
+  "concept:codon-redundancy": [
+    {
+      "source": "chapter:12",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:codon-to-amino-acid",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:mutations-affect-protein",
+      "relation": "covers"
+    },
+    {
+      "source": "concept:substitution-mutation",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "molecule:codon",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "principle:codon-redundancy",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "principle:genetic-code",
+      "relation": "mentioned_in"
+    }
+  ],
+  "exam_topic:transcription-vs-translation": [
+    {
+      "source": "chapter:12",
+      "relation": "related_to"
+    },
+    {
+      "source": "source:study-guide-exam-3",
+      "relation": "related_to"
+    },
+    {
+      "source": "process:transcription",
+      "relation": "compared_to"
+    }
+  ],
+  "concept:gene-regulation": [
+    {
+      "source": "chapter:12",
+      "relation": "related_to"
+    },
+    {
+      "source": "concept:alternative-splicing",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:eukaryotic-gene-regulation",
+      "relation": "covers"
+    },
+    {
+      "source": "structure:transcription-factor",
+      "relation": "mentioned_in"
+    }
+  ],
+  "structure:transcription-factor": [
+    {
+      "source": "chapter:12",
+      "relation": "related_to"
+    },
+    {
+      "source": "enzyme:rna-polymerase",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:eukaryotic-gene-regulation",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:transcription-initiation",
+      "relation": "covers"
+    },
+    {
+      "source": "process:transcription-initiation",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:transcription",
+      "relation": "part_of"
+    },
+    {
+      "source": "structure:promoter",
+      "relation": "mentioned_in"
+    }
+  ],
+  "molecule:microrna": [
+    {
+      "source": "chapter:12",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:eukaryotic-gene-regulation",
+      "relation": "covers"
+    },
+    {
+      "source": "molecule:rna",
+      "relation": "mentioned_in"
+    }
+  ],
+  "concept:point-mutation": [
+    {
+      "source": "chapter:12",
+      "relation": "related_to"
+    },
+    {
+      "source": "concept:mutation",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:types-of-mutations-dna",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:mutations-affect-protein",
+      "relation": "covers"
+    }
+  ],
+  "concept:substitution-mutation": [
+    {
+      "source": "chapter:12",
+      "relation": "related_to"
+    },
+    {
+      "source": "concept:mutation",
+      "relation": "related_to"
+    },
+    {
+      "source": "concept:point-mutation",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:types-of-mutations-dna",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:mutations-affect-protein",
+      "relation": "covers"
+    }
+  ],
+  "concept:insertion-mutation": [
+    {
+      "source": "chapter:12",
+      "relation": "related_to"
+    },
+    {
+      "source": "concept:frameshift-mutation",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:types-of-mutations-dna",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:mutations-affect-protein",
+      "relation": "covers"
+    },
+    {
+      "source": "concept:mutation",
+      "relation": "related_to"
+    },
+    {
+      "source": "concept:point-mutation",
+      "relation": "mentioned_in"
+    }
+  ],
+  "concept:deletion-mutation": [
+    {
+      "source": "chapter:12",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:types-of-mutations-dna",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:mutations-affect-protein",
+      "relation": "covers"
+    },
+    {
+      "source": "concept:frameshift-mutation",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "concept:mutation",
+      "relation": "related_to"
+    },
+    {
+      "source": "concept:point-mutation",
+      "relation": "mentioned_in"
+    }
+  ],
+  "concept:frameshift-mutation": [
+    {
+      "source": "chapter:12",
+      "relation": "related_to"
+    },
+    {
+      "source": "concept:deletion-mutation",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:types-of-mutations-dna",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:mutations-affect-protein",
+      "relation": "covers"
+    },
+    {
+      "source": "concept:insertion-mutation",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "concept:mutation",
+      "relation": "related_to"
+    }
+  ],
+  "disease:sickle-cell-anemia": [
+    {
+      "source": "chapter:12",
+      "relation": "related_to"
+    },
+    {
+      "source": "concept:point-mutation",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "concept:substitution-mutation",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:mutations-affect-protein",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:mutations-affect-protein",
+      "relation": "related_to"
+    }
+  ],
+  "chapter:13": [
+    {
+      "source": "chapter:13",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "source:study-guide-exam-3",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "source:study-guide-exam-3",
+      "relation": "related_to"
+    },
+    {
+      "source": "concept:biotechnology",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "concept:cloning",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "concept:dna-profiling",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "concept:gene-therapy",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "concept:genetic-engineering",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "concept:human-genome-project",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "concept:preimplantation-genetic-diagnosis",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "concept:recombinant-dna",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "concept:short-tandem-repeat",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "enzyme:dna-polymerase",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:biotechnology-genetic-engineering",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:gel-electrophoresis-process",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:pcr-components",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:pcr-purpose-copies",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:short-tandem-repeats",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "molecule:dntp",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "molecule:primer",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "person:kary-mullis",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:pcr-annealing",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:pcr-denaturation",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:pcr-extension",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "technique:dna-sequencing",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "technique:gel-electrophoresis",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "technique:pcr",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "technique:str-analysis",
+      "relation": "mentioned_in"
+    }
+  ],
+  "concept:biotechnology": [
+    {
+      "source": "chapter:13",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:biotechnology-genetic-engineering",
+      "relation": "covers"
+    },
+    {
+      "source": "concept:genetic-engineering",
+      "relation": "mentioned_in"
+    }
+  ],
+  "concept:genetic-engineering": [
+    {
+      "source": "chapter:13",
+      "relation": "related_to"
+    },
+    {
+      "source": "concept:biotechnology",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:biotechnology-genetic-engineering",
+      "relation": "covers"
+    },
+    {
+      "source": "concept:recombinant-dna",
+      "relation": "mentioned_in"
+    }
+  ],
+  "concept:recombinant-dna": [
+    {
+      "source": "chapter:13",
+      "relation": "related_to"
+    },
+    {
+      "source": "concept:cloning",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "concept:genetic-engineering",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:biotechnology-genetic-engineering",
+      "relation": "covers"
+    }
+  ],
+  "technique:dna-sequencing": [
+    {
+      "source": "chapter:13",
+      "relation": "related_to"
+    },
+    {
+      "source": "concept:biotechnology",
+      "relation": "mentioned_in"
+    }
+  ],
+  "technique:pcr": [
+    {
+      "source": "chapter:13",
+      "relation": "related_to"
+    },
+    {
+      "source": "concept:biotechnology",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "concept:cloning",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "concept:dna-profiling",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "concept:preimplantation-genetic-diagnosis",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:gel-electrophoresis-process",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:pcr-components",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:pcr-purpose-copies",
+      "relation": "covers"
+    },
+    {
+      "source": "person:kary-mullis",
+      "relation": "related_to"
+    },
+    {
+      "source": "principle:complementary-base-pairing",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:pcr-annealing",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:pcr-denaturation",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:pcr-extension",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "structure:hydrogen-bond",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "technique:str-analysis",
+      "relation": "part_of"
+    }
+  ],
+  "concept:dna-profiling": [
+    {
+      "source": "chapter:13",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:short-tandem-repeats",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:gel-electrophoresis-process",
+      "relation": "covers"
+    }
+  ],
+  "process:pcr-denaturation": [
+    {
+      "source": "chapter:13",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:pcr-components",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:pcr-components",
+      "relation": "covers"
+    },
+    {
+      "source": "technique:pcr",
+      "relation": "related_to"
+    }
+  ],
+  "process:pcr-annealing": [
+    {
+      "source": "chapter:13",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:pcr-components",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:pcr-components",
+      "relation": "covers"
+    },
+    {
+      "source": "technique:pcr",
+      "relation": "related_to"
+    }
+  ],
+  "process:pcr-extension": [
+    {
+      "source": "chapter:13",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:pcr-components",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:pcr-components",
+      "relation": "covers"
+    },
+    {
+      "source": "technique:pcr",
+      "relation": "related_to"
+    }
+  ],
+  "enzyme:dna-polymerase": [
+    {
+      "source": "chapter:13",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:pcr-components",
+      "relation": "covers"
+    },
+    {
+      "source": "process:pcr-extension",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "technique:pcr",
+      "relation": "part_of"
+    }
+  ],
+  "molecule:dntp": [
+    {
+      "source": "chapter:13",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:pcr-components",
+      "relation": "covers"
+    }
+  ],
+  "molecule:primer": [
+    {
+      "source": "chapter:13",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:pcr-components",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:replication-enzyme-functions",
+      "relation": "covers"
+    },
+    {
+      "source": "process:pcr-annealing",
+      "relation": "mentioned_in"
+    }
+  ],
+  "technique:gel-electrophoresis": [
+    {
+      "source": "chapter:13",
+      "relation": "related_to"
+    },
+    {
+      "source": "concept:dna-profiling",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:gel-electrophoresis-process",
+      "relation": "covers"
+    },
+    {
+      "source": "structure:phosphate-group",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "technique:dna-sequencing",
+      "relation": "related_to"
+    },
+    {
+      "source": "technique:str-analysis",
+      "relation": "part_of"
+    }
+  ],
+  "concept:short-tandem-repeat": [
+    {
+      "source": "chapter:13",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:short-tandem-repeats",
+      "relation": "covers"
+    },
+    {
+      "source": "technique:str-analysis",
+      "relation": "mentioned_in"
+    }
+  ],
+  "technique:str-analysis": [
+    {
+      "source": "chapter:13",
+      "relation": "related_to"
+    },
+    {
+      "source": "concept:biotechnology",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "concept:dna-profiling",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:gel-electrophoresis-process",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:short-tandem-repeats",
+      "relation": "covers"
+    },
+    {
+      "source": "technique:gel-electrophoresis",
+      "relation": "related_to"
+    },
+    {
+      "source": "technique:pcr",
+      "relation": "related_to"
+    }
+  ],
+  "person:kary-mullis": [
+    {
+      "source": "chapter:13",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:pcr-purpose-copies",
+      "relation": "related_to"
+    },
+    {
+      "source": "exam_topic:pcr-purpose-copies",
+      "relation": "covers"
+    },
+    {
+      "source": "technique:pcr",
+      "relation": "mentioned_in"
+    }
+  ],
+  "concept:human-genome-project": [
+    {
+      "source": "chapter:13",
+      "relation": "related_to"
+    },
+    {
+      "source": "technique:dna-sequencing",
+      "relation": "related_to"
+    }
+  ],
+  "concept:gene-therapy": [
+    {
+      "source": "chapter:13",
+      "relation": "related_to"
+    },
+    {
+      "source": "concept:biotechnology",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "concept:human-genome-project",
+      "relation": "mentioned_in"
+    }
+  ],
+  "concept:cloning": [
+    {
+      "source": "chapter:13",
+      "relation": "related_to"
+    }
+  ],
+  "concept:preimplantation-genetic-diagnosis": [
+    {
+      "source": "chapter:13",
+      "relation": "related_to"
+    }
+  ],
+  "exam_topic:sexual-reproduction-survival": [
+    {
+      "source": "source:study-guide-exam-3",
+      "relation": "related_to"
+    }
+  ],
+  "exam_topic:rounds-of-replication-in-meiosis": [
+    {
+      "source": "source:study-guide-exam-3",
+      "relation": "related_to"
+    }
+  ],
+  "exam_topic:rounds-of-division-in-meiosis": [
+    {
+      "source": "source:study-guide-exam-3",
+      "relation": "related_to"
+    }
+  ],
+  "exam_topic:outcome-meiosis-i": [
+    {
+      "source": "source:study-guide-exam-3",
+      "relation": "related_to"
+    }
+  ],
+  "exam_topic:meiosis-i-phases": [
+    {
+      "source": "source:study-guide-exam-3",
+      "relation": "related_to"
+    }
+  ],
+  "exam_topic:outcome-meiosis-ii": [
+    {
+      "source": "source:study-guide-exam-3",
+      "relation": "related_to"
+    }
+  ],
+  "exam_topic:meiosis-ii-phases": [
+    {
+      "source": "source:study-guide-exam-3",
+      "relation": "related_to"
+    }
+  ],
+  "exam_topic:full-meiosis-process": [
+    {
+      "source": "source:study-guide-exam-3",
+      "relation": "related_to"
+    }
+  ],
+  "exam_topic:metaphase-comparison": [
+    {
+      "source": "source:study-guide-exam-3",
+      "relation": "related_to"
+    },
+    {
+      "source": "process:metaphase-i",
+      "relation": "compared_to"
+    }
+  ],
+  "exam_topic:inheritance-vocabulary": [
+    {
+      "source": "source:study-guide-exam-3",
+      "relation": "related_to"
+    }
+  ],
+  "exam_topic:pure-breeding": [
+    {
+      "source": "source:study-guide-exam-3",
+      "relation": "related_to"
+    }
+  ],
+  "exam_topic:p-f1-f2-relationship": [
+    {
+      "source": "source:study-guide-exam-3",
+      "relation": "related_to"
+    }
+  ],
+  "exam_topic:mendel-cross-explanation": [
+    {
+      "source": "source:study-guide-exam-3",
+      "relation": "related_to"
+    }
+  ],
+  "exam_topic:gamete-allele-distribution": [
+    {
+      "source": "source:study-guide-exam-3",
+      "relation": "related_to"
+    }
+  ],
+  "exam_topic:punnett-cross-genotype-phenotype": [
+    {
+      "source": "source:study-guide-exam-3",
+      "relation": "related_to"
+    }
+  ],
+  "exam_topic:sex-linked-punnett": [
+    {
+      "source": "source:study-guide-exam-3",
+      "relation": "related_to"
+    }
+  ],
+  "exam_topic:independent-assortment-in-inheritance": [
+    {
+      "source": "source:study-guide-exam-3",
+      "relation": "related_to"
+    }
+  ],
+  "exam_topic:abo-codominance": [
+    {
+      "source": "source:study-guide-exam-3",
+      "relation": "related_to"
+    }
+  ],
+  "exam_topic:environment-regulates-phenotype": [
+    {
+      "source": "source:study-guide-exam-3",
+      "relation": "related_to"
+    }
+  ],
+  "exam_topic:crossing-over-and-linkage": [
+    {
+      "source": "source:study-guide-exam-3",
+      "relation": "related_to"
+    }
+  ],
+  "exam_topic:four-nucleotides": [
+    {
+      "source": "source:study-guide-exam-3",
+      "relation": "related_to"
+    }
+  ],
+  "exam_topic:nucleotide-components": [
+    {
+      "source": "source:study-guide-exam-3",
+      "relation": "related_to"
+    }
+  ],
+  "exam_topic:types-of-mutations-dna": [
+    {
+      "source": "source:study-guide-exam-3",
+      "relation": "related_to"
+    }
+  ],
+  "exam_topic:when-replication-occurs": [
+    {
+      "source": "source:study-guide-exam-3",
+      "relation": "related_to"
+    }
+  ],
+  "exam_topic:replication-mitosis-vs-meiosis": [
+    {
+      "source": "source:study-guide-exam-3",
+      "relation": "related_to"
+    }
+  ],
+  "exam_topic:complementary-strand-from-sequence": [
+    {
+      "source": "source:study-guide-exam-3",
+      "relation": "related_to"
+    }
+  ],
+  "exam_topic:template-direction-and-synthesis": [
+    {
+      "source": "source:study-guide-exam-3",
+      "relation": "related_to"
+    }
+  ],
+  "exam_topic:origin-of-replication-prokaryote-eukaryote": [
+    {
+      "source": "source:study-guide-exam-3",
+      "relation": "related_to"
+    }
+  ],
+  "exam_topic:replication-enzyme-functions": [
+    {
+      "source": "source:study-guide-exam-3",
+      "relation": "related_to"
+    }
+  ],
+  "exam_topic:leading-vs-lagging-strand": [
+    {
+      "source": "source:study-guide-exam-3",
+      "relation": "related_to"
+    }
+  ],
+  "exam_topic:okazaki-fragments": [
+    {
+      "source": "source:study-guide-exam-3",
+      "relation": "related_to"
+    }
+  ],
+  "exam_topic:telomeres": [
+    {
+      "source": "source:study-guide-exam-3",
+      "relation": "related_to"
+    }
+  ],
+  "exam_topic:telomere-aging": [
+    {
+      "source": "source:study-guide-exam-3",
+      "relation": "related_to"
+    }
+  ],
+  "exam_topic:dna-vs-rna-three-differences": [
+    {
+      "source": "source:study-guide-exam-3",
+      "relation": "related_to"
+    }
+  ],
+  "exam_topic:three-rna-classes": [
+    {
+      "source": "source:study-guide-exam-3",
+      "relation": "related_to"
+    }
+  ],
+  "exam_topic:start-stop-codons": [
+    {
+      "source": "source:study-guide-exam-3",
+      "relation": "related_to"
+    }
+  ],
+  "exam_topic:first-amino-acid": [
+    {
+      "source": "source:study-guide-exam-3",
+      "relation": "related_to"
+    }
+  ],
+  "exam_topic:codon-to-amino-acid": [
+    {
+      "source": "source:study-guide-exam-3",
+      "relation": "related_to"
+    }
+  ],
+  "exam_topic:transcription-process": [
+    {
+      "source": "source:study-guide-exam-3",
+      "relation": "related_to"
+    }
+  ],
+  "exam_topic:introns-exons": [
+    {
+      "source": "source:study-guide-exam-3",
+      "relation": "related_to"
+    }
+  ],
+  "exam_topic:pre-mrna": [
+    {
+      "source": "source:study-guide-exam-3",
+      "relation": "related_to"
+    },
+    {
+      "source": "process:rna-processing",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "process:transcription",
+      "relation": "part_of"
+    }
+  ],
+  "exam_topic:translation-process": [
+    {
+      "source": "source:study-guide-exam-3",
+      "relation": "related_to"
+    }
+  ],
+  "exam_topic:mutations-affect-protein": [
+    {
+      "source": "source:study-guide-exam-3",
+      "relation": "related_to"
+    }
+  ],
+  "exam_topic:eukaryotic-gene-regulation": [
+    {
+      "source": "source:study-guide-exam-3",
+      "relation": "related_to"
+    }
+  ],
+  "exam_topic:biotechnology-genetic-engineering": [
+    {
+      "source": "source:study-guide-exam-3",
+      "relation": "related_to"
+    }
+  ],
+  "exam_topic:pcr-purpose-copies": [
+    {
+      "source": "source:study-guide-exam-3",
+      "relation": "related_to"
+    }
+  ],
+  "exam_topic:pcr-components": [
+    {
+      "source": "source:study-guide-exam-3",
+      "relation": "related_to"
+    }
+  ],
+  "exam_topic:short-tandem-repeats": [
+    {
+      "source": "source:study-guide-exam-3",
+      "relation": "related_to"
+    }
+  ],
+  "exam_topic:gel-electrophoresis-process": [
+    {
+      "source": "source:study-guide-exam-3",
+      "relation": "related_to"
+    }
+  ],
+  "molecule:rna": [
+    {
+      "source": "comparison:dna-vs-rna",
+      "relation": "compared_to"
+    },
+    {
+      "source": "exam_topic:dna-vs-rna-three-differences",
+      "relation": "covers"
+    }
+  ],
+  "process:mitosis": [
+    {
+      "source": "comparison:mitosis-vs-meiosis",
+      "relation": "compared_to"
+    },
+    {
+      "source": "exam_topic:metaphase-comparison",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:replication-mitosis-vs-meiosis",
+      "relation": "covers"
+    },
+    {
+      "source": "process:cell-cycle",
+      "relation": "part_of"
+    }
+  ],
+  "structure:plasmid": [
+    {
+      "source": "comparison:prokaryote-vs-eukaryote-replication",
+      "relation": "compared_to"
+    },
+    {
+      "source": "concept:recombinant-dna",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:origin-of-replication-prokaryote-eukaryote",
+      "relation": "covers"
+    },
+    {
+      "source": "structure:chromosome",
+      "relation": "related_to"
+    }
+  ],
+  "comparison:transcription-vs-translation": [
+    {
+      "source": "exam_topic:transcription-vs-translation",
+      "relation": "covers"
+    }
+  ],
+  "concept:gene-linkage": [
+    {
+      "source": "exam_topic:gene-linkage",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:crossing-over-and-linkage",
+      "relation": "covers"
+    }
+  ],
+  "concept:pre-mrna": [
+    {
+      "source": "exam_topic:pre-mrna",
+      "relation": "covers"
+    }
+  ],
+  "enzyme:telomerase": [
+    {
+      "source": "exam_topic:telomerase",
+      "relation": "covers"
+    },
+    {
+      "source": "exam_topic:telomere-aging",
+      "relation": "covers"
+    }
+  ],
+  "structure:nitrogenous-base": [
+    {
+      "source": "exam_topic:nucleotide-components",
+      "relation": "covers"
+    },
+    {
+      "source": "molecule:deoxyribose",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "molecule:dna",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "structure:double-helix",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "exam_topic:four-nucleotides",
+      "relation": "covers"
+    }
+  ],
+  "structure:autosome": [
+    {
+      "source": "exam_topic:sex-chromosomes",
+      "relation": "covers"
+    },
+    {
+      "source": "structure:chromosome",
+      "relation": "related_to"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "structure:terminator",
+  "type": "structure",
+  "title": "Terminator",
+  "slug": "terminator",
+  "aliases": [],
+  "tags": [
+    "chapter-12",
+    "transcription"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/structures/terminator.md",
+  "summary": "A DNA sequence at the end of a gene that signals enzymes/rna-polymerase to stop transcribing. When RNA polymerase reaches the terminator, it dissociates from the DNA and releases the new RNA. The DNA re-forms a double helix.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/structures/terminator.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    12
+  ],
+  "exam_topics": [
+    "transcription-termination"
+  ]
+}

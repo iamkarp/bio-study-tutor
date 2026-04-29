@@ -1,0 +1,31 @@
+{
+  "id": "exam_topic:short-tandem-repeats",
+  "type": "exam_topic",
+  "title": "What is a short tandem repeat? Does expression vary by person?",
+  "slug": "short-tandem-repeats",
+  "aliases": [],
+  "tags": [
+    "exam-3",
+    "chapter-13",
+    "str",
+    "forensics"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/exam-topics/short-tandem-repeats.md",
+  "summary": "",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/exam-topics/short-tandem-repeats.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    13
+  ]
+}

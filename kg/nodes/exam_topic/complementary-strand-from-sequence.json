@@ -1,0 +1,29 @@
+{
+  "id": "exam_topic:complementary-strand-from-sequence",
+  "type": "exam_topic",
+  "title": "Given a DNA sequence, can you write the complementary strand?",
+  "slug": "complementary-strand-from-sequence",
+  "aliases": [],
+  "tags": [
+    "exam-3",
+    "chapter-11"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/exam-topics/complementary-strand-from-sequence.md",
+  "summary": "",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/exam-topics/complementary-strand-from-sequence.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    11
+  ]
+}

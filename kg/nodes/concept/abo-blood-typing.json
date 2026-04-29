@@ -1,0 +1,32 @@
+{
+  "id": "concept:abo-blood-typing",
+  "type": "concept",
+  "title": "ABO Blood Typing",
+  "slug": "abo-blood-typing",
+  "aliases": [],
+  "tags": [
+    "chapter-10",
+    "codominance"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/concepts/abo-blood-typing.md",
+  "summary": "Human blood types are determined by the I gene, which has three alleles:\n- I^A — dominant, encodes A antigen\n- I^B — dominant, encodes B antigen\n- i — recessive, encodes nothing functional",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/concepts/abo-blood-typing.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    10
+  ],
+  "exam_topics": [
+    "abo-codominance"
+  ]
+}

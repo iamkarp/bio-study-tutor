@@ -1,0 +1,33 @@
+{
+  "id": "structure:phosphate-group",
+  "type": "structure",
+  "title": "Phosphate Group",
+  "slug": "phosphate-group",
+  "aliases": [
+    "PO4"
+  ],
+  "tags": [
+    "chapter-11"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/structures/phosphate-group.md",
+  "summary": "A negatively charged group attached to the 5' carbon of molecules/deoxyribose in a DNA nucleotide. Phosphate groups link to the next nucleotide's 3'-OH via a structures/phosphodiester-bond, building up the structures/sugar-phosphate-backbone. The negative charges of phosphates make DNA migrate toward the positive electrode in techniques/gel-electrophoresis|gel electrophoresis.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/structures/phosphate-group.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    11
+  ],
+  "exam_topics": [
+    "nucleotide-components"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "process:telophase-ii",
+  "type": "process",
+  "title": "Telophase II",
+  "slug": "telophase-ii",
+  "aliases": [],
+  "tags": [
+    "chapter-09",
+    "meiosis"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/processes/telophase-ii.md",
+  "summary": "Cytokinesis occurs, nuclear membranes re-form, and chromosomes decondense. Four haploid cells result from one diploid starting cell, each with n single chromosomes. In humans, the four cells are gametes (or in females, one egg plus polar bodies).",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/processes/telophase-ii.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    9
+  ],
+  "exam_topics": [
+    "meiosis-ii-phases"
+  ]
+}

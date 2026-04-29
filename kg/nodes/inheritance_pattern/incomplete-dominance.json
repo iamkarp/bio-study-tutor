@@ -1,0 +1,32 @@
+{
+  "id": "inheritance_pattern:incomplete-dominance",
+  "type": "inheritance_pattern",
+  "title": "Incomplete Dominance",
+  "slug": "incomplete-dominance",
+  "aliases": [],
+  "tags": [
+    "chapter-10",
+    "non-mendelian"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/inheritance/incomplete-dominance.md",
+  "summary": "A non-Mendelian inheritance pattern in which the heterozygote shows an intermediate phenotype between the two homozygotes. Classic example: red snapdragon × white snapdragon → pink F1. With incomplete dominance, genotype ratio = phenotype ratio (1:2:1) because each genotype has a unique phenotype.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/inheritance/incomplete-dominance.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    10
+  ],
+  "exam_topics": [
+    "incomplete-dominance"
+  ]
+}

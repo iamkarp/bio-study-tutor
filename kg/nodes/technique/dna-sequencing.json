@@ -1,0 +1,29 @@
+{
+  "id": "technique:dna-sequencing",
+  "type": "technique",
+  "title": "DNA Sequencing",
+  "slug": "dna-sequencing",
+  "aliases": [],
+  "tags": [
+    "chapter-13",
+    "biotechnology"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/techniques/dna-sequencing.md",
+  "summary": "A technique that determines the exact order of nucleotides in a DNA sample.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/techniques/dna-sequencing.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    13
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "structure:x-chromosome",
+  "type": "structure",
+  "title": "X Chromosome",
+  "slug": "x-chromosome",
+  "aliases": [],
+  "tags": [
+    "chapter-09",
+    "sex-chromosome"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/structures/x-chromosome.md",
+  "summary": "The larger of the two human sex chromosomes, carrying ~800 genes. Females (XX) have two copies; males (XY) have one. Many sex-linked recessive disorders (color blindness, hemophilia) reside on the X — males are more susceptible because they have no second X to mask a recessive allele. See concepts/x-inactivation.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/structures/x-chromosome.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    9,
+    10
+  ]
+}

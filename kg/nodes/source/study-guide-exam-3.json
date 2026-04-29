@@ -1,0 +1,36 @@
+{
+  "id": "source:study-guide-exam-3",
+  "type": "source",
+  "title": "Study Guide — Bio 1320 Exam 3 (Spring 2026)",
+  "slug": "study-guide-exam-3",
+  "aliases": [
+    "Exam 3 Study Guide"
+  ],
+  "tags": [
+    "exam-3",
+    "study-guide",
+    "source"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/chapters/study-guide.md",
+  "summary": "The official exam-3 study guide covering chapters 9–13. This document is the spine of the wiki: every bullet in it has a corresponding exam_topic page, and every wiki page lists which exam topics it answers. To prepare for the exam, walk through wiki/exam-topics/ end to end.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/chapters/study-guide.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    9,
+    10,
+    11,
+    12,
+    13
+  ]
+}

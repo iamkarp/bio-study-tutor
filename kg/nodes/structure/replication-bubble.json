@@ -1,0 +1,32 @@
+{
+  "id": "structure:replication-bubble",
+  "type": "structure",
+  "title": "Replication Bubble",
+  "slug": "replication-bubble",
+  "aliases": [],
+  "tags": [
+    "chapter-11",
+    "replication"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/structures/replication-bubble.md",
+  "summary": "The locally unwound region of DNA at an structures/origin-of-replication, with two structures/replication-fork|replication forks moving in opposite directions. Eukaryotes have many replication bubbles per chromosome (because there are many origins); they expand outward until adjacent bubbles merge.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/structures/replication-bubble.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    11
+  ],
+  "exam_topics": [
+    "origin-of-replication-prokaryote-eukaryote"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "chapter:13",
+  "type": "chapter",
+  "title": "Chapter 13 — The New Biology (Biotechnology)",
+  "slug": "13",
+  "aliases": [
+    "Chapter 13",
+    "New Biology"
+  ],
+  "tags": [
+    "chapter-13",
+    "biotechnology",
+    "pcr",
+    "forensics"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/chapters/chapter-13.md",
+  "summary": "Chapter 13 surveys biotechnology: PCR amplifies DNA exponentially via cycles of denaturation/annealing/extension; gel electrophoresis separates DNA fragments by size; DNA sequencing reads the order of bases; STR profiling fingerprints individuals. The Human Genome Project sequenced all 3 billion bases of human DNA by 2003.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/chapters/chapter-13.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    13
+  ]
+}

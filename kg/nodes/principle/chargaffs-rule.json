@@ -1,0 +1,32 @@
+{
+  "id": "principle:chargaffs-rule",
+  "type": "principle",
+  "title": "Chargaff's Rule",
+  "slug": "chargaffs-rule",
+  "aliases": [],
+  "tags": [
+    "chapter-11",
+    "dna"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/principles/chargaffs-rule.md",
+  "summary": "In any double-stranded DNA: %A = %T and %G = %C. So %A + %T + %G + %C = 100%, and %A + %T = 100% − (%G + %C).",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/principles/chargaffs-rule.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    11
+  ],
+  "exam_topics": [
+    "chargaffs-rule"
+  ]
+}

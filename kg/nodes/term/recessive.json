@@ -1,0 +1,32 @@
+{
+  "id": "term:recessive",
+  "type": "term",
+  "title": "Recessive Allele",
+  "slug": "recessive",
+  "aliases": [],
+  "tags": [
+    "chapter-10",
+    "vocabulary"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/terms/recessive.md",
+  "summary": "An allele whose effect is masked when a dominant allele is also present. Recessive traits appear only in homozygous-recessive individuals (yy). Recessive alleles typically encode non-functional proteins. Many genetic diseases (cystic fibrosis, sickle cell, albinism) are autosomal-recessive.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/terms/recessive.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    10
+  ],
+  "exam_topics": [
+    "inheritance-vocabulary"
+  ]
+}

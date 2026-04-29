@@ -1,0 +1,33 @@
+{
+  "id": "process:transcription",
+  "type": "process",
+  "title": "Transcription",
+  "slug": "transcription",
+  "aliases": [],
+  "tags": [
+    "chapter-12",
+    "gene-expression"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/processes/transcription.md",
+  "summary": "The process of synthesizing an RNA copy of a gene from a DNA template. Occurs in the nucleus (eukaryotes) or cytoplasm (prokaryotes). Catalyzed by enzymes/rna-polymerase. The product can be molecules/mrna (later translated to protein), molecules/trna, molecules/rrna, or other RNAs.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/processes/transcription.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    12
+  ],
+  "exam_topics": [
+    "transcription-process",
+    "transcription-vs-translation"
+  ]
+}

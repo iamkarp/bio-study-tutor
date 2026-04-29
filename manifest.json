@@ -1,0 +1,1760 @@
+{
+  "version": 1,
+  "locale": "en_US.UTF-8",
+  "metadata": {
+    "appmode": "python-shiny",
+    "entrypoint": "app"
+  },
+  "python": {
+    "version": "3.11.0",
+    "package_manager": {
+      "name": "pip",
+      "version": "26.0.1",
+      "package_file": "requirements.txt"
+    }
+  },
+  "environment": {
+    "python": {
+      "requires": "~=3.11.0"
+    }
+  },
+  "files": {
+    "requirements.txt": {
+      "checksum": "a332af9b94783f11eb1bb6f462bd4091"
+    },
+    ".DS_Store": {
+      "checksum": "2f41adf1227e7c17b7b0a23244fc5be7"
+    },
+    ".env": {
+      "checksum": "4ed4d90573ca53b57472560651ef75b8"
+    },
+    ".python-version": {
+      "checksum": "c0479ff484dacd51dc5ba0461b16b9bf"
+    },
+    ".rscignore": {
+      "checksum": "42c63a22b2a9df88e6bd282802e85c5b"
+    },
+    "CLAUDE.md": {
+      "checksum": "a925d40a6925e50519c4e2fe89fced56"
+    },
+    "README.md": {
+      "checksum": "8945603c131f6b1719330155d3d05848"
+    },
+    "app/__init__.py": {
+      "checksum": "e5506464d86731e2247b3925bfe0842d"
+    },
+    "app/__pycache__/__init__.cpython-314.pyc": {
+      "checksum": "946b5975d0c5af1a3bb59fb4bd4264d1"
+    },
+    "app/__pycache__/app.cpython-314.pyc": {
+      "checksum": "88ea363cd8ceaba169e16f02a4db289b"
+    },
+    "app/__pycache__/games.cpython-314.pyc": {
+      "checksum": "74271c9c7852b4e9215c123408d4e2f7"
+    },
+    "app/__pycache__/graph_viz.cpython-314.pyc": {
+      "checksum": "56f19bed39e8a617187315cd08bd087b"
+    },
+    "app/__pycache__/kg_loader.cpython-314.pyc": {
+      "checksum": "21a5f5dfe3aff6a9a0c71544fe2968ac"
+    },
+    "app/__pycache__/llm.cpython-314.pyc": {
+      "checksum": "5dde03b393479587d9f0a2459477fe29"
+    },
+    "app/__pycache__/wikilink.cpython-314.pyc": {
+      "checksum": "214b230b0d348f1f068a54d178e2ba85"
+    },
+    "app/app.py": {
+      "checksum": "5d0274d88157926b1401018dca1f4898"
+    },
+    "app/games.py": {
+      "checksum": "1a3a00c950bca0152ab525784fb2056b"
+    },
+    "app/graph_viz.py": {
+      "checksum": "566b3ab0df43699654a07f70fa4f6c3d"
+    },
+    "app/kg_loader.py": {
+      "checksum": "42ab7083ee90591b635ccc0817bfa0fd"
+    },
+    "app/llm.py": {
+      "checksum": "c438de7eaae1db50f8a6cd68a5a373cb"
+    },
+    "app/prebuild.py": {
+      "checksum": "28fda8eab54b709fb93cc16f04338ebe"
+    },
+    "app/starter_content/flashcards.json": {
+      "checksum": "4b2a0d8db78095b14f18062ae5443423"
+    },
+    "app/starter_content/match.json": {
+      "checksum": "8b59977c62c29f8fb72c528ed96c396d"
+    },
+    "app/starter_content/quizzes.json": {
+      "checksum": "9ac2e5d58bac107056e6295367ad699f"
+    },
+    "app/wikilink.py": {
+      "checksum": "44e7dbf7eca7f507e745df6da8e3bfa8"
+    },
+    "app/www/gemm4.png": {
+      "checksum": "e707e308aa3ca7b675d1e0e0d2ffaa24"
+    },
+    "app/www/graph-45563eab.html": {
+      "checksum": "d64a594fae726cfd0cf533a3463d7eeb"
+    },
+    "app/www/graph-60935021.html": {
+      "checksum": "2a348faafeb7d177bd44c2496e7b7203"
+    },
+    "app/www/graph-8b656e40.html": {
+      "checksum": "906008c065b548c9ffbbf48b308b8fcd"
+    },
+    "gemm4.png": {
+      "checksum": "e707e308aa3ca7b675d1e0e0d2ffaa24"
+    },
+    "kg/.DS_Store": {
+      "checksum": "0c8cd65c868617a096be07478c2dec3a"
+    },
+    "kg/build.log": {
+      "checksum": "c9f8901eb2703dc64a99156d32ab2943"
+    },
+    "kg/edges.jsonl": {
+      "checksum": "7263d5a38653419228e81d5ba3279d5d"
+    },
+    "kg/indexes/alias-map.json": {
+      "checksum": "dd36d884993c9f2112d86de629037356"
+    },
+    "kg/indexes/backlinks.json": {
+      "checksum": "6f512537615c2e1f71bf2e5de4232ec7"
+    },
+    "kg/indexes/by-chapter.json": {
+      "checksum": "c665317faae49798b0f313757805e134"
+    },
+    "kg/indexes/by-exam-topic.json": {
+      "checksum": "3f68e7f93cd34c9de68df231f71b74d1"
+    },
+    "kg/indexes/by-tag.json": {
+      "checksum": "2c18f7565c64530596a144d543c8b729"
+    },
+    "kg/indexes/by-type.json": {
+      "checksum": "351b5f13d8d21096ded3a0d018055006"
+    },
+    "kg/indexes/coverage.json": {
+      "checksum": "43d4d355a065223cecd188ca08e4ec69"
+    },
+    "kg/indexes/orphans.json": {
+      "checksum": "220fba85b6947595bd09a0b83e082fd4"
+    },
+    "kg/manifest.json": {
+      "checksum": "a5283d42f062f371d6d58b1db3f915f5"
+    },
+    "kg/nodes/chapter/09.json": {
+      "checksum": "f4358faab37ce6052f329e7de79701f9"
+    },
+    "kg/nodes/chapter/10.json": {
+      "checksum": "eb024c429bf50b42cf83676c054b7473"
+    },
+    "kg/nodes/chapter/11.json": {
+      "checksum": "860a7c79263512f90a260eb850ef1896"
+    },
+    "kg/nodes/chapter/12.json": {
+      "checksum": "5fc67833f337d7efecad264f6d25703c"
+    },
+    "kg/nodes/chapter/13.json": {
+      "checksum": "1c05933dd885732d6abe7561b99191a1"
+    },
+    "kg/nodes/comparison/dna-vs-rna.json": {
+      "checksum": "b8a240e421b5804ce09034b2620e6209"
+    },
+    "kg/nodes/comparison/mitosis-vs-meiosis.json": {
+      "checksum": "7d994c188ffe2bc8d9f9fd2c69bea303"
+    },
+    "kg/nodes/comparison/prokaryote-vs-eukaryote-replication.json": {
+      "checksum": "b590d0cc4f17d77e6edd0d31b0e88175"
+    },
+    "kg/nodes/comparison/transcription-vs-translation.json": {
+      "checksum": "ea05065760e88958f2548ab509b83281"
+    },
+    "kg/nodes/concept/abo-blood-typing.json": {
+      "checksum": "f374a1fc79e09f963417ed041556fa3d"
+    },
+    "kg/nodes/concept/alternative-splicing.json": {
+      "checksum": "0f63a328c3052e45581200eef421abfb"
+    },
+    "kg/nodes/concept/biotechnology.json": {
+      "checksum": "5a964d021519900d686deef7e3cd70bb"
+    },
+    "kg/nodes/concept/cloning.json": {
+      "checksum": "bee984ba435d126cbd5923a632491ead"
+    },
+    "kg/nodes/concept/codon-redundancy.json": {
+      "checksum": "c1d4201dc9302019506994abf9f764df"
+    },
+    "kg/nodes/concept/crossover-probability.json": {
+      "checksum": "d3a23b22e125b80b62652d1b1dbf464d"
+    },
+    "kg/nodes/concept/deletion-mutation.json": {
+      "checksum": "287b509582c045915c6b9cce6b6fb4ad"
+    },
+    "kg/nodes/concept/dihybrid-cross.json": {
+      "checksum": "8043623e75e85357c9793673d9865a64"
+    },
+    "kg/nodes/concept/dizygotic-twins.json": {
+      "checksum": "64762f0965a204645e886ae812b35ca5"
+    },
+    "kg/nodes/concept/dna-profiling.json": {
+      "checksum": "1ef4f1af2a285c02fbc21870cc6c214c"
+    },
+    "kg/nodes/concept/environment-and-phenotype.json": {
+      "checksum": "0a0a7172e3765a723e52a11ad6800676"
+    },
+    "kg/nodes/concept/epistasis.json": {
+      "checksum": "b593a6a4db5da553caa99881b8b195ec"
+    },
+    "kg/nodes/concept/frameshift-mutation.json": {
+      "checksum": "906dac0c1124a707d3bf33d479c0f628"
+    },
+    "kg/nodes/concept/gene-linkage.json": {
+      "checksum": "4f515c8d78dfb8fd6810a7fad3e1a5b4"
+    },
+    "kg/nodes/concept/gene-regulation.json": {
+      "checksum": "89196eeacb194e877ff85f40f32278cf"
+    },
+    "kg/nodes/concept/gene-therapy.json": {
+      "checksum": "0cb91f14d5f24074e469aee5e27b90e8"
+    },
+    "kg/nodes/concept/genetic-engineering.json": {
+      "checksum": "c90a876ccd5656700f37e518bda28595"
+    },
+    "kg/nodes/concept/heteropaternal-superfecundation.json": {
+      "checksum": "6fc554aac367bd7d1a63fafdd8017a92"
+    },
+    "kg/nodes/concept/human-genome-project.json": {
+      "checksum": "6eab4e78e98081161cfdbb3129056c28"
+    },
+    "kg/nodes/concept/insertion-mutation.json": {
+      "checksum": "b058b17123e77d60df87efbc134d598e"
+    },
+    "kg/nodes/concept/monohybrid-cross.json": {
+      "checksum": "d9f9e9f009577b2bb760487bd0844950"
+    },
+    "kg/nodes/concept/monozygotic-twins.json": {
+      "checksum": "1a611929c86be81a945f711fcd023aa6"
+    },
+    "kg/nodes/concept/mutation.json": {
+      "checksum": "2521a9ddc3538c4139fc8aea9eedb7df"
+    },
+    "kg/nodes/concept/point-mutation.json": {
+      "checksum": "f6c78155e92781b743f89a6a357b2a88"
+    },
+    "kg/nodes/concept/pre-mrna.json": {
+      "checksum": "480219e3fdafd5c2eebd2708c0a17dc3"
+    },
+    "kg/nodes/concept/preimplantation-genetic-diagnosis.json": {
+      "checksum": "dc5f5160bfba637d11b2adb8cdc87dfb"
+    },
+    "kg/nodes/concept/recombinant-dna.json": {
+      "checksum": "fae21898eeab279e4b54d6d4de0f5ae3"
+    },
+    "kg/nodes/concept/sexual-reproduction-advantages.json": {
+      "checksum": "456689d48691bd5a470e79c811535592"
+    },
+    "kg/nodes/concept/short-tandem-repeat.json": {
+      "checksum": "0fe81f6250ee5ce2d66cd29912ee8b3e"
+    },
+    "kg/nodes/concept/substitution-mutation.json": {
+      "checksum": "fa567b79c64122f3e7bd08ae2e02ec88"
+    },
+    "kg/nodes/concept/x-inactivation.json": {
+      "checksum": "ae2076a75622db5192c29bb26f024b81"
+    },
+    "kg/nodes/disease/albinism.json": {
+      "checksum": "352101f60ab93e9702d7358f0ea01395"
+    },
+    "kg/nodes/disease/alkaptonuria.json": {
+      "checksum": "bc70973a234e85f646a77136521831fa"
+    },
+    "kg/nodes/disease/color-blindness.json": {
+      "checksum": "f6202e69816f5ea88b853602730bf5ce"
+    },
+    "kg/nodes/disease/cystic-fibrosis.json": {
+      "checksum": "4f6ea77a979b17b77cec324425bae363"
+    },
+    "kg/nodes/disease/down-syndrome.json": {
+      "checksum": "cb0fcf6e1ecccd747ed48512ed9a09f4"
+    },
+    "kg/nodes/disease/marfan-syndrome.json": {
+      "checksum": "fe033b116bb5d9ec3695d506d7fe0a7c"
+    },
+    "kg/nodes/disease/rett-syndrome.json": {
+      "checksum": "edbab8d9390f98cdefbd8cf67991ad64"
+    },
+    "kg/nodes/disease/sickle-cell-anemia.json": {
+      "checksum": "c45bb1a4b0b51914c615411dd5a7a15b"
+    },
+    "kg/nodes/enzyme/dna-helicase.json": {
+      "checksum": "8136dc1ff62d096cae578d7a6afa0089"
+    },
+    "kg/nodes/enzyme/dna-ligase.json": {
+      "checksum": "75933407a9e11ff0e6d806114b12f1f6"
+    },
+    "kg/nodes/enzyme/dna-polymerase-i.json": {
+      "checksum": "f09e5ba118d2e6fa74c66a4665647cdf"
+    },
+    "kg/nodes/enzyme/dna-polymerase-iii.json": {
+      "checksum": "04eefe0f09c738388531e955c1298441"
+    },
+    "kg/nodes/enzyme/dna-polymerase.json": {
+      "checksum": "57353ff579ea23cca2dc6b931a3a0d0a"
+    },
+    "kg/nodes/enzyme/rna-polymerase.json": {
+      "checksum": "6466eabcd6139354298560883daba30c"
+    },
+    "kg/nodes/enzyme/rna-primase.json": {
+      "checksum": "62529e5fb24af15364efa5d6665ad9b1"
+    },
+    "kg/nodes/enzyme/single-stranded-binding-protein.json": {
+      "checksum": "3c8a604dd30cf73a07e9dad494bffea2"
+    },
+    "kg/nodes/enzyme/telomerase.json": {
+      "checksum": "bcf776ae9cf182c430edd45339a7e4fa"
+    },
+    "kg/nodes/enzyme/topoisomerase.json": {
+      "checksum": "0ba39054ea71fb2b480b8c6fa5d3d28c"
+    },
+    "kg/nodes/exam_topic/abo-codominance.json": {
+      "checksum": "c88da5bfeac956defd9945522b8a3ccb"
+    },
+    "kg/nodes/exam_topic/biotechnology-genetic-engineering.json": {
+      "checksum": "a0bf084742c952f2b7835edd825b5ea1"
+    },
+    "kg/nodes/exam_topic/chargaffs-rule.json": {
+      "checksum": "3ab103a007cd87b8f11c816d1debfad0"
+    },
+    "kg/nodes/exam_topic/codon-to-amino-acid.json": {
+      "checksum": "f19afbb5092d741b3dac7fcbe629cd08"
+    },
+    "kg/nodes/exam_topic/complementary-base-pairing.json": {
+      "checksum": "48c455179511c8cf65c33014f7d7a267"
+    },
+    "kg/nodes/exam_topic/complementary-strand-from-sequence.json": {
+      "checksum": "96a594724929825f34e9d4198d57f8a4"
+    },
+    "kg/nodes/exam_topic/crossing-over-and-linkage.json": {
+      "checksum": "8792265971fcf9580b85574a70f43427"
+    },
+    "kg/nodes/exam_topic/crossing-over.json": {
+      "checksum": "bc8e04f63a749734b422f9745017a231"
+    },
+    "kg/nodes/exam_topic/dna-vs-rna-three-differences.json": {
+      "checksum": "6dc342d57d3194d2dd6e109c5461aa5a"
+    },
+    "kg/nodes/exam_topic/environment-regulates-phenotype.json": {
+      "checksum": "3acd39dd84553b54b96251f44b25dfe5"
+    },
+    "kg/nodes/exam_topic/eukaryotic-gene-regulation.json": {
+      "checksum": "23b15c1e81fb15f0b90b9c959c7cc773"
+    },
+    "kg/nodes/exam_topic/first-amino-acid.json": {
+      "checksum": "62697e936fe1561278c49ce655054334"
+    },
+    "kg/nodes/exam_topic/four-nucleotides.json": {
+      "checksum": "cee27c3a4ada2103892a541358f41600"
+    },
+    "kg/nodes/exam_topic/full-meiosis-process.json": {
+      "checksum": "49f8e570a1ad9e7373f32fcf95c0456a"
+    },
+    "kg/nodes/exam_topic/gamete-allele-distribution.json": {
+      "checksum": "938b771698faffa90b99d1a9bb8d9389"
+    },
+    "kg/nodes/exam_topic/gel-electrophoresis-process.json": {
+      "checksum": "eb4cd3148c07d85dad981cdb06bad214"
+    },
+    "kg/nodes/exam_topic/gene-linkage.json": {
+      "checksum": "3d1820291e06da31482e4ad79a44cb4b"
+    },
+    "kg/nodes/exam_topic/incomplete-dominance.json": {
+      "checksum": "fb297652b604bac696489e9b52862358"
+    },
+    "kg/nodes/exam_topic/independent-assortment-in-inheritance.json": {
+      "checksum": "7d1cd0719491e7ea227f36ee46b0dcfc"
+    },
+    "kg/nodes/exam_topic/inheritance-vocabulary.json": {
+      "checksum": "7c53c4390223e89899b56aedb4da5a47"
+    },
+    "kg/nodes/exam_topic/introns-exons.json": {
+      "checksum": "68537bc2c23c9c4e75eaca0e28688678"
+    },
+    "kg/nodes/exam_topic/law-of-independent-assortment.json": {
+      "checksum": "d7871e38c7037ce8b6b6d978ca416912"
+    },
+    "kg/nodes/exam_topic/leading-vs-lagging-strand.json": {
+      "checksum": "0bbfdea888c7f07b04be28d8826bd069"
+    },
+    "kg/nodes/exam_topic/meiosis-i-phases.json": {
+      "checksum": "94c23ff946f3e12a958a7391346b2fb0"
+    },
+    "kg/nodes/exam_topic/meiosis-ii-phases.json": {
+      "checksum": "20b6b5dbb4c72f4851800039233cb713"
+    },
+    "kg/nodes/exam_topic/mendel-cross-explanation.json": {
+      "checksum": "483dededff71960eb596812237026437"
+    },
+    "kg/nodes/exam_topic/metaphase-comparison.json": {
+      "checksum": "48954813c3576d5ccf7eefb90e21d647"
+    },
+    "kg/nodes/exam_topic/mutagen.json": {
+      "checksum": "95de2ca76c9dc31d37602be5bf95ab0c"
+    },
+    "kg/nodes/exam_topic/mutations-affect-protein.json": {
+      "checksum": "aec316cfbd27b4b9365270fa8522bb5b"
+    },
+    "kg/nodes/exam_topic/nondisjunction.json": {
+      "checksum": "67cbe81b110151d88567836f34642de2"
+    },
+    "kg/nodes/exam_topic/nucleotide-components.json": {
+      "checksum": "3acea86221e38c078ce2d7e97aabb4c6"
+    },
+    "kg/nodes/exam_topic/okazaki-fragments.json": {
+      "checksum": "b7d875f5fa7bad795430fb580903fe45"
+    },
+    "kg/nodes/exam_topic/origin-of-replication-prokaryote-eukaryote.json": {
+      "checksum": "0a35c888e28f5a5ca198d6dbfac3ce76"
+    },
+    "kg/nodes/exam_topic/outcome-meiosis-i.json": {
+      "checksum": "60ebbaeb0d764cc352ab1f1141b18147"
+    },
+    "kg/nodes/exam_topic/outcome-meiosis-ii.json": {
+      "checksum": "30210c5a02d262a7396efef9c67cd55a"
+    },
+    "kg/nodes/exam_topic/p-f1-f2-relationship.json": {
+      "checksum": "eabd8f5c36fb32fa86f31a81b772010c"
+    },
+    "kg/nodes/exam_topic/pcr-components.json": {
+      "checksum": "246ad2aa99eb2440220c5924c2bd2152"
+    },
+    "kg/nodes/exam_topic/pcr-purpose-copies.json": {
+      "checksum": "6964dbf1fa74d9d6f579f9437ad6deb7"
+    },
+    "kg/nodes/exam_topic/pre-mrna.json": {
+      "checksum": "e39f1e4939947e39d0d352136631b7ad"
+    },
+    "kg/nodes/exam_topic/punnett-cross-genotype-phenotype.json": {
+      "checksum": "43a8ea110b844795645ffe1d6b12a906"
+    },
+    "kg/nodes/exam_topic/pure-breeding.json": {
+      "checksum": "92275a8220a9de2f3694a297f6c150c5"
+    },
+    "kg/nodes/exam_topic/replication-enzyme-functions.json": {
+      "checksum": "10f7f583bf121927524fdbae9825090e"
+    },
+    "kg/nodes/exam_topic/replication-mitosis-vs-meiosis.json": {
+      "checksum": "51360d6043b72a184a919abfd1e38891"
+    },
+    "kg/nodes/exam_topic/rounds-of-division-in-meiosis.json": {
+      "checksum": "367a19599ee9175a90f371ea72ccc70d"
+    },
+    "kg/nodes/exam_topic/rounds-of-replication-in-meiosis.json": {
+      "checksum": "f353c7fa13756b7d54f87e75f158a749"
+    },
+    "kg/nodes/exam_topic/sex-chromosomes.json": {
+      "checksum": "0e0ba156e484387e61db0110288c433f"
+    },
+    "kg/nodes/exam_topic/sex-linked-punnett.json": {
+      "checksum": "7666ffea4f0f360c8a5f9fd53e55909b"
+    },
+    "kg/nodes/exam_topic/sexual-reproduction-survival.json": {
+      "checksum": "4b55e29d0ef7e6ee74eb8223c2155149"
+    },
+    "kg/nodes/exam_topic/short-tandem-repeats.json": {
+      "checksum": "a930930211d41480f721bdfea24520fd"
+    },
+    "kg/nodes/exam_topic/start-stop-codons.json": {
+      "checksum": "fdf19331af473bb58cdc5065e37bb951"
+    },
+    "kg/nodes/exam_topic/telomerase.json": {
+      "checksum": "0d4dcabd4e0814a6e56cb915382df169"
+    },
+    "kg/nodes/exam_topic/telomere-aging.json": {
+      "checksum": "cbffbff590830e9d1e342435b4d76fed"
+    },
+    "kg/nodes/exam_topic/telomeres.json": {
+      "checksum": "567604e493ec07b480164a305e791523"
+    },
+    "kg/nodes/exam_topic/template-direction-and-synthesis.json": {
+      "checksum": "dc43f99b120fbe4659fc1f9d8aa3a75c"
+    },
+    "kg/nodes/exam_topic/three-rna-classes.json": {
+      "checksum": "4b7d21a074357b365db540ea22bb92aa"
+    },
+    "kg/nodes/exam_topic/transcription-elongation.json": {
+      "checksum": "b7f5a4233e37bba3f194bb6aa95fbc24"
+    },
+    "kg/nodes/exam_topic/transcription-initiation.json": {
+      "checksum": "bec726e74f80d73a0f73dc9ecea328bb"
+    },
+    "kg/nodes/exam_topic/transcription-process.json": {
+      "checksum": "2ec96e8f26eacff990ceab0a8b250bc4"
+    },
+    "kg/nodes/exam_topic/transcription-termination.json": {
+      "checksum": "64d6bc12244aed69da3f018d8b97ed62"
+    },
+    "kg/nodes/exam_topic/transcription-vs-translation.json": {
+      "checksum": "03229634966d8a06813162dbef32caea"
+    },
+    "kg/nodes/exam_topic/translation-elongation.json": {
+      "checksum": "1a847e4a20022df745a12430dd03b29b"
+    },
+    "kg/nodes/exam_topic/translation-initiation.json": {
+      "checksum": "c5d413422619f1cf5cee334f6c68a914"
+    },
+    "kg/nodes/exam_topic/translation-process.json": {
+      "checksum": "2d32456e6eb71b96f9f5d3b0d6b838ab"
+    },
+    "kg/nodes/exam_topic/translation-termination.json": {
+      "checksum": "345d68a98358b93151ff339dbce7405c"
+    },
+    "kg/nodes/exam_topic/types-of-mutations-dna.json": {
+      "checksum": "c616386eacbf75dd882ca5216e73197f"
+    },
+    "kg/nodes/exam_topic/when-replication-occurs.json": {
+      "checksum": "e361ad6d1cb3b207ba1f92ec63bed3f9"
+    },
+    "kg/nodes/experiment/griffith-experiment.json": {
+      "checksum": "85548012f52b629801733ba80d1abd86"
+    },
+    "kg/nodes/experiment/mendel-pea-experiment.json": {
+      "checksum": "c542fc931d1146dc6fdc8582aa987172"
+    },
+    "kg/nodes/inheritance_pattern/codominance.json": {
+      "checksum": "390ca7005540a89ac464d25b9ee14195"
+    },
+    "kg/nodes/inheritance_pattern/incomplete-dominance.json": {
+      "checksum": "d398421cfb18312bd1d6fb015bfbd21b"
+    },
+    "kg/nodes/inheritance_pattern/pleiotropy-inheritance.json": {
+      "checksum": "3b9808090220a8310bf7447e6096007f"
+    },
+    "kg/nodes/inheritance_pattern/polygenic-trait.json": {
+      "checksum": "6087a084dc7e6759dba67af890c379eb"
+    },
+    "kg/nodes/inheritance_pattern/sex-linked.json": {
+      "checksum": "ab046a693b9170f4bb68fb4ae8334640"
+    },
+    "kg/nodes/inheritance_pattern/x-linked-recessive.json": {
+      "checksum": "a73bd5594b322fd08b5d769371ed0ea1"
+    },
+    "kg/nodes/molecule/adenine.json": {
+      "checksum": "90c8152877d353621b7dee890a969a04"
+    },
+    "kg/nodes/molecule/amino-acid.json": {
+      "checksum": "84dc116d52a2618f26772430da796ec3"
+    },
+    "kg/nodes/molecule/anticodon.json": {
+      "checksum": "fbd7ce6e8e5074bea2198aaecfe2a7ea"
+    },
+    "kg/nodes/molecule/codon.json": {
+      "checksum": "419f112400f697bc146c815383376ef0"
+    },
+    "kg/nodes/molecule/cytosine.json": {
+      "checksum": "1c58337f17c2ee15d8d683ef3496fc67"
+    },
+    "kg/nodes/molecule/deoxyribose.json": {
+      "checksum": "228560d06c61804e41bb729410b8c533"
+    },
+    "kg/nodes/molecule/dna.json": {
+      "checksum": "6825059964783ce147ac83dd43f8a7d7"
+    },
+    "kg/nodes/molecule/dntp.json": {
+      "checksum": "94b4bacf89dfaf165b7faa5c5f50a7c1"
+    },
+    "kg/nodes/molecule/guanine.json": {
+      "checksum": "6182f0546ead517aecb7172b9cb00647"
+    },
+    "kg/nodes/molecule/methionine.json": {
+      "checksum": "a78a314699df59c3915ef07220e8df11"
+    },
+    "kg/nodes/molecule/microrna.json": {
+      "checksum": "8a15c3d018122eeb51551c31ade5860d"
+    },
+    "kg/nodes/molecule/mrna.json": {
+      "checksum": "de06c4dd1553784eebc12c23d305ccbd"
+    },
+    "kg/nodes/molecule/primer.json": {
+      "checksum": "49ba9f7d0dbe951f0f5762ed8a7cd108"
+    },
+    "kg/nodes/molecule/rna.json": {
+      "checksum": "4d7f9d0f51f0999c566642845a5e613e"
+    },
+    "kg/nodes/molecule/rrna.json": {
+      "checksum": "b03ce33346bf5881cd0b4fc25a5d050d"
+    },
+    "kg/nodes/molecule/thymine.json": {
+      "checksum": "8e0208211b4ba0f879b9343eb0d805cc"
+    },
+    "kg/nodes/molecule/trna.json": {
+      "checksum": "921dc786a43810adba851eeee349de66"
+    },
+    "kg/nodes/person/gregor-mendel.json": {
+      "checksum": "8120a204e96beee2e6912e03f185a118"
+    },
+    "kg/nodes/person/kary-mullis.json": {
+      "checksum": "4049129b419425fa8162576bfc16aba8"
+    },
+    "kg/nodes/principle/central-dogma.json": {
+      "checksum": "f0f1941896a5f1fc4dd9615f80f1bcbc"
+    },
+    "kg/nodes/principle/chargaffs-rule.json": {
+      "checksum": "31bbc5ae180a32140080ad55e6b9a744"
+    },
+    "kg/nodes/principle/codon-redundancy-principle.json": {
+      "checksum": "5a688807fce0ffc0be7d5a9e3f2e61f0"
+    },
+    "kg/nodes/principle/complementary-base-pairing.json": {
+      "checksum": "cf32d5d91c512b1e31f947d450bb1738"
+    },
+    "kg/nodes/principle/genetic-code.json": {
+      "checksum": "1c28a349c545d368d77c7835da640faf"
+    },
+    "kg/nodes/principle/law-of-independent-assortment.json": {
+      "checksum": "d4206d5b2a08ec06387cbb6682ea8c61"
+    },
+    "kg/nodes/principle/law-of-segregation.json": {
+      "checksum": "d0d64bfbb7e73250a0bcd55f0771d463"
+    },
+    "kg/nodes/principle/semiconservative-replication.json": {
+      "checksum": "0482c23e5845d873d98848e2996ee76b"
+    },
+    "kg/nodes/principle/start-codon.json": {
+      "checksum": "2da2663c19187f8bf23f40c4404eaddb"
+    },
+    "kg/nodes/principle/stop-codon.json": {
+      "checksum": "4f2abb225b40fd31c95352565e24a904"
+    },
+    "kg/nodes/process/anaphase-i.json": {
+      "checksum": "1bc295be5c44b6c06ee4720d0260ad3b"
+    },
+    "kg/nodes/process/anaphase-ii.json": {
+      "checksum": "be4717f65cadee02a9a5372d0389e5e5"
+    },
+    "kg/nodes/process/cell-cycle.json": {
+      "checksum": "7db81d819b3cbefd04e0332a2e08a18a"
+    },
+    "kg/nodes/process/crossing-over.json": {
+      "checksum": "43696f8cc91e8cab9fc2cf2316c9c125"
+    },
+    "kg/nodes/process/dna-replication.json": {
+      "checksum": "5e410875738562be4c57b6403d419f28"
+    },
+    "kg/nodes/process/meiosis-i.json": {
+      "checksum": "e05c32c1311e2872461791cd7e436f30"
+    },
+    "kg/nodes/process/meiosis-ii.json": {
+      "checksum": "acc5a60cff337d19b1235fd28629a1c0"
+    },
+    "kg/nodes/process/meiosis.json": {
+      "checksum": "629cb2e3c75ce91db52fa77231f19c97"
+    },
+    "kg/nodes/process/metaphase-i.json": {
+      "checksum": "6f495195f7dc0a504904dc6789ac23c8"
+    },
+    "kg/nodes/process/metaphase-ii.json": {
+      "checksum": "7d554ad649de25f22594c9ce4d66c466"
+    },
+    "kg/nodes/process/mitosis.json": {
+      "checksum": "342fbe495654cef0dfab09aa17c66d8e"
+    },
+    "kg/nodes/process/nondisjunction.json": {
+      "checksum": "aa1e83863006aed8862636d7a4775be5"
+    },
+    "kg/nodes/process/oogenesis.json": {
+      "checksum": "6c8e3c89508cdb68e2abb729b8796f17"
+    },
+    "kg/nodes/process/pcr-annealing.json": {
+      "checksum": "a16c41a8b328ce347bbbef17e66d04aa"
+    },
+    "kg/nodes/process/pcr-denaturation.json": {
+      "checksum": "953f88a8185e9cb094b6b0a444a32c0a"
+    },
+    "kg/nodes/process/pcr-extension.json": {
+      "checksum": "685bfd997f00c46f1f5f51261ce8ffec"
+    },
+    "kg/nodes/process/prophase-i.json": {
+      "checksum": "53f3dac0b6637bdb596bf7d46e4e26b7"
+    },
+    "kg/nodes/process/prophase-ii.json": {
+      "checksum": "9c907bf003e6cfbf292b86cb1dc695a8"
+    },
+    "kg/nodes/process/rna-processing.json": {
+      "checksum": "e96ad7b72974dff95107e9cb16e8e819"
+    },
+    "kg/nodes/process/s-phase.json": {
+      "checksum": "6c96b315b347e6df7b99f9a8bc917986"
+    },
+    "kg/nodes/process/spermatogenesis.json": {
+      "checksum": "086d89ad82028a6b697c54c8e8f54e6f"
+    },
+    "kg/nodes/process/splicing.json": {
+      "checksum": "159e13ad9ae3752fbdff13db3cfa8b7e"
+    },
+    "kg/nodes/process/telophase-i.json": {
+      "checksum": "a58313a3d24e187b6df3631dbc2f18ae"
+    },
+    "kg/nodes/process/telophase-ii.json": {
+      "checksum": "c7271f4897fb8c78ddf630d8032663de"
+    },
+    "kg/nodes/process/transcription-elongation.json": {
+      "checksum": "f301b74d2042f1512b096efcb3d43fa7"
+    },
+    "kg/nodes/process/transcription-initiation.json": {
+      "checksum": "cb3533681e1dc27ba70437a4acebd692"
+    },
+    "kg/nodes/process/transcription-termination.json": {
+      "checksum": "9bc0e7c5e9f5b891e2614e0a752f5d56"
+    },
+    "kg/nodes/process/transcription.json": {
+      "checksum": "ed27e700edc9acaaecb1ef56ee66f642"
+    },
+    "kg/nodes/process/translation-elongation.json": {
+      "checksum": "1cc1af125c9ec9be1279e906c2305806"
+    },
+    "kg/nodes/process/translation-initiation.json": {
+      "checksum": "195ab7651a0b926bcc7b449852721fb8"
+    },
+    "kg/nodes/process/translation-termination.json": {
+      "checksum": "90eb9cbfeda2bb9223707154930a7479"
+    },
+    "kg/nodes/process/translation.json": {
+      "checksum": "963cc56916c1b38d9e5cf3ac82da86f5"
+    },
+    "kg/nodes/source/study-guide-exam-3.json": {
+      "checksum": "75357c10b217be2f0ee196541b7f0e44"
+    },
+    "kg/nodes/structure/antiparallel-strands.json": {
+      "checksum": "5e9f43a456854ac09fa3d6ae6bcf98d6"
+    },
+    "kg/nodes/structure/autosome.json": {
+      "checksum": "860a5fd13514acbd5a13ad610cbb5dc7"
+    },
+    "kg/nodes/structure/chiasmata.json": {
+      "checksum": "acf69931a1e0fa9a09389c9fe807d7d2"
+    },
+    "kg/nodes/structure/chromosome.json": {
+      "checksum": "9853b29ecfe948e65a4908bef183e29a"
+    },
+    "kg/nodes/structure/double-helix.json": {
+      "checksum": "974b060e4085d9744722ebd72eeb7a62"
+    },
+    "kg/nodes/structure/exon.json": {
+      "checksum": "666b44e85ad0b0299c86d5d326130ac5"
+    },
+    "kg/nodes/structure/homologous-chromosomes.json": {
+      "checksum": "ec1062d9e8cc5340948a24b687ea4f73"
+    },
+    "kg/nodes/structure/hydrogen-bond.json": {
+      "checksum": "f5c50d6347436c70e884632d0af1e31b"
+    },
+    "kg/nodes/structure/intron.json": {
+      "checksum": "a37b3066602537115458a15dd4f3b1ac"
+    },
+    "kg/nodes/structure/lagging-strand.json": {
+      "checksum": "a2a4edad561c69853b27afd5682596e6"
+    },
+    "kg/nodes/structure/leading-strand.json": {
+      "checksum": "4f3baadcae7fc82218abfc76a6e37060"
+    },
+    "kg/nodes/structure/mrna-cap.json": {
+      "checksum": "54ceb4ae161a48f64d20ad328e4acb26"
+    },
+    "kg/nodes/structure/nitrogenous-base.json": {
+      "checksum": "06f6faec0e7706b8fcaf424365c627d9"
+    },
+    "kg/nodes/structure/okazaki-fragment.json": {
+      "checksum": "1c2adeb79a9cd3d81fa73c9156236867"
+    },
+    "kg/nodes/structure/origin-of-replication.json": {
+      "checksum": "46b07f1a7876480ce86c0d0ef0fe9a29"
+    },
+    "kg/nodes/structure/phosphate-group.json": {
+      "checksum": "4f2a2bf5a4ac8af577f7a9fe34e5bd2b"
+    },
+    "kg/nodes/structure/phosphodiester-bond.json": {
+      "checksum": "7b021a8c7f8bde86368bae87850857f4"
+    },
+    "kg/nodes/structure/plasmid.json": {
+      "checksum": "5c016eee0abbd4ae3042f36e47cee618"
+    },
+    "kg/nodes/structure/poly-a-tail.json": {
+      "checksum": "cd8d520a35297fedf6518a740e631edc"
+    },
+    "kg/nodes/structure/promoter.json": {
+      "checksum": "d346685a146e1b2f854f8fc6100cf8c5"
+    },
+    "kg/nodes/structure/replication-bubble.json": {
+      "checksum": "837c0139c9b1bfd1572b8d657d124433"
+    },
+    "kg/nodes/structure/replication-fork.json": {
+      "checksum": "b930534d67cf2652676d93052c197520"
+    },
+    "kg/nodes/structure/ribosome.json": {
+      "checksum": "e0b7c58c7717d5ba7345406ac849f955"
+    },
+    "kg/nodes/structure/sex-chromosomes.json": {
+      "checksum": "2f5d3c9ad1caa570af29e53ab609f786"
+    },
+    "kg/nodes/structure/sister-chromatids.json": {
+      "checksum": "8c2056040e90077da8b2aabdfe8492e3"
+    },
+    "kg/nodes/structure/sugar-phosphate-backbone.json": {
+      "checksum": "b2d7e2131b7cd818d19c4a95a123c0e0"
+    },
+    "kg/nodes/structure/telomere.json": {
+      "checksum": "92f72529538fc6149f4a275a0df834b1"
+    },
+    "kg/nodes/structure/terminator.json": {
+      "checksum": "5f12a9ac08b4ad386a659000c207afd9"
+    },
+    "kg/nodes/structure/transcription-factor.json": {
+      "checksum": "b5800318479f6aaaaa3b05c2bd07cb92"
+    },
+    "kg/nodes/structure/x-chromosome.json": {
+      "checksum": "2067be48963e8bde12b954bba9f8aa8a"
+    },
+    "kg/nodes/structure/y-chromosome.json": {
+      "checksum": "fe4e7dcb91f4a006c861b38099266743"
+    },
+    "kg/nodes/technique/dna-sequencing.json": {
+      "checksum": "feb35b0f5eda0c7bd3a29dff4445c2a6"
+    },
+    "kg/nodes/technique/gel-electrophoresis.json": {
+      "checksum": "279a24f788fad8d781ffaf97a357116a"
+    },
+    "kg/nodes/technique/pcr.json": {
+      "checksum": "eeeea4c26e829f95a23120b5e6a2e7aa"
+    },
+    "kg/nodes/technique/punnett-square.json": {
+      "checksum": "99b757555d33cbb2809b855125353c62"
+    },
+    "kg/nodes/technique/str-analysis.json": {
+      "checksum": "b164c9aff7c007b29ddc0813fadb4e3b"
+    },
+    "kg/nodes/term/allele.json": {
+      "checksum": "8094cf245554a5a4195b6fa853dfb23a"
+    },
+    "kg/nodes/term/carrier.json": {
+      "checksum": "7d9781fa4a86d24ccbbea37db99e1c8d"
+    },
+    "kg/nodes/term/chromatid.json": {
+      "checksum": "f727260d24e092309cf1c41673b4b467"
+    },
+    "kg/nodes/term/diploid.json": {
+      "checksum": "7215015b49fe295fcf4ef12d07560581"
+    },
+    "kg/nodes/term/dominant.json": {
+      "checksum": "27d0b0540dfd3c6ea7bba012154d844b"
+    },
+    "kg/nodes/term/f1-generation.json": {
+      "checksum": "41fbd975bd59929eeada7fd63ae12f9a"
+    },
+    "kg/nodes/term/f2-generation.json": {
+      "checksum": "cf470d2b2bf61fe47726ee497212688e"
+    },
+    "kg/nodes/term/gamete.json": {
+      "checksum": "f7eb8ccc0d0ec5da68c813fa9ad0be70"
+    },
+    "kg/nodes/term/gene.json": {
+      "checksum": "bb95dbccb546eebd58791a92c9277606"
+    },
+    "kg/nodes/term/genetic-recombination.json": {
+      "checksum": "b112ba8005cdd79e7e094f792c8a1829"
+    },
+    "kg/nodes/term/genotype.json": {
+      "checksum": "25a35c7e50bc5fa05386f196dd2ac1d4"
+    },
+    "kg/nodes/term/haploid.json": {
+      "checksum": "67566718d64e3df5e4552ff16325a432"
+    },
+    "kg/nodes/term/heterozygous.json": {
+      "checksum": "da19dda6397b94426d7bbbf5d6b273aa"
+    },
+    "kg/nodes/term/homozygous.json": {
+      "checksum": "8a217ee425cd9dd8e3b1664763138005"
+    },
+    "kg/nodes/term/independent-assortment.json": {
+      "checksum": "dc108fdf06cbb65530d8a814b9ca3f1b"
+    },
+    "kg/nodes/term/inheritance.json": {
+      "checksum": "ac35098c75f20caba1fed8e029d93db1"
+    },
+    "kg/nodes/term/locus.json": {
+      "checksum": "84a0946e88405fb7a0a111b3f97663f8"
+    },
+    "kg/nodes/term/mutagen.json": {
+      "checksum": "cfc7de24c5e2168b3ab92d175419db7f"
+    },
+    "kg/nodes/term/p-generation.json": {
+      "checksum": "38db03064169b2032c57d8c6df2f5f74"
+    },
+    "kg/nodes/term/phenotype.json": {
+      "checksum": "79a5a803d4eb0ede764446599c02b116"
+    },
+    "kg/nodes/term/pleiotropy.json": {
+      "checksum": "5fdfdb3ab8444c1c9ee753e113a54a1c"
+    },
+    "kg/nodes/term/polygenic.json": {
+      "checksum": "f7f19c6753b74d86efa2b05de3dbe5c6"
+    },
+    "kg/nodes/term/recessive.json": {
+      "checksum": "02dfae07ae92705654ef00bf941d6453"
+    },
+    "kg/nodes/term/true-breeding.json": {
+      "checksum": "bcb37d9f82d0ba014c8a444fef2cf6c5"
+    },
+    "kg/schema/edge.schema.json": {
+      "checksum": "25b33ef4ce304721480a6d220c3406e7"
+    },
+    "kg/schema/node.base.schema.json": {
+      "checksum": "ce09a49fad90e44b9a1e7756332e1321"
+    },
+    "print/study-guide-compact.html": {
+      "checksum": "aaa39272e735d987e607c3f7949ea2b4"
+    },
+    "print/study-guide.html": {
+      "checksum": "7ba38f7afe345ed3728cb3488afcfdd4"
+    },
+    "raw/extracted/chapter-09-meiosis.md": {
+      "checksum": "f4693d68c206910450ba28159e68d4fc"
+    },
+    "raw/extracted/chapter-10-inheritance.md": {
+      "checksum": "47875508d54bbb37253653ee742fa24e"
+    },
+    "raw/extracted/chapter-11-dna-structure-replication.md": {
+      "checksum": "359c8ae334dd25b3f7cce4891a5ea0e2"
+    },
+    "raw/extracted/chapter-12-how-genes-work.md": {
+      "checksum": "e454a03c3ca6d13f3a62d841c8ddb7a4"
+    },
+    "raw/extracted/chapter-13-new-biology.md": {
+      "checksum": "b027b71eabe28a4b37286f30a781b90e"
+    },
+    "raw/extracted/study-guide-exam-3.md": {
+      "checksum": "c75c0633cfb851cb8904dec128a042d0"
+    },
+    "tools/build_kg.py": {
+      "checksum": "b666b652b764b810ecbcc4a7ae825134"
+    },
+    "tools/build_print_version.py": {
+      "checksum": "245fb113231f502ee879de3eedeb84ea"
+    },
+    "tools/extract/__init__.py": {
+      "checksum": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "tools/extract/__pycache__/__init__.cpython-314.pyc": {
+      "checksum": "5fbe298fa25d052c6fd96dcf536edad0"
+    },
+    "tools/extract/__pycache__/frontmatter.cpython-314.pyc": {
+      "checksum": "3f33276fefd855150d2443a06b8e495c"
+    },
+    "tools/extract/__pycache__/sections.cpython-314.pyc": {
+      "checksum": "1872737af654ed9be13ab71bc49add91"
+    },
+    "tools/extract/__pycache__/tables.cpython-314.pyc": {
+      "checksum": "7e4230861261fa408b61d93bb514d0e0"
+    },
+    "tools/extract/__pycache__/wikilinks.cpython-314.pyc": {
+      "checksum": "cdbc729fe8fa5c2f02f98b29962ebc81"
+    },
+    "tools/extract/frontmatter.py": {
+      "checksum": "8778d89ec1ee3cf67d08c34910ea8f8b"
+    },
+    "tools/extract/sections.py": {
+      "checksum": "9cc51ed058f077c56fcdc39aa6705749"
+    },
+    "tools/extract/tables.py": {
+      "checksum": "1080316ec6591c3af6d399f3ae36ebe1"
+    },
+    "tools/extract/wikilinks.py": {
+      "checksum": "5e4cf2e9ff2158859c1db487e9beab0f"
+    },
+    "tools/extract_docx.py": {
+      "checksum": "bb0a8ab3d1b5474f4ca01004802ec7c7"
+    },
+    "tools/extract_pptx.py": {
+      "checksum": "b41ae785fafab516588c8151d61364d4"
+    },
+    "tools/render_index.py": {
+      "checksum": "8d4778ce53517dd2f9db095cc266e68e"
+    },
+    "tools/validate.py": {
+      "checksum": "a3c7da8371597149471c8b2a70330be5"
+    },
+    "wiki/chapters/chapter-09.md": {
+      "checksum": "5cd546039e6437ed18613104a000ecaf"
+    },
+    "wiki/chapters/chapter-10.md": {
+      "checksum": "d4919bec978acf169c1647b131be99bb"
+    },
+    "wiki/chapters/chapter-11.md": {
+      "checksum": "7af1097007bdb809263b1523cbad5d42"
+    },
+    "wiki/chapters/chapter-12.md": {
+      "checksum": "cc8ca432111474e97898aff29adbdc50"
+    },
+    "wiki/chapters/chapter-13.md": {
+      "checksum": "e55fa84749fa75374a9f7e3a4624a5d3"
+    },
+    "wiki/chapters/study-guide.md": {
+      "checksum": "6f76e582a1d3a68350206c8556c2c82e"
+    },
+    "wiki/comparisons/dna-vs-rna.md": {
+      "checksum": "6060a0db0295aac96802748da70a5748"
+    },
+    "wiki/comparisons/mitosis-vs-meiosis.md": {
+      "checksum": "51f6998d17dc0afd2d0b94690e99142c"
+    },
+    "wiki/comparisons/prokaryote-vs-eukaryote-replication.md": {
+      "checksum": "7ba8086c8d16a01a5b1560b88f7e7caf"
+    },
+    "wiki/comparisons/transcription-vs-translation.md": {
+      "checksum": "d70e2685a777019729e39f8c43e95344"
+    },
+    "wiki/concepts/abo-blood-typing.md": {
+      "checksum": "dbe3a598339ce6021239fdd76d080052"
+    },
+    "wiki/concepts/alternative-splicing.md": {
+      "checksum": "e73abad15491ab469be67e3f6c673b56"
+    },
+    "wiki/concepts/biotechnology.md": {
+      "checksum": "be50da9dcdf4a416c08db995fbb9662b"
+    },
+    "wiki/concepts/cloning.md": {
+      "checksum": "f2e1c058cef7ddaf7e24d65e00c04aaf"
+    },
+    "wiki/concepts/codon-redundancy.md": {
+      "checksum": "fa3255e9a4c5f27f4faeefdfe8a3a88e"
+    },
+    "wiki/concepts/crossover-probability.md": {
+      "checksum": "0a17c89945f6a170dc33ae3ba441390a"
+    },
+    "wiki/concepts/deletion-mutation.md": {
+      "checksum": "2dfde2534b477c250bff2677ae8a7353"
+    },
+    "wiki/concepts/dihybrid-cross.md": {
+      "checksum": "3a11009db591a950223a586076dd2516"
+    },
+    "wiki/concepts/dizygotic-twins.md": {
+      "checksum": "9165680a58d309e856c9d1fe53daf391"
+    },
+    "wiki/concepts/dna-profiling.md": {
+      "checksum": "5807d33dc4283cdfd613d4d092ec491d"
+    },
+    "wiki/concepts/environment-and-phenotype.md": {
+      "checksum": "bab448fec3d655842d64397fa117980e"
+    },
+    "wiki/concepts/epistasis.md": {
+      "checksum": "448777f18d6c162d585122a71532e7dd"
+    },
+    "wiki/concepts/frameshift-mutation.md": {
+      "checksum": "65e2d81c637da74af1b7dbf48662f829"
+    },
+    "wiki/concepts/gene-linkage.md": {
+      "checksum": "b7a08944f647b606c65f2351b8af4695"
+    },
+    "wiki/concepts/gene-regulation.md": {
+      "checksum": "c67e94bbefc4933c9ded57e67dc9ec13"
+    },
+    "wiki/concepts/gene-therapy.md": {
+      "checksum": "a565d0164d544fa5b42419d4f4677562"
+    },
+    "wiki/concepts/genetic-engineering.md": {
+      "checksum": "1a4c4a6b045adea42f17d737798f17e8"
+    },
+    "wiki/concepts/heteropaternal-superfecundation.md": {
+      "checksum": "3d267cfe740712b5e9102c9bbfa5c1f1"
+    },
+    "wiki/concepts/human-genome-project.md": {
+      "checksum": "56df480dcc40cce981568400fc294733"
+    },
+    "wiki/concepts/insertion-mutation.md": {
+      "checksum": "b32a915d75aa72cf1929ed1c33fbd29f"
+    },
+    "wiki/concepts/monohybrid-cross.md": {
+      "checksum": "4d3cfdcc143d94fb63d7f253f391b205"
+    },
+    "wiki/concepts/monozygotic-twins.md": {
+      "checksum": "4199caa308637505ef263610eff25fd4"
+    },
+    "wiki/concepts/mutation.md": {
+      "checksum": "8a1519778e63f1b3974a1714d6f71e6d"
+    },
+    "wiki/concepts/point-mutation.md": {
+      "checksum": "48f70ee97a37c7e8cde93a60449c1306"
+    },
+    "wiki/concepts/pre-mrna.md": {
+      "checksum": "06e83d4c4d3a677896ea107df907fefb"
+    },
+    "wiki/concepts/preimplantation-genetic-diagnosis.md": {
+      "checksum": "021c79752048be41d87167c9816d5c1d"
+    },
+    "wiki/concepts/recombinant-dna.md": {
+      "checksum": "36d1b2cddbc1910b6b8a23479d80925d"
+    },
+    "wiki/concepts/sexual-reproduction-advantages.md": {
+      "checksum": "d6d5be7ca4a91ac6f0e44c0e320cb59c"
+    },
+    "wiki/concepts/short-tandem-repeat.md": {
+      "checksum": "5890de1a9fc818d162075f4f5529a01f"
+    },
+    "wiki/concepts/substitution-mutation.md": {
+      "checksum": "5de536b3ff9eb89f9a742ba44e443514"
+    },
+    "wiki/concepts/x-inactivation.md": {
+      "checksum": "2baa8a236780fc4afacb23f436325e5b"
+    },
+    "wiki/diseases/albinism.md": {
+      "checksum": "ea4157d253290abe439c9b440adbb361"
+    },
+    "wiki/diseases/alkaptonuria.md": {
+      "checksum": "41f42ca26b6f81f9b4e6ea1b70b563bf"
+    },
+    "wiki/diseases/color-blindness.md": {
+      "checksum": "cef69b72ff8c3cf789dc7a6aa3633573"
+    },
+    "wiki/diseases/cystic-fibrosis.md": {
+      "checksum": "62367a7d65000ee3a9d999a8c8c3fc4a"
+    },
+    "wiki/diseases/down-syndrome.md": {
+      "checksum": "04d335ff5b4cbd54e7ee7b32d784fb6e"
+    },
+    "wiki/diseases/marfan-syndrome.md": {
+      "checksum": "b523e69d7e3b7bbc41953d15811a1d07"
+    },
+    "wiki/diseases/rett-syndrome.md": {
+      "checksum": "1615f55089e303deaa112e72f4e69667"
+    },
+    "wiki/diseases/sickle-cell-anemia.md": {
+      "checksum": "15f6f27fe7305894ce759aa08f1a5afc"
+    },
+    "wiki/enzymes/dna-helicase.md": {
+      "checksum": "9bb19b3ea0be6ae99bd8cd6463327a63"
+    },
+    "wiki/enzymes/dna-ligase.md": {
+      "checksum": "1498dd8654a6994eb79aed555eba08b8"
+    },
+    "wiki/enzymes/dna-polymerase-i.md": {
+      "checksum": "655f7247b7ad8bcbafe06eee6807fea1"
+    },
+    "wiki/enzymes/dna-polymerase-iii.md": {
+      "checksum": "d48348cfd78b0830eacc23baadf69a1f"
+    },
+    "wiki/enzymes/dna-polymerase.md": {
+      "checksum": "bde81c6cea81334e0d08923712989ae9"
+    },
+    "wiki/enzymes/rna-polymerase.md": {
+      "checksum": "726ee35f7eaca2b1822a89c2fc17f9fc"
+    },
+    "wiki/enzymes/rna-primase.md": {
+      "checksum": "7dad40925bd6d8260aecc0a2e4d84edf"
+    },
+    "wiki/enzymes/single-stranded-binding-protein.md": {
+      "checksum": "be47da0f7722905eb3a139d0ba736a51"
+    },
+    "wiki/enzymes/telomerase.md": {
+      "checksum": "7b790b588c864927f01d818d5c5a72e4"
+    },
+    "wiki/enzymes/topoisomerase.md": {
+      "checksum": "26cea2ffce93f5e397217dc34dd3e0ef"
+    },
+    "wiki/exam-topics/abo-codominance.md": {
+      "checksum": "869fbb8244aa20ecc0832dda881f9a9e"
+    },
+    "wiki/exam-topics/biotechnology-genetic-engineering.md": {
+      "checksum": "fee61c17a8f1ec40038c94802a87500a"
+    },
+    "wiki/exam-topics/chargaffs-rule.md": {
+      "checksum": "0b711540281bd0093d844fcd570c051e"
+    },
+    "wiki/exam-topics/codon-to-amino-acid.md": {
+      "checksum": "3776aa5cab7cc927f5d20df9fc84a184"
+    },
+    "wiki/exam-topics/complementary-base-pairing.md": {
+      "checksum": "2bd63d32241fec883bf24829c91673d8"
+    },
+    "wiki/exam-topics/complementary-strand-from-sequence.md": {
+      "checksum": "4f87d1f901c261a76c1ddae9c9f7046e"
+    },
+    "wiki/exam-topics/crossing-over-and-linkage.md": {
+      "checksum": "a8c80fbad6e89f392072dc39d81e6fb2"
+    },
+    "wiki/exam-topics/crossing-over.md": {
+      "checksum": "9ef0c2f931d06d595e81d923a17fd057"
+    },
+    "wiki/exam-topics/dna-vs-rna-three-differences.md": {
+      "checksum": "b60c2bfe4dd4ffd9cc52d2fb52f9dbd5"
+    },
+    "wiki/exam-topics/environment-regulates-phenotype.md": {
+      "checksum": "7f728c843babc2a1cc6401db27067869"
+    },
+    "wiki/exam-topics/eukaryotic-gene-regulation.md": {
+      "checksum": "e6e27e5a41423ba695d7c168d4c674c9"
+    },
+    "wiki/exam-topics/first-amino-acid.md": {
+      "checksum": "93e070c775e81a289cf8ffd118b2e64b"
+    },
+    "wiki/exam-topics/four-nucleotides.md": {
+      "checksum": "bad37b09f7b872b87a88985c8fc0d49f"
+    },
+    "wiki/exam-topics/full-meiosis-process.md": {
+      "checksum": "14d616fd0c05b4844dba31e1396f5ea4"
+    },
+    "wiki/exam-topics/gamete-allele-distribution.md": {
+      "checksum": "53fcf23af7eac88ece1b080d76858234"
+    },
+    "wiki/exam-topics/gel-electrophoresis-process.md": {
+      "checksum": "5e81bfbfab88dc3bcf95c4209b48530a"
+    },
+    "wiki/exam-topics/gene-linkage.md": {
+      "checksum": "b1313aaf608d354cbf17aa69ffefe333"
+    },
+    "wiki/exam-topics/incomplete-dominance.md": {
+      "checksum": "f18ea226ba249e3420f7e850002f9d86"
+    },
+    "wiki/exam-topics/independent-assortment-in-inheritance.md": {
+      "checksum": "c7c8e01f965fedba40d75f1c6b4a8f21"
+    },
+    "wiki/exam-topics/inheritance-vocabulary.md": {
+      "checksum": "88e9e37e88c3dbbb0a20a5a8d8939d08"
+    },
+    "wiki/exam-topics/introns-exons.md": {
+      "checksum": "ace75f95f8cd90d7aafcaa39828eb766"
+    },
+    "wiki/exam-topics/law-of-independent-assortment.md": {
+      "checksum": "3adf435eb754ee78493d1b7f0729838a"
+    },
+    "wiki/exam-topics/leading-vs-lagging-strand.md": {
+      "checksum": "d2646249714d3ad193e024ca67209865"
+    },
+    "wiki/exam-topics/meiosis-i-phases.md": {
+      "checksum": "4c02bed9f2b1b255d3029ab181e85e9f"
+    },
+    "wiki/exam-topics/meiosis-ii-phases.md": {
+      "checksum": "994d2e7aeace514772a87a6f04d85df3"
+    },
+    "wiki/exam-topics/mendel-cross-explanation.md": {
+      "checksum": "4572310a2dc88eb0042a3de59e5f7064"
+    },
+    "wiki/exam-topics/metaphase-comparison.md": {
+      "checksum": "1e7fc54aecafce3998279a622c1341e8"
+    },
+    "wiki/exam-topics/mutagen.md": {
+      "checksum": "5014ddb2fee0b89a956bc95373e77dfd"
+    },
+    "wiki/exam-topics/mutations-affect-protein.md": {
+      "checksum": "5025b30caf536292946a264fff469891"
+    },
+    "wiki/exam-topics/nondisjunction.md": {
+      "checksum": "20c503be55984f5143e409c84b369671"
+    },
+    "wiki/exam-topics/nucleotide-components.md": {
+      "checksum": "9a2f6e159f4c7e02bcd1e62061ca3202"
+    },
+    "wiki/exam-topics/okazaki-fragments.md": {
+      "checksum": "3198224553e908211f7365077ca8441f"
+    },
+    "wiki/exam-topics/origin-of-replication-prokaryote-eukaryote.md": {
+      "checksum": "6ff84e634b9ac36cb30609597b071bab"
+    },
+    "wiki/exam-topics/outcome-meiosis-i.md": {
+      "checksum": "86dfe38176a35e042cdce0e6c8576402"
+    },
+    "wiki/exam-topics/outcome-meiosis-ii.md": {
+      "checksum": "5f1df02a76489d9c3e78e940b3edf1ad"
+    },
+    "wiki/exam-topics/p-f1-f2-relationship.md": {
+      "checksum": "67fe0bed52bbab849e0821159ff00d27"
+    },
+    "wiki/exam-topics/pcr-components.md": {
+      "checksum": "ecc83a32f9050babc2122c284edcbafd"
+    },
+    "wiki/exam-topics/pcr-purpose-copies.md": {
+      "checksum": "b2f5c0d4480ede275717ed63ca391db1"
+    },
+    "wiki/exam-topics/pre-mrna.md": {
+      "checksum": "f1e7a9f2743fe663a453bb3d755e8dd8"
+    },
+    "wiki/exam-topics/punnett-cross-genotype-phenotype.md": {
+      "checksum": "e29bf81d9d9446fd761253818c0e98d0"
+    },
+    "wiki/exam-topics/pure-breeding.md": {
+      "checksum": "07f8d6ab09f9d5728997a11dd38f0e47"
+    },
+    "wiki/exam-topics/replication-enzyme-functions.md": {
+      "checksum": "c25aa2089e94e0c2098d748536169ee1"
+    },
+    "wiki/exam-topics/replication-mitosis-vs-meiosis.md": {
+      "checksum": "7a2c97a8e785bf8fc8a4b1d8c0b0826d"
+    },
+    "wiki/exam-topics/rounds-of-division-in-meiosis.md": {
+      "checksum": "d9602fe6665235672b2fe6a3a4a31863"
+    },
+    "wiki/exam-topics/rounds-of-replication-in-meiosis.md": {
+      "checksum": "6b69b2ed858f86d6cd7404350517b89b"
+    },
+    "wiki/exam-topics/sex-chromosomes.md": {
+      "checksum": "a75c1473919d8dd61ce87747b8ec945f"
+    },
+    "wiki/exam-topics/sex-linked-punnett.md": {
+      "checksum": "98e3d075d90196e19728d1e0748ca637"
+    },
+    "wiki/exam-topics/sexual-reproduction-survival.md": {
+      "checksum": "212fd9f9faf07aa4e6be03a9f403db3a"
+    },
+    "wiki/exam-topics/short-tandem-repeats.md": {
+      "checksum": "5904e224bb5ff8dc5326dbcddd8adb6a"
+    },
+    "wiki/exam-topics/start-stop-codons.md": {
+      "checksum": "21c773cbef622b7c383d9ef5d31f860d"
+    },
+    "wiki/exam-topics/telomerase.md": {
+      "checksum": "ecd6968ba92ed9ceb21c570045ce91cb"
+    },
+    "wiki/exam-topics/telomere-aging.md": {
+      "checksum": "0ae085252b389da9deb8af27522d906e"
+    },
+    "wiki/exam-topics/telomeres.md": {
+      "checksum": "6a729011029dd66cbd070b3572b7a8c1"
+    },
+    "wiki/exam-topics/template-direction-and-synthesis.md": {
+      "checksum": "f0c7749ad55dc6f0ba85f0c33edc06c7"
+    },
+    "wiki/exam-topics/three-rna-classes.md": {
+      "checksum": "67d295ae7169b6cb1e7234742f728487"
+    },
+    "wiki/exam-topics/transcription-elongation.md": {
+      "checksum": "826ae6d37410a10267a5f7b94a5a40b8"
+    },
+    "wiki/exam-topics/transcription-initiation.md": {
+      "checksum": "276eef6eed45ec024a978d6d1a440fd4"
+    },
+    "wiki/exam-topics/transcription-process.md": {
+      "checksum": "e576df644253f031bcc0aa14d31490a8"
+    },
+    "wiki/exam-topics/transcription-termination.md": {
+      "checksum": "f9b507e6c653bbbe951d7375241718ad"
+    },
+    "wiki/exam-topics/transcription-vs-translation.md": {
+      "checksum": "d1de7b69d4787877b4a4ce0f43923a2b"
+    },
+    "wiki/exam-topics/translation-elongation.md": {
+      "checksum": "9505a80143a41360411678ce30dca56e"
+    },
+    "wiki/exam-topics/translation-initiation.md": {
+      "checksum": "1fb54d6a217abc8b54eb6eded05eca38"
+    },
+    "wiki/exam-topics/translation-process.md": {
+      "checksum": "aacf091cf75e14caee6f6e6bc6f69e0a"
+    },
+    "wiki/exam-topics/translation-termination.md": {
+      "checksum": "aca59b6d2e515fd2727f752c8c71dfe1"
+    },
+    "wiki/exam-topics/types-of-mutations-dna.md": {
+      "checksum": "e4ef3640cb4a460b75bbe3a1bc08632b"
+    },
+    "wiki/exam-topics/when-replication-occurs.md": {
+      "checksum": "d2b02e4b8b3e660287530f76ae5ec8c4"
+    },
+    "wiki/experiments/griffith-experiment.md": {
+      "checksum": "69899c36e6b7b9e68d6a9e1aa3b6fc30"
+    },
+    "wiki/experiments/mendel-pea-experiment.md": {
+      "checksum": "cfc9fc5d4bce72be3d3af53e9b696706"
+    },
+    "wiki/index.md": {
+      "checksum": "4014557ec7b24062c0db50700d982b01"
+    },
+    "wiki/inheritance/codominance.md": {
+      "checksum": "1fe18d9be25251841c6077554462bc93"
+    },
+    "wiki/inheritance/incomplete-dominance.md": {
+      "checksum": "2540feaea66d64dbe793ddc3b8dc2136"
+    },
+    "wiki/inheritance/pleiotropy.md": {
+      "checksum": "42d81f3abe55fb5b89c1b78adf9ae3e7"
+    },
+    "wiki/inheritance/polygenic-trait.md": {
+      "checksum": "b5d39daf3e66442b2e2c19dfe60df5f4"
+    },
+    "wiki/inheritance/sex-linked.md": {
+      "checksum": "669498eb738d9a889899a1d6c13fc7fa"
+    },
+    "wiki/inheritance/x-linked-recessive.md": {
+      "checksum": "35fd49057d512bb7428b830909558ddb"
+    },
+    "wiki/log.md": {
+      "checksum": "36fd974fef755893fa81a73905991139"
+    },
+    "wiki/molecules/adenine.md": {
+      "checksum": "50eba22eab1aabf3b96847167ee5a92c"
+    },
+    "wiki/molecules/amino-acid.md": {
+      "checksum": "5a76d1739ef1febd227a03cb7241fa00"
+    },
+    "wiki/molecules/anticodon.md": {
+      "checksum": "45f3f75aacfd918082b4b9b12d6afd78"
+    },
+    "wiki/molecules/codon.md": {
+      "checksum": "d8adf249ea7f953fe0b9b0d317149c9c"
+    },
+    "wiki/molecules/cytosine.md": {
+      "checksum": "15f825859e0a9a839a0f3d734214657c"
+    },
+    "wiki/molecules/deoxyribose.md": {
+      "checksum": "35380f0ed7d9ed33598ac09a4520d38e"
+    },
+    "wiki/molecules/dna.md": {
+      "checksum": "27eaa6950fd11fcb5c37a9cd5aad829c"
+    },
+    "wiki/molecules/dntp.md": {
+      "checksum": "5a013b2aecd7e5aea4935a008c15d5c0"
+    },
+    "wiki/molecules/guanine.md": {
+      "checksum": "bc1396be0aa3b59985d0f578fc9f32cc"
+    },
+    "wiki/molecules/methionine.md": {
+      "checksum": "7cb45a85845b58c00219dc185bfedb6a"
+    },
+    "wiki/molecules/microrna.md": {
+      "checksum": "9e89b7c74a1bf137ed750846da805555"
+    },
+    "wiki/molecules/mrna.md": {
+      "checksum": "51d873834f5596533ea3ba120f1266b4"
+    },
+    "wiki/molecules/primer.md": {
+      "checksum": "b7ebb6d0c622591a1c84add1ea55feeb"
+    },
+    "wiki/molecules/rna.md": {
+      "checksum": "fba2d03fefc9b25ad2c26942cac70a4a"
+    },
+    "wiki/molecules/rrna.md": {
+      "checksum": "f475361c73566993ed0bbb291bca3a25"
+    },
+    "wiki/molecules/thymine.md": {
+      "checksum": "6e61db68c53bb4fdb10e325446c5b34a"
+    },
+    "wiki/molecules/trna.md": {
+      "checksum": "028419524392d764524d48077654236e"
+    },
+    "wiki/overview.md": {
+      "checksum": "7d3d22457433afd35b95881f83c3d575"
+    },
+    "wiki/people/gregor-mendel.md": {
+      "checksum": "632dbb1042f77e8e3604b72cb7677e07"
+    },
+    "wiki/people/kary-mullis.md": {
+      "checksum": "6de95ce9e5c4f25f69dfc216b3d629d7"
+    },
+    "wiki/principles/central-dogma.md": {
+      "checksum": "25f517d24800d6f04425b0a6dc14cf91"
+    },
+    "wiki/principles/chargaffs-rule.md": {
+      "checksum": "0fa7efb8603154c9e71c04ba92f6e29d"
+    },
+    "wiki/principles/codon-redundancy.md": {
+      "checksum": "84e996e7edf64e851203bc53e9cfd31c"
+    },
+    "wiki/principles/complementary-base-pairing.md": {
+      "checksum": "fb12bf030a377da95d0c5c7879cc3ac4"
+    },
+    "wiki/principles/genetic-code.md": {
+      "checksum": "74a422b89ddaf180d0cd80ac1129729f"
+    },
+    "wiki/principles/law-of-independent-assortment.md": {
+      "checksum": "e95bdbab745fcf35f1b4d2d9b47a5d32"
+    },
+    "wiki/principles/law-of-segregation.md": {
+      "checksum": "5aeffa1c16a9d82f29b7d7d1bb8108db"
+    },
+    "wiki/principles/semiconservative-replication.md": {
+      "checksum": "e841baf30a8ac8bebe589fe08539647b"
+    },
+    "wiki/principles/start-codon.md": {
+      "checksum": "4135d63eb85e924dc8134ee704a504c2"
+    },
+    "wiki/principles/stop-codon.md": {
+      "checksum": "51bd81b54c50c522fe7a3928f4fae6e5"
+    },
+    "wiki/processes/anaphase-i.md": {
+      "checksum": "de92765973db4eef51af233f9ecc2d1c"
+    },
+    "wiki/processes/anaphase-ii.md": {
+      "checksum": "1379b371bd627fc675306970c34a6f51"
+    },
+    "wiki/processes/cell-cycle.md": {
+      "checksum": "b440488fab66d06ded239aaad1342e73"
+    },
+    "wiki/processes/crossing-over.md": {
+      "checksum": "e9984c8cdace94a77555832250b83c61"
+    },
+    "wiki/processes/dna-replication.md": {
+      "checksum": "669dcfd260136c1da2ad89d53ee86ab1"
+    },
+    "wiki/processes/meiosis-i.md": {
+      "checksum": "45492e2a15ec66d4430eaccd20540757"
+    },
+    "wiki/processes/meiosis-ii.md": {
+      "checksum": "6e2f596349aecbdf59217640eeab4ce4"
+    },
+    "wiki/processes/meiosis.md": {
+      "checksum": "124cc1c5633deb6a0c5694c0d237a9e7"
+    },
+    "wiki/processes/metaphase-i.md": {
+      "checksum": "d680c3a3f9e6b48f6b39181c594895af"
+    },
+    "wiki/processes/metaphase-ii.md": {
+      "checksum": "7b27d7537384453367028e25c28d19b4"
+    },
+    "wiki/processes/mitosis.md": {
+      "checksum": "ec5fa70077f072b9e12cd81596f9c429"
+    },
+    "wiki/processes/nondisjunction.md": {
+      "checksum": "804868c522ac2ea6b959a39d1f27ade2"
+    },
+    "wiki/processes/oogenesis.md": {
+      "checksum": "61a8b10d514df84fd732040031a07e60"
+    },
+    "wiki/processes/pcr-annealing.md": {
+      "checksum": "1d9e29ac2518d0d24805a4ad05f58b2e"
+    },
+    "wiki/processes/pcr-denaturation.md": {
+      "checksum": "bc318641ec47554663e45369cd0824f4"
+    },
+    "wiki/processes/pcr-extension.md": {
+      "checksum": "bc34c27ee8e4e6d277207a16a39d944f"
+    },
+    "wiki/processes/prophase-i.md": {
+      "checksum": "cdea04f3e88d8c921d180484821e360a"
+    },
+    "wiki/processes/prophase-ii.md": {
+      "checksum": "3f4cc3584c3e8121ebcc33cba49aa8a9"
+    },
+    "wiki/processes/rna-processing.md": {
+      "checksum": "554d407e0f2505f89fb14641106ed11a"
+    },
+    "wiki/processes/s-phase.md": {
+      "checksum": "f8927646e6f5e47bc35c0ee47d78a6df"
+    },
+    "wiki/processes/spermatogenesis.md": {
+      "checksum": "fedeba15ebe5d0cf715464b8dd198532"
+    },
+    "wiki/processes/splicing.md": {
+      "checksum": "67645780d5036470c522a49fa848ced7"
+    },
+    "wiki/processes/telophase-i.md": {
+      "checksum": "bac5097504656dac60bbcc8ebb94708e"
+    },
+    "wiki/processes/telophase-ii.md": {
+      "checksum": "3902c536614e5f82aa2da39336652022"
+    },
+    "wiki/processes/transcription-elongation.md": {
+      "checksum": "734b9637b5d835e042623efc6c44a70c"
+    },
+    "wiki/processes/transcription-initiation.md": {
+      "checksum": "225647eb501b4d522fda2d988e51960b"
+    },
+    "wiki/processes/transcription-termination.md": {
+      "checksum": "c1dcefbd43f9945eb0c1794804c225c0"
+    },
+    "wiki/processes/transcription.md": {
+      "checksum": "9a1ebbca10affd1acad00e3489b79a60"
+    },
+    "wiki/processes/translation-elongation.md": {
+      "checksum": "c920b147a571c96f78934c44b73b851c"
+    },
+    "wiki/processes/translation-initiation.md": {
+      "checksum": "1914eb18ebf7571c571a75627c1f1cff"
+    },
+    "wiki/processes/translation-termination.md": {
+      "checksum": "5204df7f4301903fd3324828849e04c9"
+    },
+    "wiki/processes/translation.md": {
+      "checksum": "6f46f185c41874aa86662acd805091c7"
+    },
+    "wiki/structures/antiparallel-strands.md": {
+      "checksum": "ac4b123df71ba10309715392cdd98d1b"
+    },
+    "wiki/structures/autosome.md": {
+      "checksum": "806b2ac3ab16cdab9bc8fe7fcc3d80b1"
+    },
+    "wiki/structures/chiasmata.md": {
+      "checksum": "17bb236aba6377df87864cbbca2a2803"
+    },
+    "wiki/structures/chromosome.md": {
+      "checksum": "687d092a970ca11837c00009084833ee"
+    },
+    "wiki/structures/double-helix.md": {
+      "checksum": "c89c9c5c7f2f0e264f16f4ba2c338048"
+    },
+    "wiki/structures/exon.md": {
+      "checksum": "56714bee8876a1baa4a5290819454fc6"
+    },
+    "wiki/structures/homologous-chromosomes.md": {
+      "checksum": "ff2768919ad012810dafed21f1075c30"
+    },
+    "wiki/structures/hydrogen-bond.md": {
+      "checksum": "c22404478ba449ba7ccd1e848033ec61"
+    },
+    "wiki/structures/intron.md": {
+      "checksum": "b5629c62e9a6a74d51fa2c23ea75c7dc"
+    },
+    "wiki/structures/lagging-strand.md": {
+      "checksum": "2592ef3d494cf9babcbca964639272b7"
+    },
+    "wiki/structures/leading-strand.md": {
+      "checksum": "e2fdf1f5ac8ed37afd1c829008ee73c9"
+    },
+    "wiki/structures/mrna-cap.md": {
+      "checksum": "f0b0ebe278d2ba2594d28c0ad5d72943"
+    },
+    "wiki/structures/nitrogenous-base.md": {
+      "checksum": "c9cb81c9dde02416c7fa7078ac53a38d"
+    },
+    "wiki/structures/okazaki-fragment.md": {
+      "checksum": "f2dca018c0e7caba5b79c81f601d3be5"
+    },
+    "wiki/structures/origin-of-replication.md": {
+      "checksum": "fc078224b9f91214eb18a94939a6aa9d"
+    },
+    "wiki/structures/phosphate-group.md": {
+      "checksum": "36d90e6d5f9df4f3ef523996d4013c56"
+    },
+    "wiki/structures/phosphodiester-bond.md": {
+      "checksum": "5547b062d7f9ac7b74d0dbfab7cf8a69"
+    },
+    "wiki/structures/plasmid.md": {
+      "checksum": "f1e01878654fdb6871c12a5517e97cb5"
+    },
+    "wiki/structures/poly-a-tail.md": {
+      "checksum": "ffa2276de418936a7731d95915fe9edf"
+    },
+    "wiki/structures/promoter.md": {
+      "checksum": "4ff510fccaa5ffbc6738b3c84d145942"
+    },
+    "wiki/structures/replication-bubble.md": {
+      "checksum": "d45235de068f937a5bfdd136100ef1bf"
+    },
+    "wiki/structures/replication-fork.md": {
+      "checksum": "e17b0d105131640866039d078030a095"
+    },
+    "wiki/structures/ribosome.md": {
+      "checksum": "4f2ed37d7c1142944714344936a43d94"
+    },
+    "wiki/structures/sex-chromosomes.md": {
+      "checksum": "d925ff84fd93b945b8dcc79f9801ecd2"
+    },
+    "wiki/structures/sister-chromatids.md": {
+      "checksum": "60be1976e51ddacad7bd89d628852493"
+    },
+    "wiki/structures/sugar-phosphate-backbone.md": {
+      "checksum": "62c7436b78135e9e6d2091b298b4cdc0"
+    },
+    "wiki/structures/telomere.md": {
+      "checksum": "10e45ef75cdcf798d2ef688979a8c55f"
+    },
+    "wiki/structures/terminator.md": {
+      "checksum": "910bd65e282f959dcaf6e79b1703f116"
+    },
+    "wiki/structures/transcription-factor.md": {
+      "checksum": "5550d38dc888776fb83ed65c231f96c7"
+    },
+    "wiki/structures/x-chromosome.md": {
+      "checksum": "eddfdc8b02904f18ffb5defd73c77814"
+    },
+    "wiki/structures/y-chromosome.md": {
+      "checksum": "8d183aca42e7a4618c0c019e6e09a17b"
+    },
+    "wiki/techniques/dna-sequencing.md": {
+      "checksum": "97aa75fbc2debc5749df64b6c76ad634"
+    },
+    "wiki/techniques/gel-electrophoresis.md": {
+      "checksum": "281e2167c259c3eeade335fea10a20e0"
+    },
+    "wiki/techniques/pcr.md": {
+      "checksum": "a120ac0524d4d824e2ce09564ebce4fa"
+    },
+    "wiki/techniques/punnett-square.md": {
+      "checksum": "c9d69621953052d2965a18aef61ffaef"
+    },
+    "wiki/techniques/str-analysis.md": {
+      "checksum": "505283ec752583bebb361ec2c39e21e0"
+    },
+    "wiki/terms/allele.md": {
+      "checksum": "9884026b346aea07c1f6b079247f3f3f"
+    },
+    "wiki/terms/carrier.md": {
+      "checksum": "cb3f6a024388c7f1454c8fb00f0b0701"
+    },
+    "wiki/terms/chromatid.md": {
+      "checksum": "b582e533e906c6fc36b70e09fbba25cc"
+    },
+    "wiki/terms/diploid.md": {
+      "checksum": "75e6b0d4746127e981ed3efc58bacd6c"
+    },
+    "wiki/terms/dominant.md": {
+      "checksum": "03956073d9c88fca9004bfc9f854bb25"
+    },
+    "wiki/terms/f1-generation.md": {
+      "checksum": "9314cc8e942dad480abc17a5f1283146"
+    },
+    "wiki/terms/f2-generation.md": {
+      "checksum": "8f7595b38ad252ed4c24fc3be983127c"
+    },
+    "wiki/terms/gamete.md": {
+      "checksum": "b89d2125039bf4698255074ff9756c27"
+    },
+    "wiki/terms/gene.md": {
+      "checksum": "d86e026a6168b5e4e97d99d20e72ca9b"
+    },
+    "wiki/terms/genetic-recombination.md": {
+      "checksum": "e45e03c3211f562b2dd6edfd70e10f12"
+    },
+    "wiki/terms/genotype.md": {
+      "checksum": "3a8511052dd02dc478059f134403f6c1"
+    },
+    "wiki/terms/haploid.md": {
+      "checksum": "41121f3b1cb1ad60b87827f2d14d2787"
+    },
+    "wiki/terms/heterozygous.md": {
+      "checksum": "2b0a543335ed984018e25d7339ceb139"
+    },
+    "wiki/terms/homozygous.md": {
+      "checksum": "3e7bc8ed3b07ed60b08e1997c8e7806c"
+    },
+    "wiki/terms/independent-assortment.md": {
+      "checksum": "f836e6bd91a32f2065eeea4a9bc632ec"
+    },
+    "wiki/terms/inheritance.md": {
+      "checksum": "cc2ca9cec8f00f73fec782770d072fdd"
+    },
+    "wiki/terms/locus.md": {
+      "checksum": "f378348b0eea0338fea7c6480d1352ee"
+    },
+    "wiki/terms/mutagen.md": {
+      "checksum": "c9baad01c7f3c7c054aa7332e5ada1f6"
+    },
+    "wiki/terms/p-generation.md": {
+      "checksum": "8f0f9007ceda6c0e163adaa87f249d86"
+    },
+    "wiki/terms/phenotype.md": {
+      "checksum": "01fc915c56db3615139abc44a8662806"
+    },
+    "wiki/terms/pleiotropy.md": {
+      "checksum": "7dda8547efe5a075c71b5cd0fbf33ae5"
+    },
+    "wiki/terms/polygenic.md": {
+      "checksum": "2a2978922d5a1158776b9fb3d25dfb08"
+    },
+    "wiki/terms/recessive.md": {
+      "checksum": "01779a6667fa3d8f5f645daf69baa67c"
+    },
+    "wiki/terms/true-breeding.md": {
+      "checksum": "4091919bf51f62d4b7c44088d4b4ab0d"
+    }
+  }
+}

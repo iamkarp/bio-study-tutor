@@ -1,0 +1,28 @@
+{
+  "id": "concept:epistasis",
+  "type": "concept",
+  "title": "Epistasis",
+  "slug": "epistasis",
+  "aliases": [],
+  "tags": [
+    "chapter-10"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/concepts/epistasis.md",
+  "summary": "A gene-interaction effect: one gene's product affects the expression of another gene. Epistasis can mask Mendelian ratios — for example, if gene B is required to \"see\" the effect of gene A, then the F2 ratios deviate from the expected 9:3:3:1 because some genotypes can't show their A phenotype without B.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/concepts/epistasis.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    10
+  ]
+}

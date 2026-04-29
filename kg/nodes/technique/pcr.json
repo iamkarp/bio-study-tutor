@@ -1,0 +1,35 @@
+{
+  "id": "technique:pcr",
+  "type": "technique",
+  "title": "Polymerase Chain Reaction (PCR)",
+  "slug": "pcr",
+  "aliases": [
+    "polymerase chain reaction"
+  ],
+  "tags": [
+    "chapter-13",
+    "biotechnology"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/techniques/pcr.md",
+  "summary": "A laboratory technique for rapidly amplifying a specific DNA sequence — taking a few molecules and producing billions of copies in a few hours. Invented by people/kary-mullis|Kary Mullis (1983, Nobel Prize 1993).",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/techniques/pcr.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    13
+  ],
+  "exam_topics": [
+    "pcr-purpose-copies",
+    "pcr-components"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "exam_topic:outcome-meiosis-ii",
+  "type": "exam_topic",
+  "title": "Outcome of meiosis II — if a cell ends with 20 sister chromatid pairs, what happens?",
+  "slug": "outcome-meiosis-ii",
+  "aliases": [],
+  "tags": [
+    "exam-3",
+    "chapter-09"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/exam-topics/outcome-meiosis-ii.md",
+  "summary": "",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/exam-topics/outcome-meiosis-ii.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    9
+  ]
+}

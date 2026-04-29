@@ -1,0 +1,31 @@
+{
+  "id": "term:locus",
+  "type": "term",
+  "title": "Locus",
+  "slug": "locus",
+  "aliases": [
+    "loci"
+  ],
+  "tags": [
+    "chapter-10",
+    "vocabulary"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/terms/locus.md",
+  "summary": "The specific physical location of a gene on a chromosome. Each gene has its own locus. The two homologous chromosomes carry the same gene at the same locus, possibly in different allele forms.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/terms/locus.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    10
+  ]
+}

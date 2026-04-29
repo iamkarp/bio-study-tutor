@@ -1,0 +1,37 @@
+{
+  "id": "principle:law-of-independent-assortment",
+  "type": "principle",
+  "title": "Mendel's Law of Independent Assortment",
+  "slug": "law-of-independent-assortment",
+  "aliases": [
+    "second law of inheritance"
+  ],
+  "tags": [
+    "chapter-09",
+    "chapter-10",
+    "mendel"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/principles/law-of-independent-assortment.md",
+  "summary": "The alleles for one gene segregate into gametes independently of the alleles for another gene.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/principles/law-of-independent-assortment.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    9,
+    10
+  ],
+  "exam_topics": [
+    "law-of-independent-assortment",
+    "independent-assortment-in-inheritance"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "enzyme:single-stranded-binding-protein",
+  "type": "enzyme",
+  "title": "Single-Stranded Binding Protein (SSB)",
+  "slug": "single-stranded-binding-protein",
+  "aliases": [
+    "SSB",
+    "ssDNA-binding protein"
+  ],
+  "tags": [
+    "chapter-11",
+    "replication"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/enzymes/single-stranded-binding-protein.md",
+  "summary": "A protein that coats single-stranded DNA at the structures/replication-fork to prevent it from re-annealing into a double helix or forming hairpin secondary structures. Keeps the template accessible for enzymes/dna-polymerase-iii|DNA polymerase III. Strictly a \"binding protein\" — not catalytically an enzyme — but treated alongside enzymes in the replication context.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/enzymes/single-stranded-binding-protein.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    11
+  ],
+  "exam_topics": [
+    "replication-enzyme-functions"
+  ]
+}

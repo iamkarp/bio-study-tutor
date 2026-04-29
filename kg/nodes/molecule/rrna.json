@@ -1,0 +1,34 @@
+{
+  "id": "molecule:rrna",
+  "type": "molecule",
+  "title": "rRNA (Ribosomal RNA)",
+  "slug": "rrna",
+  "aliases": [
+    "ribosomal RNA"
+  ],
+  "tags": [
+    "chapter-12",
+    "rna"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/molecules/rrna.md",
+  "summary": "The structural and catalytic RNA component of the structures/ribosome. rRNA forms the bulk of the ribosome's mass and catalyzes peptide bond formation between amino acids during translation — making the ribosome a ribozyme (an RNA enzyme).",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/molecules/rrna.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    12
+  ],
+  "exam_topics": [
+    "three-rna-classes"
+  ]
+}

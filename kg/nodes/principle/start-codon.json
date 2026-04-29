@@ -1,0 +1,33 @@
+{
+  "id": "principle:start-codon",
+  "type": "principle",
+  "title": "Start Codon (AUG)",
+  "slug": "start-codon",
+  "aliases": [],
+  "tags": [
+    "chapter-12",
+    "translation"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/principles/start-codon.md",
+  "summary": "The codon AUG marks the beginning of translation on an mRNA. AUG also encodes molecules/methionine, so every protein begins with methionine. The initiator tRNA carrying methionine binds AUG with its anticodon (3'-UAC-5') during processes/translation-initiation.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/principles/start-codon.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    12
+  ],
+  "exam_topics": [
+    "start-stop-codons",
+    "first-amino-acid"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "inheritance_pattern:pleiotropy",
+  "type": "inheritance_pattern",
+  "title": "Pleiotropy",
+  "slug": "pleiotropy-inheritance",
+  "aliases": [
+    "pleiotropic gene"
+  ],
+  "tags": [
+    "chapter-10"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/inheritance/pleiotropy.md",
+  "summary": "One gene with multiple, seemingly unrelated phenotypic effects. The effects can be in different organ systems and look unconnected at first glance. Marfan syndrome (fibrillin-1 mutation → tall stature, long fingers, lens dislocation, aortic aneurysm) is the canonical example. See also terms/pleiotropy.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/inheritance/pleiotropy.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    10
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "enzyme:telomerase",
+  "type": "enzyme",
+  "title": "Telomerase",
+  "slug": "telomerase",
+  "aliases": [],
+  "tags": [
+    "chapter-11",
+    "aging"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/enzymes/telomerase.md",
+  "summary": "A specialized enzyme (a reverse transcriptase) that adds repetitive DNA to the 3' end of telomeres, compensating for the shortening that occurs each round of replication. Telomerase carries its own RNA template that it uses as a guide.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/enzymes/telomerase.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    11
+  ],
+  "exam_topics": [
+    "telomerase",
+    "telomere-aging"
+  ]
+}

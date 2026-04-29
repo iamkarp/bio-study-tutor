@@ -1,0 +1,34 @@
+{
+  "id": "structure:antiparallel-strands",
+  "type": "structure",
+  "title": "Antiparallel Strands",
+  "slug": "antiparallel-strands",
+  "aliases": [],
+  "tags": [
+    "chapter-11",
+    "dna"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/structures/antiparallel-strands.md",
+  "summary": "The two DNA strands run in opposite 5' → 3' directions. One strand goes 5' → 3' \"up\" while the other goes 5' → 3' \"down\" relative to it.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/structures/antiparallel-strands.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    11
+  ],
+  "exam_topics": [
+    "complementary-base-pairing",
+    "leading-vs-lagging-strand",
+    "template-direction-and-synthesis"
+  ]
+}

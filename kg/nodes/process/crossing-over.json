@@ -1,0 +1,38 @@
+{
+  "id": "process:crossing-over",
+  "type": "process",
+  "title": "Crossing Over",
+  "slug": "crossing-over",
+  "aliases": [
+    "chromosomal recombination",
+    "homologous recombination"
+  ],
+  "tags": [
+    "chapter-09",
+    "recombination",
+    "meiosis"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/processes/crossing-over.md",
+  "summary": "The exchange of DNA segments between non-sister chromatids of homologous chromosomes during prophase I of meiosis. The exchange occurs at sites called chiasmata (typically 2–3 per pair in humans). When the exchanged segments carry different alleles, genetic recombination has occurred — chromatids now carry combinations of alleles never seen on either parental chromosome.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/processes/crossing-over.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    9,
+    10
+  ],
+  "exam_topics": [
+    "crossing-over",
+    "crossing-over-and-linkage"
+  ]
+}

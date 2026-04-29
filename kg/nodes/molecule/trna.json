@@ -1,0 +1,37 @@
+{
+  "id": "molecule:trna",
+  "type": "molecule",
+  "title": "tRNA (Transfer RNA)",
+  "slug": "trna",
+  "aliases": [
+    "transfer RNA"
+  ],
+  "tags": [
+    "chapter-12",
+    "rna",
+    "translation"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/molecules/trna.md",
+  "summary": "A small (~76 nucleotide) RNA that acts as the adaptor between mRNA codons and amino acids. Each tRNA has:\n- An anticodon that base-pairs with a specific molecules/codon on mRNA.\n- An amino acid attached at its 3' end, matched to the anticodon (loaded by aminoacyl-tRNA synthetases).",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/molecules/trna.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    12
+  ],
+  "exam_topics": [
+    "three-rna-classes",
+    "translation-process",
+    "translation-elongation"
+  ]
+}

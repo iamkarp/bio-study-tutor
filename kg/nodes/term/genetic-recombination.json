@@ -1,0 +1,32 @@
+{
+  "id": "term:genetic-recombination",
+  "type": "term",
+  "title": "Genetic Recombination",
+  "slug": "genetic-recombination",
+  "aliases": [],
+  "tags": [
+    "chapter-09",
+    "vocabulary"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/terms/genetic-recombination.md",
+  "summary": "The production of new combinations of alleles in offspring. The two main sources during meiosis are processes/crossing-over (in prophase I) and independent assortment (in metaphase I). Together, they ensure that no two gametes from a single individual are identical (apart from rare exceptions).",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/terms/genetic-recombination.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    9
+  ],
+  "exam_topics": [
+    "crossing-over"
+  ]
+}

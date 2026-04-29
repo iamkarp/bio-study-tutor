@@ -1,0 +1,32 @@
+{
+  "id": "enzyme:topoisomerase",
+  "type": "enzyme",
+  "title": "Topoisomerase",
+  "slug": "topoisomerase",
+  "aliases": [],
+  "tags": [
+    "chapter-11",
+    "replication"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/enzymes/topoisomerase.md",
+  "summary": "Relieves the twisting/supercoiling tension that builds up ahead of the structures/replication-fork as helicase unwinds the DNA. Without topoisomerase, the DNA would become so twisted it would block replication. Topoisomerase works by transiently cutting the DNA backbone, allowing it to relax, then re-sealing.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/enzymes/topoisomerase.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    11
+  ],
+  "exam_topics": [
+    "replication-enzyme-functions"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "structure:chromosome",
+  "type": "structure",
+  "title": "Chromosome",
+  "slug": "chromosome",
+  "aliases": [],
+  "tags": [
+    "chapter-09",
+    "chapter-11"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/structures/chromosome.md",
+  "summary": "A long, organized molecule of DNA wrapped around histone proteins. Humans have 46 chromosomes (23 pairs) in each diploid somatic cell. Before division, each chromosome is duplicated into two structures/sister-chromatids held at the centromere.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/structures/chromosome.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    9,
+    11
+  ]
+}

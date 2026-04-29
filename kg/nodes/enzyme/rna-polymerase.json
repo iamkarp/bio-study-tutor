@@ -1,0 +1,34 @@
+{
+  "id": "enzyme:rna-polymerase",
+  "type": "enzyme",
+  "title": "RNA Polymerase",
+  "slug": "rna-polymerase",
+  "aliases": [],
+  "tags": [
+    "chapter-12",
+    "transcription"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/enzymes/rna-polymerase.md",
+  "summary": "The enzyme that synthesizes RNA from a DNA template during processes/transcription. Binds the structures/promoter (in eukaryotes, only after structures/transcription-factor|transcription factors bind), unwinds the DNA, and reads the template 3' → 5' while building RNA 5' → 3'. Releases the RNA at the structures/terminator.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/enzymes/rna-polymerase.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    12
+  ],
+  "exam_topics": [
+    "transcription-initiation",
+    "transcription-process",
+    "transcription-elongation"
+  ]
+}

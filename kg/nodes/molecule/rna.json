@@ -1,0 +1,31 @@
+{
+  "id": "molecule:rna",
+  "type": "molecule",
+  "title": "RNA (Ribonucleic Acid)",
+  "slug": "rna",
+  "aliases": [
+    "ribonucleic acid"
+  ],
+  "tags": [
+    "chapter-12",
+    "rna"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/molecules/rna.md",
+  "summary": "A nucleic acid similar to DNA but with three differences:\n1. Sugar is ribose (has 2'-OH); DNA's is deoxyribose.\n2. Base uracil (U) replaces thymine (T).\n3. RNA is typically single-stranded.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/molecules/rna.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    12
+  ]
+}

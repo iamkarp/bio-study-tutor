@@ -1,0 +1,35 @@
+{
+  "id": "concept:mutation",
+  "type": "concept",
+  "title": "Mutation",
+  "slug": "mutation",
+  "aliases": [],
+  "tags": [
+    "chapter-11",
+    "chapter-12"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/concepts/mutation.md",
+  "summary": "A permanent change in the DNA base sequence. Most mutations occur during replication (despite proofreading) or as a result of exposure to a terms/mutagen. Mutations are the ultimate source of all genetic variation — most are neutral or harmful, but a small fraction are beneficial and provide the raw material for evolution.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/concepts/mutation.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    11,
+    12
+  ],
+  "exam_topics": [
+    "types-of-mutations-dna",
+    "mutations-affect-protein",
+    "mutagen"
+  ]
+}

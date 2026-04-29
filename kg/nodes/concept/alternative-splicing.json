@@ -1,0 +1,33 @@
+{
+  "id": "concept:alternative-splicing",
+  "type": "concept",
+  "title": "Alternative Splicing",
+  "slug": "alternative-splicing",
+  "aliases": [],
+  "tags": [
+    "chapter-12",
+    "gene-regulation"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/concepts/alternative-splicing.md",
+  "summary": "The process by which a single gene can produce multiple protein isoforms by joining different combinations of structures/exon|exons during processes/splicing. By skipping or including different exons, a cell can make several related-but-distinct proteins from one pre-mRNA. About 95% of human multi-exon genes undergo alternative splicing — it's a major mechanism of concepts/gene-regulation.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/concepts/alternative-splicing.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    12
+  ],
+  "exam_topics": [
+    "introns-exons",
+    "eukaryotic-gene-regulation"
+  ]
+}

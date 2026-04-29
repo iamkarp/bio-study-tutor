@@ -1,0 +1,30 @@
+{
+  "id": "structure:hydrogen-bond",
+  "type": "structure",
+  "title": "Hydrogen Bond",
+  "slug": "hydrogen-bond",
+  "aliases": [
+    "H-bond"
+  ],
+  "tags": [
+    "chapter-11"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/structures/hydrogen-bond.md",
+  "summary": "The weak non-covalent attraction holding complementary base pairs together inside the structures/double-helix. A–T pairs share 2 H-bonds; G–C pairs share 3 H-bonds, so G–C-rich regions are slightly harder to separate. Hydrogen bonds are weak enough to be broken thermally — that's why heat (e.g. 95 °C in techniques/pcr|PCR denaturation) separates DNA strands without breaking the covalent backbone.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/structures/hydrogen-bond.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    11
+  ]
+}

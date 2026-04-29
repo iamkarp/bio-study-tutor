@@ -1,0 +1,34 @@
+{
+  "id": "chapter:09",
+  "type": "chapter",
+  "title": "Chapter 9 — Sexual Reproduction and Meiosis",
+  "slug": "09",
+  "aliases": [
+    "Chapter 9",
+    "Meiosis chapter"
+  ],
+  "tags": [
+    "chapter-09",
+    "meiosis",
+    "sexual-reproduction",
+    "cell-division"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/chapters/chapter-09.md",
+  "summary": "Chapter 9 introduces sexual reproduction as a source of genetic diversity, contrasts autosomes with sex chromosomes (XX female / XY male), then walks through meiosis: one round of DNA replication followed by two rounds of cell division (meiosis I and meiosis II) that produce four haploid gametes. Crossing over and independent assortment generate variability; nondisjunction errors cause chromosomal",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/chapters/chapter-09.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    9
+  ]
+}

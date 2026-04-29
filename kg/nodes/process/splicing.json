@@ -1,0 +1,32 @@
+{
+  "id": "process:splicing",
+  "type": "process",
+  "title": "Splicing",
+  "slug": "splicing",
+  "aliases": [],
+  "tags": [
+    "chapter-12",
+    "mrna"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/processes/splicing.md",
+  "summary": "The process of cutting structures/intron|introns out of a pre-mRNA and joining the remaining structures/exon|exons together to form a continuous mature mRNA. Performed by a complex called the spliceosome (made of small nuclear RNAs and proteins). Through concepts/alternative-splicing, a single gene can yield multiple proteins by joining different combinations of exons.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/processes/splicing.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    12
+  ],
+  "exam_topics": [
+    "introns-exons"
+  ]
+}

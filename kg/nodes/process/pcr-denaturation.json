@@ -1,0 +1,32 @@
+{
+  "id": "process:pcr-denaturation",
+  "type": "process",
+  "title": "PCR Step 1 — Denaturation",
+  "slug": "pcr-denaturation",
+  "aliases": [],
+  "tags": [
+    "chapter-13",
+    "pcr"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/processes/pcr-denaturation.md",
+  "summary": "First step of each techniques/pcr cycle. The mixture is heated to ~95 °C, which breaks the hydrogen bonds between the two strands of DNA and separates them. Hydrogen bonds are easy to disrupt with heat (compared to covalent bonds in the backbone), so heating makes DNA single-stranded without destroying it.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/processes/pcr-denaturation.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    13
+  ],
+  "exam_topics": [
+    "pcr-components"
+  ]
+}

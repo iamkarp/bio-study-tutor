@@ -1,0 +1,30 @@
+{
+  "id": "exam_topic:metaphase-comparison",
+  "type": "exam_topic",
+  "title": "Compare metaphase I, metaphase II, and mitotic metaphase",
+  "slug": "metaphase-comparison",
+  "aliases": [],
+  "tags": [
+    "exam-3",
+    "chapter-09",
+    "comparison"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/exam-topics/metaphase-comparison.md",
+  "summary": "",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/exam-topics/metaphase-comparison.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    9
+  ]
+}

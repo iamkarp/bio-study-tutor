@@ -1,0 +1,29 @@
+{
+  "id": "exam_topic:origin-of-replication-prokaryote-eukaryote",
+  "type": "exam_topic",
+  "title": "What is an origin of replication? Prokaryote vs. eukaryote difference?",
+  "slug": "origin-of-replication-prokaryote-eukaryote",
+  "aliases": [],
+  "tags": [
+    "exam-3",
+    "chapter-11"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/exam-topics/origin-of-replication-prokaryote-eukaryote.md",
+  "summary": "",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/exam-topics/origin-of-replication-prokaryote-eukaryote.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    11
+  ]
+}

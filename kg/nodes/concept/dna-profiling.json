@@ -1,0 +1,35 @@
+{
+  "id": "concept:dna-profiling",
+  "type": "concept",
+  "title": "DNA Profiling",
+  "slug": "dna-profiling",
+  "aliases": [
+    "DNA fingerprinting"
+  ],
+  "tags": [
+    "chapter-13",
+    "forensics"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/concepts/dna-profiling.md",
+  "summary": "A forensic technique that identifies individuals by their unique DNA pattern, typically using techniques/str-analysis|STR analysis. The standard approach amplifies 13 STR loci with techniques/pcr and visualizes the results on techniques/gel-electrophoresis. The probability of two unrelated people having identical profiles across all 13 STRs is about 1 in a trillion.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/concepts/dna-profiling.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    13
+  ],
+  "exam_topics": [
+    "short-tandem-repeats",
+    "gel-electrophoresis-process"
+  ]
+}

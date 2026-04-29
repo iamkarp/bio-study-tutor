@@ -1,0 +1,33 @@
+{
+  "id": "concept:insertion-mutation",
+  "type": "concept",
+  "title": "Insertion Mutation",
+  "slug": "insertion-mutation",
+  "aliases": [],
+  "tags": [
+    "chapter-12",
+    "mutation"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/concepts/insertion-mutation.md",
+  "summary": "A mutation in which one or more bases are added to the DNA sequence. If the insertion is a multiple of 3 (3, 6, 9, …), it adds whole codons but doesn't shift the reading frame — only adds extra amino acids to the protein. If it's not a multiple of 3, it causes a concepts/frameshift-mutation|frameshift and is usually catastrophic.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/concepts/insertion-mutation.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    12
+  ],
+  "exam_topics": [
+    "types-of-mutations-dna",
+    "mutations-affect-protein"
+  ]
+}

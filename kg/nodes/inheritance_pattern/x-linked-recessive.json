@@ -1,0 +1,32 @@
+{
+  "id": "inheritance_pattern:x-linked-recessive",
+  "type": "inheritance_pattern",
+  "title": "X-Linked Recessive",
+  "slug": "x-linked-recessive",
+  "aliases": [],
+  "tags": [
+    "chapter-10",
+    "sex-linked"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/inheritance/x-linked-recessive.md",
+  "summary": "A specific inheritance/sex-linked pattern in which the recessive allele is on the X chromosome. Affects more males than females: females need to be homozygous (X^h X^h) to be affected, but males express any X-linked recessive allele they have (X^h Y) because their Y carries no copy of the gene.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/inheritance/x-linked-recessive.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    10
+  ],
+  "exam_topics": [
+    "sex-linked-punnett"
+  ]
+}

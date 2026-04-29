@@ -1,0 +1,33 @@
+{
+  "id": "concept:frameshift-mutation",
+  "type": "concept",
+  "title": "Frameshift Mutation",
+  "slug": "frameshift-mutation",
+  "aliases": [],
+  "tags": [
+    "chapter-12",
+    "mutation"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/concepts/frameshift-mutation.md",
+  "summary": "An concepts/insertion-mutation|insertion or concepts/deletion-mutation|deletion of a number of bases not a multiple of 3. Because codons are read in groups of three, the reading frame shifts after the mutation site, and every codon downstream changes. The protein after the shift is essentially gibberish, and a premature stop codon often appears soon after — producing a truncated, non-functional pr",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/concepts/frameshift-mutation.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    12
+  ],
+  "exam_topics": [
+    "types-of-mutations-dna",
+    "mutations-affect-protein"
+  ]
+}

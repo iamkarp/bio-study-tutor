@@ -1,0 +1,32 @@
+{
+  "id": "concept:gene-linkage",
+  "type": "concept",
+  "title": "Gene Linkage",
+  "slug": "gene-linkage",
+  "aliases": [],
+  "tags": [
+    "chapter-10"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/concepts/gene-linkage.md",
+  "summary": "Genes located close together on the same chromosome are linked — they tend to be inherited together rather than assorting independently. This is an exception to principles/law-of-independent-assortment.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/concepts/gene-linkage.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    10
+  ],
+  "exam_topics": [
+    "gene-linkage",
+    "crossing-over-and-linkage"
+  ]
+}

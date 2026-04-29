@@ -1,0 +1,34 @@
+{
+  "id": "term:true-breeding",
+  "type": "term",
+  "title": "True Breeding",
+  "slug": "true-breeding",
+  "aliases": [
+    "pure breeding"
+  ],
+  "tags": [
+    "chapter-10",
+    "mendel"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/terms/true-breeding.md",
+  "summary": "A line of organisms whose self-fertilized offspring all show the same trait as the parent. True-breeding individuals are terms/homozygous|homozygous for the gene of interest. \"Pure breeding\" = \"true breeding\" — they're synonymous. Mendel started his experiments by establishing true-breeding lines.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/terms/true-breeding.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    10
+  ],
+  "exam_topics": [
+    "pure-breeding"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "molecule:codon",
+  "type": "molecule",
+  "title": "Codon",
+  "slug": "codon",
+  "aliases": [],
+  "tags": [
+    "chapter-12",
+    "translation"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/molecules/codon.md",
+  "summary": "A 3-nucleotide sequence on molecules/mrna that specifies one amino acid (or a stop signal). There are 4³ = 64 possible codons, of which 61 specify amino acids (with redundancy — most amino acids have multiple codons, see concepts/codon-redundancy) and 3 are stop codons (UAA, UAG, UGA). The start codon AUG also codes for molecules/methionine.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/molecules/codon.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    12
+  ],
+  "exam_topics": [
+    "start-stop-codons",
+    "codon-to-amino-acid"
+  ]
+}

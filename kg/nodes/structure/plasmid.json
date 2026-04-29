@@ -1,0 +1,29 @@
+{
+  "id": "structure:plasmid",
+  "type": "structure",
+  "title": "Plasmid",
+  "slug": "plasmid",
+  "aliases": [],
+  "tags": [
+    "chapter-11",
+    "prokaryotes"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/structures/plasmid.md",
+  "summary": "A small circular DNA molecule found in bacteria, separate from the main chromosome. Plasmids carry \"helpful\" genes — e.g. antibiotic resistance, virulence factors, or genes for metabolizing unusual molecules. Plasmids replicate independently of the chromosome and can be transferred between bacteria. Genetic engineers exploit plasmids as vectors for inserting foreign genes into bacterial cells.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/structures/plasmid.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    11
+  ]
+}

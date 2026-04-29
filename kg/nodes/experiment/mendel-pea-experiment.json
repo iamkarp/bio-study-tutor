@@ -1,0 +1,34 @@
+{
+  "id": "experiment:mendel-pea-experiment",
+  "type": "experiment",
+  "title": "Mendel's Pea Plant Experiments",
+  "slug": "mendel-pea-experiment",
+  "aliases": [],
+  "tags": [
+    "chapter-10",
+    "mendel",
+    "history"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/experiments/mendel-pea-experiment.md",
+  "summary": "Gregor Mendel crossed true-breeding pea plants for several traits (seed color, seed shape, flower color, etc.) over multiple generations and counted phenotype ratios. From these careful tallies he inferred:",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/experiments/mendel-pea-experiment.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    10
+  ],
+  "exam_topics": [
+    "mendel-cross-explanation",
+    "p-f1-f2-relationship"
+  ]
+}

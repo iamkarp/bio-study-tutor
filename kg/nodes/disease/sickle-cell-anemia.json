@@ -1,0 +1,34 @@
+{
+  "id": "disease:sickle-cell-anemia",
+  "type": "disease",
+  "title": "Sickle Cell Anemia",
+  "slug": "sickle-cell-anemia",
+  "aliases": [
+    "sickle cell disease"
+  ],
+  "tags": [
+    "chapter-12",
+    "mutation"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/diseases/sickle-cell-anemia.md",
+  "summary": "The textbook example of a single-base substitution mutation (missense) producing major disease. In the gene encoding β-hemoglobin:",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/diseases/sickle-cell-anemia.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    12
+  ],
+  "exam_topics": [
+    "mutations-affect-protein"
+  ]
+}

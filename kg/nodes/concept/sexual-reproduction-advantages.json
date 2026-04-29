@@ -1,0 +1,31 @@
+{
+  "id": "concept:sexual-reproduction-advantages",
+  "type": "concept",
+  "title": "Why Sexual Reproduction",
+  "slug": "sexual-reproduction-advantages",
+  "aliases": [],
+  "tags": [
+    "chapter-09"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/concepts/sexual-reproduction-advantages.md",
+  "summary": "Sexual reproduction produces genetic diversity among offspring. Diversity provides a hedge: in a changing environment, at least some offspring are likely to carry combinations of alleles that allow them to survive disease, climate change, predator pressure, etc.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/concepts/sexual-reproduction-advantages.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    9
+  ],
+  "exam_topics": [
+    "sexual-reproduction-survival"
+  ]
+}

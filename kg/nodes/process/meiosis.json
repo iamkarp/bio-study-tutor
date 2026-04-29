@@ -1,0 +1,37 @@
+{
+  "id": "process:meiosis",
+  "type": "process",
+  "title": "Meiosis",
+  "slug": "meiosis",
+  "aliases": [
+    "reductive division"
+  ],
+  "tags": [
+    "chapter-09",
+    "cell-division",
+    "gametes"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/processes/meiosis.md",
+  "summary": "Meiosis is the form of cell division that produces haploid gametes (sperm and eggs) from a diploid parent cell. One round of DNA replication is followed by two rounds of division — meiosis I (separates homologues) and meiosis II (separates sister chromatids) — yielding four genetically unique haploid daughter cells from one diploid starting cell.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/processes/meiosis.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    9
+  ],
+  "exam_topics": [
+    "full-meiosis-process",
+    "rounds-of-replication-in-meiosis",
+    "rounds-of-division-in-meiosis"
+  ]
+}

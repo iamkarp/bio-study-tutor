@@ -1,0 +1,74 @@
+[
+  {
+    "label": "Ch 9 · Meiosis terms · 6 pairs",
+    "scope": "chapter-9",
+    "pairs": [
+      {"term": "Haploid", "definition": "A cell with one copy of each chromosome (n = 23 in humans). Gametes are haploid."},
+      {"term": "Diploid", "definition": "A cell with two copies of each chromosome (2n = 46 in humans). Most body cells."},
+      {"term": "Crossing over", "definition": "Exchange of DNA between non-sister chromatids of homologous chromosomes during prophase I."},
+      {"term": "Nondisjunction", "definition": "Failure of chromosomes to separate properly in anaphase, producing aneuploid gametes."},
+      {"term": "Independent assortment", "definition": "Random orientation of homologous pairs at metaphase I, mixing maternal and paternal alleles."},
+      {"term": "Chiasmata", "definition": "Visible X-shaped sites where non-sister chromatids physically exchange DNA segments."}
+    ]
+  },
+  {
+    "label": "Ch 10 · Inheritance terms · 6 pairs",
+    "scope": "chapter-10",
+    "pairs": [
+      {"term": "Genotype", "definition": "An individual's two alleles for a given gene (e.g. YY, Yy, yy)."},
+      {"term": "Phenotype", "definition": "The observable characteristic resulting from a genotype (e.g. yellow vs. green seed)."},
+      {"term": "Heterozygous", "definition": "Carrying one dominant and one recessive allele (e.g. Yy). Carriers are heterozygous."},
+      {"term": "Codominance", "definition": "Both alleles are fully expressed in the heterozygote — both phenotypes visible (ABO blood AB)."},
+      {"term": "Pleiotropy", "definition": "One gene with multiple, seemingly unrelated phenotypic effects (e.g. Marfan syndrome)."},
+      {"term": "Polygenic trait", "definition": "A trait controlled by multiple genes, producing continuous variation (e.g. skin color)."}
+    ]
+  },
+  {
+    "label": "Ch 11 · DNA enzymes · 6 pairs",
+    "scope": "chapter-11",
+    "pairs": [
+      {"term": "Helicase", "definition": "Unwinds the DNA double helix at the replication fork by breaking hydrogen bonds."},
+      {"term": "Primase", "definition": "Synthesizes a short RNA primer to give DNA polymerase a free 3'-OH to extend."},
+      {"term": "DNA polymerase III", "definition": "Main replication enzyme — adds nucleotides 5'→3' and proofreads mismatches."},
+      {"term": "DNA polymerase I", "definition": "Replaces RNA primers with DNA nucleotides on the lagging strand."},
+      {"term": "DNA ligase", "definition": "Seals the gaps between Okazaki fragments by forming the final phosphodiester bond."},
+      {"term": "Telomerase", "definition": "Extends the 3' ends of telomeres using its own RNA template; active in germ/stem/cancer cells."}
+    ]
+  },
+  {
+    "label": "Ch 12 · Gene expression · 6 pairs",
+    "scope": "chapter-12",
+    "pairs": [
+      {"term": "Transcription", "definition": "Synthesis of RNA from a DNA template by RNA polymerase, in the nucleus."},
+      {"term": "Translation", "definition": "Synthesis of a protein from an mRNA template at a ribosome, in the cytoplasm."},
+      {"term": "Codon", "definition": "A 3-nucleotide sequence on mRNA specifying one amino acid (or a stop signal)."},
+      {"term": "Anticodon", "definition": "The 3-nucleotide sequence on tRNA that pairs with a complementary mRNA codon."},
+      {"term": "Intron", "definition": "Non-coding sequence within a gene, transcribed into pre-mRNA but spliced out before translation."},
+      {"term": "Exon", "definition": "The expressed portion of a gene, retained in mature mRNA and translated into protein."}
+    ]
+  },
+  {
+    "label": "Ch 13 · Biotechnology · 6 pairs",
+    "scope": "chapter-13",
+    "pairs": [
+      {"term": "PCR", "definition": "Amplifies a specific DNA sequence exponentially via cycles of denaturation, annealing, and extension."},
+      {"term": "Gel electrophoresis", "definition": "Separates DNA fragments by size — smaller fragments travel farther through agarose under voltage."},
+      {"term": "STR", "definition": "Short tandem repeat — a short DNA sequence repeated many times; repeat count varies between individuals."},
+      {"term": "Recombinant DNA", "definition": "DNA composed of segments from different sources joined together (e.g. human insulin gene in a plasmid)."},
+      {"term": "Primer", "definition": "Short single-stranded DNA that defines where PCR amplification starts and provides a 3'-OH for the polymerase."},
+      {"term": "Taq polymerase", "definition": "Heat-stable DNA polymerase from a thermophilic bacterium; survives the 95°C denaturation step of PCR."}
+    ]
+  },
+  {
+    "label": "Mixed · Concept comparisons · 6 pairs",
+    "scope": "all",
+    "pairs": [
+      {"term": "Sister chromatids", "definition": "Two identical copies of one chromosome (joined at centromere) made during DNA replication."},
+      {"term": "Homologous chromosomes", "definition": "Matching pair of chromosomes — same genes in same order, possibly different alleles, one from each parent."},
+      {"term": "Leading strand", "definition": "Continuously synthesized DNA strand built toward the replication fork in the 5'→3' direction."},
+      {"term": "Lagging strand", "definition": "Discontinuously synthesized DNA built away from the fork as Okazaki fragments."},
+      {"term": "Chargaff's rule", "definition": "%A = %T and %G = %C in any double-stranded DNA, due to complementary base pairing."},
+      {"term": "Central dogma", "definition": "Genetic information flows: DNA → RNA → Protein, via transcription and translation."}
+    ]
+  }
+]

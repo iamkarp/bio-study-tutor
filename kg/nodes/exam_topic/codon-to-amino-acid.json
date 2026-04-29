@@ -1,0 +1,29 @@
+{
+  "id": "exam_topic:codon-to-amino-acid",
+  "type": "exam_topic",
+  "title": "Given an RNA codon, find the amino acid",
+  "slug": "codon-to-amino-acid",
+  "aliases": [],
+  "tags": [
+    "exam-3",
+    "chapter-12"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/exam-topics/codon-to-amino-acid.md",
+  "summary": "",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/exam-topics/codon-to-amino-acid.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    12
+  ]
+}

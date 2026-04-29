@@ -1,0 +1,34 @@
+{
+  "id": "process:s-phase",
+  "type": "process",
+  "title": "S Phase",
+  "slug": "s-phase",
+  "aliases": [
+    "synthesis phase"
+  ],
+  "tags": [
+    "chapter-11",
+    "cell-cycle"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/processes/s-phase.md",
+  "summary": "The phase of processes/cell-cycle interphase during which DNA replication occurs. Each chromosome is fully copied; afterward each chromosome consists of two structures/sister-chromatids held at the centromere. The cell ends S phase with twice the DNA but the same chromosome count (still 2n in a diploid cell).",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/processes/s-phase.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    11
+  ],
+  "exam_topics": [
+    "when-replication-occurs"
+  ]
+}

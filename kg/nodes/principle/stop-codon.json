@@ -1,0 +1,32 @@
+{
+  "id": "principle:stop-codon",
+  "type": "principle",
+  "title": "Stop Codon",
+  "slug": "stop-codon",
+  "aliases": [],
+  "tags": [
+    "chapter-12",
+    "translation"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/principles/stop-codon.md",
+  "summary": "The three codons UAA, UAG, UGA that end translation. They do not code for any amino acid. When the ribosome reaches a stop codon, no tRNA matches it; instead a release factor binds and triggers release of the finished polypeptide.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/principles/stop-codon.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    12
+  ],
+  "exam_topics": [
+    "start-stop-codons"
+  ]
+}

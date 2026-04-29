@@ -1,0 +1,32 @@
+{
+  "id": "structure:double-helix",
+  "type": "structure",
+  "title": "Double Helix",
+  "slug": "double-helix",
+  "aliases": [],
+  "tags": [
+    "chapter-11",
+    "dna"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/structures/double-helix.md",
+  "summary": "The 3D structure of DNA: two antiparallel polynucleotide strands wound around a common axis like a twisted ladder. Discovered by Watson and Crick (1953, building on Rosalind Franklin's X-ray data).",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/structures/double-helix.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    11
+  ],
+  "exam_topics": [
+    "nucleotide-components"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "technique:punnett-square",
+  "type": "technique",
+  "title": "Punnett Square",
+  "slug": "punnett-square",
+  "aliases": [],
+  "tags": [
+    "chapter-10",
+    "mendel"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/techniques/punnett-square.md",
+  "summary": "A grid that uses the genotypes of two parents to predict the possible genotypes of their offspring and their relative proportions.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/techniques/punnett-square.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    10
+  ],
+  "exam_topics": [
+    "punnett-cross-genotype-phenotype",
+    "sex-linked-punnett"
+  ]
+}

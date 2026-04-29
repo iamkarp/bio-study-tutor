@@ -1,0 +1,34 @@
+{
+  "id": "concept:short-tandem-repeat",
+  "type": "concept",
+  "title": "Short Tandem Repeat (STR)",
+  "slug": "short-tandem-repeat",
+  "aliases": [
+    "STR"
+  ],
+  "tags": [
+    "chapter-13",
+    "forensics"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/concepts/short-tandem-repeat.md",
+  "summary": "A region of DNA where a short sequence (2–6 bp) is repeated many times in a row — e.g. AGAT-AGAT-AGAT-…. The number of repeats varies between individuals, making STRs ideal markers for identification.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/concepts/short-tandem-repeat.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    13
+  ],
+  "exam_topics": [
+    "short-tandem-repeats"
+  ]
+}

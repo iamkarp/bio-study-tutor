@@ -1,0 +1,33 @@
+{
+  "id": "structure:homologous-chromosomes",
+  "type": "structure",
+  "title": "Homologous Chromosomes",
+  "slug": "homologous-chromosomes",
+  "aliases": [
+    "homologous pair",
+    "homologues"
+  ],
+  "tags": [
+    "chapter-09",
+    "chapter-10"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/structures/homologous-chromosomes.md",
+  "summary": "A matching pair of chromosomes in a diploid cell — one inherited from each parent. They look alike, are the same length, and carry the same genes in the same order at the same loci, but the alleles at any given locus may differ between the maternal and paternal copy. During processes/meiosis-i, homologous chromosomes pair up (synapsis) and separate from each other.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/structures/homologous-chromosomes.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    9,
+    10
+  ]
+}

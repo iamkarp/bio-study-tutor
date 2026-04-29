@@ -1,0 +1,32 @@
+{
+  "id": "structure:sugar-phosphate-backbone",
+  "type": "structure",
+  "title": "Sugar–Phosphate Backbone",
+  "slug": "sugar-phosphate-backbone",
+  "aliases": [],
+  "tags": [
+    "chapter-11",
+    "dna"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/structures/sugar-phosphate-backbone.md",
+  "summary": "The outer scaffold of a DNA strand, formed by alternating molecules/deoxyribose|deoxyribose sugars and structures/phosphate-group|phosphate groups linked by structures/phosphodiester-bond|phosphodiester bonds. Faces the exterior of the structures/double-helix. The bases project inward from the backbone and pair with bases on the opposite strand.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/structures/sugar-phosphate-backbone.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    11
+  ],
+  "exam_topics": [
+    "nucleotide-components"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "chapter:12",
+  "type": "chapter",
+  "title": "Chapter 12 — How Genes Work",
+  "slug": "12",
+  "aliases": [
+    "Chapter 12"
+  ],
+  "tags": [
+    "chapter-12",
+    "transcription",
+    "translation",
+    "gene-expression"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/chapters/chapter-12.md",
+  "summary": "Chapter 12 covers the central dogma: DNA is transcribed into mRNA, which is translated into protein at ribosomes. RNA differs from DNA (single-stranded, ribose, uracil instead of thymine); three RNA types (mRNA, rRNA, tRNA) cooperate. Pre-mRNA is processed (5' cap, poly-A tail, splicing of introns/exons) before leaving the nucleus. Translation reads codons three nucleotides at a time, starts with ",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/chapters/chapter-12.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    12
+  ]
+}

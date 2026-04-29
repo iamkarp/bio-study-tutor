@@ -1,0 +1,35 @@
+# Secrets — NEVER commit
+.env
+.env.local
+*.key
+*.pem
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# rsconnect deployment metadata (account-specific)
+rsconnect-python/
+
+# Generated graph snapshots — rebuilt at runtime
+app/www/graph-*.html
+
+# Build / cache
+build/
+dist/
+*.log

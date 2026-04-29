@@ -1,0 +1,348 @@
+{
+  "dna-vs-rna-three-differences": [
+    "comparison:dna-vs-rna"
+  ],
+  "metaphase-comparison": [
+    "comparison:mitosis-vs-meiosis",
+    "process:metaphase-i",
+    "process:metaphase-ii",
+    "process:mitosis"
+  ],
+  "replication-mitosis-vs-meiosis": [
+    "comparison:mitosis-vs-meiosis",
+    "process:mitosis"
+  ],
+  "origin-of-replication-prokaryote-eukaryote": [
+    "comparison:prokaryote-vs-eukaryote-replication",
+    "structure:origin-of-replication",
+    "structure:replication-bubble"
+  ],
+  "transcription-vs-translation": [
+    "comparison:transcription-vs-translation",
+    "principle:central-dogma",
+    "process:transcription",
+    "process:translation"
+  ],
+  "abo-codominance": [
+    "concept:abo-blood-typing",
+    "inheritance_pattern:codominance"
+  ],
+  "introns-exons": [
+    "concept:alternative-splicing",
+    "process:splicing",
+    "structure:exon",
+    "structure:intron"
+  ],
+  "eukaryotic-gene-regulation": [
+    "concept:alternative-splicing",
+    "concept:gene-regulation",
+    "molecule:microrna",
+    "structure:transcription-factor"
+  ],
+  "biotechnology-genetic-engineering": [
+    "concept:biotechnology",
+    "concept:genetic-engineering"
+  ],
+  "codon-to-amino-acid": [
+    "concept:codon-redundancy",
+    "molecule:codon",
+    "principle:genetic-code"
+  ],
+  "mutations-affect-protein": [
+    "concept:codon-redundancy",
+    "concept:deletion-mutation",
+    "concept:frameshift-mutation",
+    "concept:insertion-mutation",
+    "concept:mutation",
+    "concept:point-mutation",
+    "concept:substitution-mutation",
+    "disease:sickle-cell-anemia"
+  ],
+  "crossing-over-and-linkage": [
+    "concept:crossover-probability",
+    "concept:gene-linkage",
+    "process:crossing-over"
+  ],
+  "types-of-mutations-dna": [
+    "concept:deletion-mutation",
+    "concept:frameshift-mutation",
+    "concept:insertion-mutation",
+    "concept:mutation",
+    "concept:point-mutation",
+    "concept:substitution-mutation"
+  ],
+  "law-of-independent-assortment": [
+    "concept:dihybrid-cross",
+    "principle:law-of-independent-assortment",
+    "process:metaphase-i"
+  ],
+  "independent-assortment-in-inheritance": [
+    "concept:dihybrid-cross",
+    "principle:law-of-independent-assortment"
+  ],
+  "short-tandem-repeats": [
+    "concept:dna-profiling",
+    "concept:short-tandem-repeat",
+    "technique:str-analysis"
+  ],
+  "gel-electrophoresis-process": [
+    "concept:dna-profiling",
+    "technique:gel-electrophoresis",
+    "technique:str-analysis"
+  ],
+  "environment-regulates-phenotype": [
+    "concept:environment-and-phenotype",
+    "term:phenotype"
+  ],
+  "gene-linkage": [
+    "concept:gene-linkage"
+  ],
+  "punnett-cross-genotype-phenotype": [
+    "concept:monohybrid-cross",
+    "technique:punnett-square",
+    "term:genotype",
+    "term:phenotype"
+  ],
+  "mutagen": [
+    "concept:mutation",
+    "term:mutagen"
+  ],
+  "pre-mrna": [
+    "concept:pre-mrna",
+    "process:rna-processing",
+    "structure:mrna-cap",
+    "structure:poly-a-tail"
+  ],
+  "sexual-reproduction-survival": [
+    "concept:sexual-reproduction-advantages"
+  ],
+  "nondisjunction": [
+    "disease:down-syndrome",
+    "process:nondisjunction"
+  ],
+  "replication-enzyme-functions": [
+    "enzyme:dna-helicase",
+    "enzyme:dna-ligase",
+    "enzyme:dna-polymerase-i",
+    "enzyme:dna-polymerase-iii",
+    "enzyme:rna-primase",
+    "enzyme:single-stranded-binding-protein",
+    "enzyme:topoisomerase",
+    "molecule:primer",
+    "process:dna-replication"
+  ],
+  "okazaki-fragments": [
+    "enzyme:dna-ligase",
+    "structure:lagging-strand",
+    "structure:okazaki-fragment"
+  ],
+  "leading-vs-lagging-strand": [
+    "enzyme:dna-polymerase-i",
+    "enzyme:dna-polymerase-iii",
+    "process:dna-replication",
+    "structure:antiparallel-strands",
+    "structure:lagging-strand",
+    "structure:leading-strand",
+    "structure:okazaki-fragment",
+    "structure:replication-fork"
+  ],
+  "template-direction-and-synthesis": [
+    "enzyme:dna-polymerase-iii",
+    "process:dna-replication",
+    "structure:antiparallel-strands"
+  ],
+  "pcr-components": [
+    "enzyme:dna-polymerase",
+    "molecule:dntp",
+    "molecule:primer",
+    "process:pcr-annealing",
+    "process:pcr-denaturation",
+    "process:pcr-extension",
+    "technique:pcr"
+  ],
+  "transcription-initiation": [
+    "enzyme:rna-polymerase",
+    "process:transcription-initiation",
+    "structure:promoter",
+    "structure:transcription-factor"
+  ],
+  "transcription-process": [
+    "enzyme:rna-polymerase",
+    "molecule:mrna",
+    "process:transcription",
+    "process:transcription-elongation",
+    "process:transcription-initiation",
+    "process:transcription-termination"
+  ],
+  "transcription-elongation": [
+    "enzyme:rna-polymerase",
+    "process:transcription-elongation"
+  ],
+  "telomerase": [
+    "enzyme:telomerase",
+    "structure:telomere"
+  ],
+  "telomere-aging": [
+    "enzyme:telomerase",
+    "structure:telomere"
+  ],
+  "mendel-cross-explanation": [
+    "experiment:mendel-pea-experiment",
+    "principle:law-of-segregation"
+  ],
+  "p-f1-f2-relationship": [
+    "experiment:mendel-pea-experiment",
+    "term:f1-generation",
+    "term:f2-generation",
+    "term:p-generation"
+  ],
+  "incomplete-dominance": [
+    "inheritance_pattern:incomplete-dominance"
+  ],
+  "sex-linked-punnett": [
+    "inheritance_pattern:sex-linked",
+    "inheritance_pattern:x-linked-recessive",
+    "technique:punnett-square",
+    "term:carrier"
+  ],
+  "four-nucleotides": [
+    "molecule:adenine",
+    "molecule:cytosine",
+    "molecule:guanine",
+    "molecule:thymine",
+    "principle:complementary-base-pairing",
+    "structure:nitrogenous-base"
+  ],
+  "translation-elongation": [
+    "molecule:anticodon",
+    "molecule:trna",
+    "process:translation-elongation"
+  ],
+  "start-stop-codons": [
+    "molecule:codon",
+    "molecule:methionine",
+    "principle:genetic-code",
+    "principle:start-codon",
+    "principle:stop-codon"
+  ],
+  "nucleotide-components": [
+    "molecule:deoxyribose",
+    "structure:double-helix",
+    "structure:nitrogenous-base",
+    "structure:phosphate-group",
+    "structure:sugar-phosphate-backbone"
+  ],
+  "first-amino-acid": [
+    "molecule:methionine",
+    "principle:start-codon",
+    "process:translation-initiation"
+  ],
+  "three-rna-classes": [
+    "molecule:mrna",
+    "molecule:rrna",
+    "molecule:trna",
+    "structure:ribosome"
+  ],
+  "translation-process": [
+    "molecule:mrna",
+    "molecule:trna",
+    "process:translation",
+    "process:translation-elongation",
+    "process:translation-initiation",
+    "process:translation-termination",
+    "structure:ribosome"
+  ],
+  "pcr-purpose-copies": [
+    "person:kary-mullis",
+    "technique:pcr"
+  ],
+  "chargaffs-rule": [
+    "principle:chargaffs-rule"
+  ],
+  "complementary-base-pairing": [
+    "principle:complementary-base-pairing",
+    "structure:antiparallel-strands"
+  ],
+  "complementary-strand-from-sequence": [
+    "principle:complementary-base-pairing",
+    "process:dna-replication"
+  ],
+  "gamete-allele-distribution": [
+    "principle:law-of-segregation",
+    "term:gamete"
+  ],
+  "meiosis-i-phases": [
+    "process:anaphase-i",
+    "process:meiosis-i",
+    "process:metaphase-i",
+    "process:prophase-i",
+    "process:telophase-i"
+  ],
+  "meiosis-ii-phases": [
+    "process:anaphase-ii",
+    "process:meiosis-ii",
+    "process:metaphase-ii",
+    "process:prophase-ii",
+    "process:telophase-ii"
+  ],
+  "when-replication-occurs": [
+    "process:cell-cycle",
+    "process:dna-replication",
+    "process:s-phase"
+  ],
+  "crossing-over": [
+    "process:crossing-over",
+    "process:prophase-i",
+    "term:genetic-recombination"
+  ],
+  "outcome-meiosis-i": [
+    "process:meiosis-i",
+    "term:diploid",
+    "term:haploid"
+  ],
+  "outcome-meiosis-ii": [
+    "process:meiosis-ii"
+  ],
+  "full-meiosis-process": [
+    "process:meiosis"
+  ],
+  "rounds-of-replication-in-meiosis": [
+    "process:meiosis"
+  ],
+  "rounds-of-division-in-meiosis": [
+    "process:meiosis"
+  ],
+  "transcription-termination": [
+    "process:rna-processing",
+    "process:transcription-termination",
+    "structure:terminator"
+  ],
+  "translation-initiation": [
+    "process:translation-initiation"
+  ],
+  "translation-termination": [
+    "process:translation-termination"
+  ],
+  "sex-chromosomes": [
+    "structure:autosome",
+    "structure:sex-chromosomes"
+  ],
+  "telomeres": [
+    "structure:telomere"
+  ],
+  "inheritance-vocabulary": [
+    "term:allele",
+    "term:carrier",
+    "term:dominant",
+    "term:gene",
+    "term:heterozygous",
+    "term:homozygous",
+    "term:inheritance",
+    "term:pleiotropy",
+    "term:polygenic",
+    "term:recessive"
+  ],
+  "pure-breeding": [
+    "term:true-breeding"
+  ]
+}

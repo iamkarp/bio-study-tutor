@@ -1,0 +1,30 @@
+{
+  "id": "exam_topic:incomplete-dominance",
+  "type": "exam_topic",
+  "title": "Explain incomplete dominance — phenotype and genotype",
+  "slug": "incomplete-dominance",
+  "aliases": [],
+  "tags": [
+    "exam-3",
+    "chapter-10",
+    "non-mendelian"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/exam-topics/incomplete-dominance.md",
+  "summary": "",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/exam-topics/incomplete-dominance.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    10
+  ]
+}

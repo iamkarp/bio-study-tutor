@@ -1,0 +1,30 @@
+{
+  "id": "exam_topic:translation-process",
+  "type": "exam_topic",
+  "title": "Describe translation in detail (and how it differs from transcription)",
+  "slug": "translation-process",
+  "aliases": [],
+  "tags": [
+    "exam-3",
+    "chapter-12",
+    "translation"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/exam-topics/translation-process.md",
+  "summary": "",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/exam-topics/translation-process.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    12
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "structure:leading-strand",
+  "type": "structure",
+  "title": "Leading Strand",
+  "slug": "leading-strand",
+  "aliases": [],
+  "tags": [
+    "chapter-11",
+    "replication"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/structures/leading-strand.md",
+  "summary": "The strand of newly synthesized DNA that is built continuously toward the structures/replication-fork|replication fork, in the same direction as fork movement. Only one RNA primer is needed; enzymes/dna-polymerase-iii then extends in the 5' → 3' direction without interruption.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/structures/leading-strand.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    11
+  ],
+  "exam_topics": [
+    "leading-vs-lagging-strand"
+  ]
+}

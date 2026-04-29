@@ -1,0 +1,36 @@
+{
+  "id": "process:dna-replication",
+  "type": "process",
+  "title": "DNA Replication",
+  "slug": "dna-replication",
+  "aliases": [],
+  "tags": [
+    "chapter-11",
+    "dna"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/processes/dna-replication.md",
+  "summary": "The process of copying the entire DNA of a cell before division. Replication is principles/semiconservative-replication|semiconservative: each daughter helix has one original (template) strand and one newly synthesized strand. Occurs during processes/s-phase of interphase.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/processes/dna-replication.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    11
+  ],
+  "exam_topics": [
+    "when-replication-occurs",
+    "replication-enzyme-functions",
+    "leading-vs-lagging-strand",
+    "complementary-strand-from-sequence",
+    "template-direction-and-synthesis"
+  ]
+}

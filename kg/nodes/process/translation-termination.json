@@ -1,0 +1,33 @@
+{
+  "id": "process:translation-termination",
+  "type": "process",
+  "title": "Translation Termination",
+  "slug": "translation-termination",
+  "aliases": [],
+  "tags": [
+    "chapter-12",
+    "translation"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/processes/translation-termination.md",
+  "summary": "When the structures/ribosome reaches a stop codon (UAA, UAG, or UGA), no molecules/trna matches it. A release factor binds the empty A site instead, triggering release of the finished polypeptide and dissociation of the ribosome's two subunits.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/processes/translation-termination.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    12
+  ],
+  "exam_topics": [
+    "translation-termination",
+    "translation-process"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "process:meiosis-ii",
+  "type": "process",
+  "title": "Meiosis II",
+  "slug": "meiosis-ii",
+  "aliases": [
+    "equational division"
+  ],
+  "tags": [
+    "chapter-09",
+    "meiosis"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/processes/meiosis-ii.md",
+  "summary": "The second meiotic division. Meiosis II separates sister chromatids (mechanically similar to mitosis) but starts from haploid cells already produced by meiosis I. No DNA replication between meiosis I and meiosis II.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/processes/meiosis-ii.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    9
+  ],
+  "exam_topics": [
+    "outcome-meiosis-ii",
+    "meiosis-ii-phases"
+  ]
+}

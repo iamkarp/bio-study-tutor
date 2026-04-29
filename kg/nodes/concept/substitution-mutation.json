@@ -1,0 +1,33 @@
+{
+  "id": "concept:substitution-mutation",
+  "type": "concept",
+  "title": "Substitution Mutation",
+  "slug": "substitution-mutation",
+  "aliases": [],
+  "tags": [
+    "chapter-12",
+    "mutation"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/concepts/substitution-mutation.md",
+  "summary": "A mutation in which one base is swapped for another (e.g. A→G, T→C). Effect on the protein depends on the codon:\n- Silent — codon still codes for the same amino acid (thanks to concepts/codon-redundancy|codon redundancy) → no effect.\n- Missense — codon now codes for a different amino acid → protein may have altered function (diseases/sickle-cell-anemia example).\n- Nonsense — codon becomes a stop c",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/concepts/substitution-mutation.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    12
+  ],
+  "exam_topics": [
+    "types-of-mutations-dna",
+    "mutations-affect-protein"
+  ]
+}

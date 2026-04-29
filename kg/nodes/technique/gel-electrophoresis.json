@@ -1,0 +1,32 @@
+{
+  "id": "technique:gel-electrophoresis",
+  "type": "technique",
+  "title": "Gel Electrophoresis",
+  "slug": "gel-electrophoresis",
+  "aliases": [],
+  "tags": [
+    "chapter-13",
+    "biotechnology"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/techniques/gel-electrophoresis.md",
+  "summary": "A laboratory technique for separating DNA fragments by size.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/techniques/gel-electrophoresis.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    13
+  ],
+  "exam_topics": [
+    "gel-electrophoresis-process"
+  ]
+}

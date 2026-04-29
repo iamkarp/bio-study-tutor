@@ -1,0 +1,29 @@
+{
+  "id": "disease:rett-syndrome",
+  "type": "disease",
+  "title": "Rett Syndrome",
+  "slug": "rett-syndrome",
+  "aliases": [],
+  "tags": [
+    "chapter-10",
+    "x-linked"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/diseases/rett-syndrome.md",
+  "summary": "An X-linked neurodevelopmental disorder. Lethal in males (a boy with the mutation has only one X, so it's expressed in every cell). In girls, severity varies depending on concepts/x-inactivation|X-inactivation patterns — the more cells that randomly inactivate the X with the Rett allele, the milder the disease, because the unaffected X is active in those cells.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/diseases/rett-syndrome.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    10
+  ]
+}

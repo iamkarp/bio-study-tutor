@@ -1,0 +1,28 @@
+{
+  "id": "concept:heteropaternal-superfecundation",
+  "type": "concept",
+  "title": "Heteropaternal Superfecundation",
+  "slug": "heteropaternal-superfecundation",
+  "aliases": [],
+  "tags": [
+    "chapter-09"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/concepts/heteropaternal-superfecundation.md",
+  "summary": "A rare form of concepts/dizygotic-twins|dizygotic twins in which two egg cells are fertilized by sperm from different fathers during the same cycle. Still fraternal twins (two zygotes, two pregnancies in parallel) — just with two fathers.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/concepts/heteropaternal-superfecundation.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    9
+  ]
+}

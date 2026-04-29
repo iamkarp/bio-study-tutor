@@ -1,0 +1,32 @@
+{
+  "id": "process:nondisjunction",
+  "type": "process",
+  "title": "Nondisjunction",
+  "slug": "nondisjunction",
+  "aliases": [],
+  "tags": [
+    "chapter-09",
+    "errors"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/processes/nondisjunction.md",
+  "summary": "Failure of chromosomes to separate properly during anaphase of meiosis. Produces gametes with extra or missing chromosomes (aneuploidy). When such a gamete fertilizes a normal one, the resulting zygote has a chromosomal disorder (e.g. trisomy 21 → diseases/down-syndrome).",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/processes/nondisjunction.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    9
+  ],
+  "exam_topics": [
+    "nondisjunction"
+  ]
+}

@@ -1,0 +1,22 @@
+---
+id: molecule:dntp
+type: molecule
+title: dNTP (Deoxyribonucleotide Triphosphate)
+slug: dntp
+aliases: ["free nucleotide", "deoxyribonucleotide triphosphate"]
+tags: [chapter-11, chapter-13]
+status: active
+created: 2026-04-29
+updated: 2026-04-29
+chapters: [11, 13]
+exam_topics: [pcr-components]
+---
+
+# dNTP — Deoxyribonucleotide Triphosphate
+
+## Summary
+A free nucleotide carrying **three phosphate groups** (tri-phosphate). When DNA polymerase adds it to a growing strand, it **cleaves off the two outer phosphates**, releasing pyrophosphate; this provides the energy for the new phosphodiester bond. The four DNA dNTPs are dATP, dTTP, dGTP, dCTP. **PCR requires dNTPs** as the raw material for new DNA synthesis.
+
+## Sources
+- [[../raw/extracted/chapter-11-dna-structure-replication]] slide 26
+- [[../raw/extracted/chapter-13-new-biology]] slide 8

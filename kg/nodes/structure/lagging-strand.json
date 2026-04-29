@@ -1,0 +1,33 @@
+{
+  "id": "structure:lagging-strand",
+  "type": "structure",
+  "title": "Lagging Strand",
+  "slug": "lagging-strand",
+  "aliases": [],
+  "tags": [
+    "chapter-11",
+    "replication"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/structures/lagging-strand.md",
+  "summary": "The strand that must be synthesized away from the structures/replication-fork|replication fork because of the 5' → 3' rule. To accomplish this, the lagging strand is built in short pieces called structures/okazaki-fragment|Okazaki fragments. Each fragment requires its own RNA primer (laid down by enzymes/rna-primase); enzymes/dna-polymerase-i later replaces those primers with DNA, and enzymes/dna-",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/structures/lagging-strand.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    11
+  ],
+  "exam_topics": [
+    "leading-vs-lagging-strand",
+    "okazaki-fragments"
+  ]
+}

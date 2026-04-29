@@ -1,0 +1,32 @@
+{
+  "id": "term:inheritance",
+  "type": "term",
+  "title": "Inheritance",
+  "slug": "inheritance",
+  "aliases": [],
+  "tags": [
+    "chapter-10",
+    "vocabulary"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/terms/inheritance.md",
+  "summary": "The passing of genetic traits from parents to offspring. The molecular basis is the transmission of DNA via gametes (sperm and eggs). Patterns of inheritance — Mendelian, codominant, sex-linked, polygenic, etc. — describe how alleles segregate and combine across generations.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/terms/inheritance.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    10
+  ],
+  "exam_topics": [
+    "inheritance-vocabulary"
+  ]
+}

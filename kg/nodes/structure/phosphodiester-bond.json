@@ -1,0 +1,28 @@
+{
+  "id": "structure:phosphodiester-bond",
+  "type": "structure",
+  "title": "Phosphodiester Bond",
+  "slug": "phosphodiester-bond",
+  "aliases": [],
+  "tags": [
+    "chapter-11"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/structures/phosphodiester-bond.md",
+  "summary": "The covalent bond linking the 3' carbon of one nucleotide's deoxyribose to the 5' phosphate of the next nucleotide. Phosphodiester bonds form the backbone of a DNA (or RNA) strand. enzymes/dna-polymerase-iii|DNA polymerase III catalyzes their formation during replication; enzymes/dna-ligase|DNA ligase catalyzes the closure of the final phosphodiester bond between Okazaki fragments.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/structures/phosphodiester-bond.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    11
+  ]
+}

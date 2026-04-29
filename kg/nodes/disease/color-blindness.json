@@ -1,0 +1,29 @@
+{
+  "id": "disease:color-blindness",
+  "type": "disease",
+  "title": "Red-Green Color Blindness",
+  "slug": "color-blindness",
+  "aliases": [],
+  "tags": [
+    "chapter-10",
+    "x-linked"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/diseases/color-blindness.md",
+  "summary": "An X-linked recessive trait — inability to distinguish red from green wavelengths of light. Affects about 8% of males but only ~0.5% of females (because females need two copies of the recessive allele). Caused by mutations in the OPN1LW or OPN1MW opsin genes on the X chromosome.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/diseases/color-blindness.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    10
+  ]
+}

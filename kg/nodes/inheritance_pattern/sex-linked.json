@@ -1,0 +1,34 @@
+{
+  "id": "inheritance_pattern:sex-linked",
+  "type": "inheritance_pattern",
+  "title": "Sex-Linked Inheritance",
+  "slug": "sex-linked",
+  "aliases": [
+    "sex linked"
+  ],
+  "tags": [
+    "chapter-10",
+    "sex-linked"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/inheritance/sex-linked.md",
+  "summary": "Inheritance of genes located on the sex chromosomes (usually the X — the much larger one). Most \"sex-linked\" disorders are X-linked recessive (e.g. color blindness, hemophilia, Duchenne muscular dystrophy).",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/inheritance/sex-linked.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    10
+  ],
+  "exam_topics": [
+    "sex-linked-punnett"
+  ]
+}

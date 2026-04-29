@@ -1,0 +1,33 @@
+{
+  "id": "principle:genetic-code",
+  "type": "principle",
+  "title": "Genetic Code",
+  "slug": "genetic-code",
+  "aliases": [],
+  "tags": [
+    "chapter-12",
+    "translation"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/principles/genetic-code.md",
+  "summary": "The set of rules mapping mRNA codons to amino acids. Properties:\n- Triplet — each codon is 3 nucleotides\n- 64 codons total (4³): 61 specify amino acids, 3 are stop codons (UAA, UAG, UGA)\n- Universal — nearly the same in all organisms (with rare exceptions)\n- Redundant / degenerate — most amino acids have multiple codons (see concepts/codon-redundancy)\n- Unambiguous — each codon specifies one and o",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/principles/genetic-code.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    12
+  ],
+  "exam_topics": [
+    "codon-to-amino-acid",
+    "start-stop-codons"
+  ]
+}

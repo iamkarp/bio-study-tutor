@@ -1,0 +1,30 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "kg/schema/edge.schema.json",
+  "title": "Edge",
+  "description": "Typed directed relationship between two nodes.",
+  "type": "object",
+  "required": ["source", "target", "relation"],
+  "additionalProperties": false,
+  "properties": {
+    "source": {"type": "string", "pattern": "^[a-z_]+:[a-z0-9-]+$"},
+    "target": {"type": "string", "pattern": "^[a-z_]+:[a-z0-9-]+$"},
+    "relation": {
+      "type": "string",
+      "enum": [
+        "part_of", "consists_of", "produces", "produced_by", "catalyzes",
+        "catalyzed_by", "precedes", "follows", "pairs_with", "complement_of",
+        "transcribes_to", "translates_to", "compared_to", "discovered_by",
+        "demonstrates", "demonstrated_by", "causes", "caused_by", "regulates",
+        "regulated_by", "located_in", "mentioned_in", "example_of",
+        "instance_of", "inherits_as", "requires", "contradicts", "supersedes",
+        "cites", "related_to", "covers"
+      ]
+    },
+    "weight": {"type": "number", "minimum": 0, "maximum": 1},
+    "evidence": {"type": "array"},
+    "confidence": {"type": "number", "minimum": 0, "maximum": 1},
+    "notes": {"type": "string"},
+    "provenance": {"type": "object"}
+  }
+}

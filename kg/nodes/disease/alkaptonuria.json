@@ -1,0 +1,29 @@
+{
+  "id": "disease:alkaptonuria",
+  "type": "disease",
+  "title": "Alkaptonuria",
+  "slug": "alkaptonuria",
+  "aliases": [],
+  "tags": [
+    "chapter-10",
+    "autosomal-recessive"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/diseases/alkaptonuria.md",
+  "summary": "An autosomal-recessive metabolic disorder — inability to metabolize homogentisic acid (a tyrosine-pathway intermediate). The acid accumulates and turns urine black on standing. Listed in the chapter as another classic recessive trait.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/diseases/alkaptonuria.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    10
+  ]
+}

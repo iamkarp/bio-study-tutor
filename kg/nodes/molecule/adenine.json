@@ -1,0 +1,34 @@
+{
+  "id": "molecule:adenine",
+  "type": "molecule",
+  "title": "Adenine (A)",
+  "slug": "adenine",
+  "aliases": [
+    "A"
+  ],
+  "tags": [
+    "chapter-11",
+    "base"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/molecules/adenine.md",
+  "summary": "A purine (double-ring) nitrogenous base. Pairs with thymine (T) in DNA via 2 hydrogen bonds; pairs with uracil (U) in RNA. One of the four bases of DNA.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/molecules/adenine.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    11
+  ],
+  "exam_topics": [
+    "four-nucleotides"
+  ]
+}

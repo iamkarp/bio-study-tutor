@@ -1,0 +1,21 @@
+---
+id: molecule:methionine
+type: molecule
+title: Methionine (Met)
+slug: methionine
+aliases: ["Met", "M"]
+tags: [chapter-12]
+status: active
+created: 2026-04-29
+updated: 2026-04-29
+chapters: [12]
+exam_topics: [first-amino-acid, start-stop-codons]
+---
+
+# Methionine (Met)
+
+## Summary
+The amino acid carried by the **initiator tRNA**, encoded by the **start codon AUG**. **Every protein begins with methionine** (although it can be cleaved off post-translationally in many proteins). Methionine is also internal in some proteins, but only the AUG that begins the open reading frame is the "start."
+
+## Sources
+- [[../raw/extracted/chapter-12-how-genes-work]] slide 27

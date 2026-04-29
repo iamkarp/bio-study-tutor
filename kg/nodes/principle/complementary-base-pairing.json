@@ -1,0 +1,35 @@
+{
+  "id": "principle:complementary-base-pairing",
+  "type": "principle",
+  "title": "Complementary Base Pairing",
+  "slug": "complementary-base-pairing",
+  "aliases": [],
+  "tags": [
+    "chapter-11",
+    "dna"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/principles/complementary-base-pairing.md",
+  "summary": "The principle that DNA bases pair specifically and exclusively:\n- A pairs with T (2 hydrogen bonds) in DNA; A pairs with U in RNA\n- G pairs with C (3 hydrogen bonds)",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/principles/complementary-base-pairing.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    11,
+    12
+  ],
+  "exam_topics": [
+    "complementary-base-pairing",
+    "four-nucleotides",
+    "complementary-strand-from-sequence"
+  ]
+}

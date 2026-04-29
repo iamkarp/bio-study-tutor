@@ -1,0 +1,33 @@
+{
+  "id": "concept:dihybrid-cross",
+  "type": "concept",
+  "title": "Dihybrid Cross",
+  "slug": "dihybrid-cross",
+  "aliases": [],
+  "tags": [
+    "chapter-10",
+    "mendel"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/concepts/dihybrid-cross.md",
+  "summary": "A genetic cross tracking two genes simultaneously (e.g. seed color × seed shape). For two heterozygous parents (AaBb × AaBb), the F2 generation shows the classic 9:3:3:1 phenotypic ratio:\n- 9 dominant–dominant\n- 3 dominant–recessive\n- 3 recessive–dominant\n- 1 recessive–recessive",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/concepts/dihybrid-cross.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    10
+  ],
+  "exam_topics": [
+    "law-of-independent-assortment",
+    "independent-assortment-in-inheritance"
+  ]
+}

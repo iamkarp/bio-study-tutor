@@ -1,0 +1,33 @@
+{
+  "id": "structure:transcription-factor",
+  "type": "structure",
+  "title": "Transcription Factor",
+  "slug": "transcription-factor",
+  "aliases": [],
+  "tags": [
+    "chapter-12",
+    "gene-regulation"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/structures/transcription-factor.md",
+  "summary": "A protein that binds to a specific DNA sequence (often near a structures/promoter or enhancer) and influences whether a gene is transcribed. In eukaryotes, enzymes/rna-polymerase cannot bind a promoter without transcription factors first — they are required for transcription to begin.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/structures/transcription-factor.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    12
+  ],
+  "exam_topics": [
+    "eukaryotic-gene-regulation",
+    "transcription-initiation"
+  ]
+}

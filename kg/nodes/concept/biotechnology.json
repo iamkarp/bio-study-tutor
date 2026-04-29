@@ -1,0 +1,31 @@
+{
+  "id": "concept:biotechnology",
+  "type": "concept",
+  "title": "Biotechnology",
+  "slug": "biotechnology",
+  "aliases": [],
+  "tags": [
+    "chapter-13"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/concepts/biotechnology.md",
+  "summary": "The use of living organisms or their molecular components (DNA, RNA, proteins) to make useful products or carry out useful processes. Includes:\n- Diagnostic tools — techniques/pcr, techniques/dna-sequencing, DNA fingerprinting\n- Therapeutic — concepts/gene-therapy, recombinant insulin, vaccines\n- Agricultural — GMO crops, selective breeding\n- Forensic — techniques/str-analysis\n- Environmental — bi",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/concepts/biotechnology.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    13
+  ],
+  "exam_topics": [
+    "biotechnology-genetic-engineering"
+  ]
+}

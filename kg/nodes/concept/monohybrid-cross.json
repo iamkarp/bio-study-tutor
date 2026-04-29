@@ -1,0 +1,32 @@
+{
+  "id": "concept:monohybrid-cross",
+  "type": "concept",
+  "title": "Monohybrid Cross",
+  "slug": "monohybrid-cross",
+  "aliases": [],
+  "tags": [
+    "chapter-10",
+    "mendel"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/concepts/monohybrid-cross.md",
+  "summary": "A genetic cross that tracks one gene (one trait) at a time, typically Aa × Aa between two heterozygotes. The classic monohybrid cross produces a 3:1 phenotypic ratio in F2 (dominant : recessive) and a 1:2:1 genotype ratio (AA : Aa : aa).",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/concepts/monohybrid-cross.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    10
+  ],
+  "exam_topics": [
+    "punnett-cross-genotype-phenotype"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "comparison:prokaryote-vs-eukaryote-replication",
+  "type": "comparison",
+  "title": "Prokaryote vs. Eukaryote DNA Replication",
+  "slug": "prokaryote-vs-eukaryote-replication",
+  "aliases": [],
+  "tags": [
+    "chapter-11",
+    "comparison"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/comparisons/prokaryote-vs-eukaryote-replication.md",
+  "summary": "",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/comparisons/prokaryote-vs-eukaryote-replication.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    11
+  ],
+  "exam_topics": [
+    "origin-of-replication-prokaryote-eukaryote"
+  ]
+}

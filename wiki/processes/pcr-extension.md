@@ -1,0 +1,20 @@
+---
+id: process:pcr-extension
+type: process
+title: "PCR Step 3 — Extension"
+slug: pcr-extension
+tags: [chapter-13, pcr]
+status: active
+created: 2026-04-29
+updated: 2026-04-29
+chapters: [13]
+exam_topics: [pcr-components]
+---
+
+# PCR — Extension
+
+## Summary
+Third step of each [[techniques/pcr]] cycle. The temperature is raised to **~72 °C** — the optimal temperature for the **heat-stable [[enzymes/dna-polymerase]]** (typically Taq polymerase from a thermophilic bacterium). Polymerase extends the bound primers in the 5' → 3' direction, synthesizing a new copy of the target strand. After extension, the cycle repeats — doubling the copies again.
+
+## Sources
+- [[../raw/extracted/chapter-13-new-biology]] slide 12

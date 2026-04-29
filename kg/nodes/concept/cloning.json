@@ -1,0 +1,28 @@
+{
+  "id": "concept:cloning",
+  "type": "concept",
+  "title": "Cloning",
+  "slug": "cloning",
+  "aliases": [],
+  "tags": [
+    "chapter-13"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/concepts/cloning.md",
+  "summary": "Producing genetically identical copies of DNA, cells, or organisms.\n- Gene/molecular cloning — copy a specific DNA segment, often via techniques/pcr or concepts/recombinant-dna vectors.\n- Cell cloning — grow many cells from a single ancestor.\n- Reproductive cloning — produce a whole organism genetically identical to the donor (e.g. Dolly the sheep, 1996, by somatic cell nuclear transfer).",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/concepts/cloning.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    13
+  ]
+}

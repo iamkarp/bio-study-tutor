@@ -1,0 +1,33 @@
+{
+  "id": "process:prophase-i",
+  "type": "process",
+  "title": "Prophase I",
+  "slug": "prophase-i",
+  "aliases": [],
+  "tags": [
+    "chapter-09",
+    "meiosis"
+  ],
+  "status": "active",
+  "wiki_path": "wiki/processes/prophase-i.md",
+  "summary": "The first and longest phase of meiosis I. Homologous chromosomes pair up (synapsis), processes/crossing-over occurs at chiasmata, the nuclear envelope breaks down, and the spindle forms.",
+  "source_refs": [],
+  "confidence": 1.0,
+  "provenance": {
+    "ingested_from": [
+      "wiki/processes/prophase-i.md"
+    ],
+    "method": "parser",
+    "extractor_version": "0.1.0"
+  },
+  "version": 1,
+  "created": "2026-04-29",
+  "updated": "2026-04-29",
+  "chapters": [
+    9
+  ],
+  "exam_topics": [
+    "meiosis-i-phases",
+    "crossing-over"
+  ]
+}
