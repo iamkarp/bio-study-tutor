@@ -23,10 +23,16 @@
       "checksum": "a332af9b94783f11eb1bb6f462bd4091"
     },
     ".DS_Store": {
-      "checksum": "2f41adf1227e7c17b7b0a23244fc5be7"
+      "checksum": "0384d1fec4a7cd3c6131a07a00463742"
     },
     ".env": {
       "checksum": "4ed4d90573ca53b57472560651ef75b8"
+    },
+    ".env.example": {
+      "checksum": "a24d0089ac058d3da2d64688db14a430"
+    },
+    ".gitignore": {
+      "checksum": "7957a39688f83d737ab068b11fcf6f1c"
     },
     ".python-version": {
       "checksum": "c0479ff484dacd51dc5ba0461b16b9bf"
@@ -34,11 +40,41 @@
     ".rscignore": {
       "checksum": "42c63a22b2a9df88e6bd282802e85c5b"
     },
+    "ABOUT.md": {
+      "checksum": "effc09ab1fb818574f4915e7233433dc"
+    },
     "CLAUDE.md": {
       "checksum": "a925d40a6925e50519c4e2fe89fced56"
     },
     "README.md": {
-      "checksum": "8945603c131f6b1719330155d3d05848"
+      "checksum": "8d9ce4822a4f7c01ec3a1ebf76b83e22"
+    },
+    "Screenshots/Study Guide.png": {
+      "checksum": "c51a2357a160607fa9bad976a0be3e85"
+    },
+    "Screenshots/ask a tutor.png": {
+      "checksum": "2a1be22112a990a3f542b5291bc63a07"
+    },
+    "Screenshots/flash cards.png": {
+      "checksum": "22dfc66e1ae24075ebe847c7645a0659"
+    },
+    "Screenshots/graph network.png": {
+      "checksum": "8af2ea6c73f49062c1412d6be270e33d"
+    },
+    "Screenshots/match game.png": {
+      "checksum": "33bda8fca1bd89b972662bf06a3b2042"
+    },
+    "Screenshots/print outs.png": {
+      "checksum": "925e8c597f8517985efa058ff4fd1874"
+    },
+    "Screenshots/quick refernce guide.png": {
+      "checksum": "c68c3be3642ce086db61ed26f07d5c7d"
+    },
+    "Screenshots/quiz.png": {
+      "checksum": "af72e129bb7bb0aa087b87a19162854c"
+    },
+    "WRITEUP.md": {
+      "checksum": "302cb301452a23373766d2ad3a8a54b5"
     },
     "app/__init__.py": {
       "checksum": "e5506464d86731e2247b3925bfe0842d"
@@ -47,7 +83,7 @@
       "checksum": "946b5975d0c5af1a3bb59fb4bd4264d1"
     },
     "app/__pycache__/app.cpython-314.pyc": {
-      "checksum": "88ea363cd8ceaba169e16f02a4db289b"
+      "checksum": "d86ce719f09f404fccc70c5f14bfd581"
     },
     "app/__pycache__/games.cpython-314.pyc": {
       "checksum": "74271c9c7852b4e9215c123408d4e2f7"
@@ -59,13 +95,13 @@
       "checksum": "21a5f5dfe3aff6a9a0c71544fe2968ac"
     },
     "app/__pycache__/llm.cpython-314.pyc": {
-      "checksum": "5dde03b393479587d9f0a2459477fe29"
+      "checksum": "8aeec21eb6bf824a674f1623ed98ffdf"
     },
     "app/__pycache__/wikilink.cpython-314.pyc": {
       "checksum": "214b230b0d348f1f068a54d178e2ba85"
     },
     "app/app.py": {
-      "checksum": "5d0274d88157926b1401018dca1f4898"
+      "checksum": "ea9e6dbc65c767a706478e3a5391610c"
     },
     "app/games.py": {
       "checksum": "1a3a00c950bca0152ab525784fb2056b"
@@ -77,7 +113,7 @@
       "checksum": "42ab7083ee90591b635ccc0817bfa0fd"
     },
     "app/llm.py": {
-      "checksum": "c438de7eaae1db50f8a6cd68a5a373cb"
+      "checksum": "bbfaa12a461b7f9ca59a2fc6cd02da3d"
     },
     "app/prebuild.py": {
       "checksum": "28fda8eab54b709fb93cc16f04338ebe"
@@ -937,11 +973,20 @@
     "raw/extracted/study-guide-exam-3.md": {
       "checksum": "c75c0633cfb851cb8904dec128a042d0"
     },
+    "readme.txt": {
+      "checksum": "575a71c7f744d8a61144f7c21dff2848"
+    },
+    "tools/__pycache__/build_video.cpython-314.pyc": {
+      "checksum": "a1a15d9ab6e40cf876ef9e7932951ce4"
+    },
     "tools/build_kg.py": {
       "checksum": "b666b652b764b810ecbcc4a7ae825134"
     },
     "tools/build_print_version.py": {
       "checksum": "245fb113231f502ee879de3eedeb84ea"
+    },
+    "tools/build_video.py": {
+      "checksum": "52851004de69a184d2622e1567e7f80a"
     },
     "tools/extract/__init__.py": {
       "checksum": "d41d8cd98f00b204e9800998ecf8427e"
@@ -984,6 +1029,153 @@
     },
     "tools/validate.py": {
       "checksum": "a3c7da8371597149471c8b2a70330be5"
+    },
+    "video/audio/01_maya.mp3": {
+      "checksum": "0d8e6e59f10f287c94d59576eab1faa7"
+    },
+    "video/audio/02_jason.mp3": {
+      "checksum": "41044d3fc6bc4262310764adeec4ab92"
+    },
+    "video/audio/03_maya.mp3": {
+      "checksum": "027513a99a967bc878ba639a26e5dfdb"
+    },
+    "video/audio/04_jason.mp3": {
+      "checksum": "b2d254f03d5d1ae4b17ede0f627defaa"
+    },
+    "video/audio/05_maya.mp3": {
+      "checksum": "24a145279698cf44e3bf583a9a4d86d8"
+    },
+    "video/audio/06_jason.mp3": {
+      "checksum": "58c8a446b44ac315b7b60396c429fe4f"
+    },
+    "video/audio/07_jason.mp3": {
+      "checksum": "70c8e88675edb3e33ad12750b4474f88"
+    },
+    "video/audio/08_jason.mp3": {
+      "checksum": "5672a6f748c247eff4209c0b7a3be7a1"
+    },
+    "video/audio/09_jason.mp3": {
+      "checksum": "03ebbfec8a2d1622da8f3f761376b4de"
+    },
+    "video/audio/10_jason.mp3": {
+      "checksum": "afccb5747af7b64c2f4b1c0731c93501"
+    },
+    "video/audio/11_maya.mp3": {
+      "checksum": "2efe1ed1f40c42deb6e4485ad1494acd"
+    },
+    "video/audio/12_jason.mp3": {
+      "checksum": "22f40480b8ae009335019fe103a5af6d"
+    },
+    "video/audio/13_maya.mp3": {
+      "checksum": "5787bc001dfadf4378a4a61c1d7b6d46"
+    },
+    "video/audio/14_jason.mp3": {
+      "checksum": "aede6f49adea40358332cf4f2b0432da"
+    },
+    "video/audio/15_maya.mp3": {
+      "checksum": "c9a5f494dc7eb34f81de3f9ac0caf1e6"
+    },
+    "video/audio/16_jason.mp3": {
+      "checksum": "7b5821aa17f76f55bfaa85c949f75daa"
+    },
+    "video/audio/17_maya.mp3": {
+      "checksum": "f226e2edda8a99c71d641200ad3c09ab"
+    },
+    "video/audio/18_jason.mp3": {
+      "checksum": "e84ad533b4fc64b961fc445c7fdbcc9e"
+    },
+    "video/audio/19_jason.mp3": {
+      "checksum": "630c4edbd6df3134b8db98c756e40cc5"
+    },
+    "video/audio/20_maya.mp3": {
+      "checksum": "3b6d4f571a6359e95fd815dd72d3d843"
+    },
+    "video/audio/21_jason.mp3": {
+      "checksum": "54d04171b5e8a8c623b1102a4213d6e5"
+    },
+    "video/audio/22_maya.mp3": {
+      "checksum": "c2b476f3f5318d5b275bf355b72a9453"
+    },
+    "video/audio/23_jason.mp3": {
+      "checksum": "f22208961962e3949a34d7a96417b16d"
+    },
+    "video/bio_tutor_demo.mp4": {
+      "checksum": "b40559454ecfde629f3bb277e6c256c3"
+    },
+    "video/parts/concat.txt": {
+      "checksum": "048e16dc0122fde0dfaddc0cb5e9ae69"
+    },
+    "video/parts/seg_01.mp4": {
+      "checksum": "0106f0c703b69e3adefa1689e75fcda9"
+    },
+    "video/parts/seg_02.mp4": {
+      "checksum": "3a00a783fd836f783686fc20189aef2f"
+    },
+    "video/parts/seg_03.mp4": {
+      "checksum": "80cade09c4bdac17276de6937c143c07"
+    },
+    "video/parts/seg_04.mp4": {
+      "checksum": "f8cc181154a3a43c36a9fc8069d9c926"
+    },
+    "video/parts/seg_05.mp4": {
+      "checksum": "408751f8baf464be2a6c2c538df5debd"
+    },
+    "video/parts/seg_06.mp4": {
+      "checksum": "cd94a3810528320bbab563c61d19333e"
+    },
+    "video/parts/seg_07.mp4": {
+      "checksum": "cdd0944ac5bd01444fea23b0883d42ff"
+    },
+    "video/parts/seg_08.mp4": {
+      "checksum": "1d3a6c7c9c04aa25dfb51b93df9f48af"
+    },
+    "video/parts/seg_09.mp4": {
+      "checksum": "3957c167709cb0cd262bda4844c73fee"
+    },
+    "video/parts/seg_10.mp4": {
+      "checksum": "a7b5ab275db265152bd47e40a357cd27"
+    },
+    "video/parts/seg_11.mp4": {
+      "checksum": "3e57a6c9a08b9597ad66e24cf8baefad"
+    },
+    "video/parts/seg_12.mp4": {
+      "checksum": "26b6e377a39b9f4308b79ef123bc8e79"
+    },
+    "video/parts/seg_13.mp4": {
+      "checksum": "788b14801c98bc21b5a4871060c858ca"
+    },
+    "video/parts/seg_14.mp4": {
+      "checksum": "3133da14ad74c388963140c8571a7b46"
+    },
+    "video/parts/seg_15.mp4": {
+      "checksum": "0254b45263fdf5a36162b142b03c6723"
+    },
+    "video/parts/seg_16.mp4": {
+      "checksum": "1c02975d1a3d9e32d95147db86cbf010"
+    },
+    "video/parts/seg_17.mp4": {
+      "checksum": "153792ba4d28e2e41f87e9dc227d4227"
+    },
+    "video/parts/seg_18.mp4": {
+      "checksum": "39303b73485adce9550b5238ef01a63d"
+    },
+    "video/parts/seg_19.mp4": {
+      "checksum": "c4949acbbcd3174e297d6415b1a32fb6"
+    },
+    "video/parts/seg_20.mp4": {
+      "checksum": "838c775f6ca1c225b4f94f51fac7d5a5"
+    },
+    "video/parts/seg_21.mp4": {
+      "checksum": "78c86e29c3a461d861ac85705ca17f19"
+    },
+    "video/parts/seg_22.mp4": {
+      "checksum": "33f1bf50c7a8f9535a01bb7f2f989f6c"
+    },
+    "video/parts/seg_23.mp4": {
+      "checksum": "7eb219ee281f00119b4f95cf270a0b2d"
+    },
+    "video/script.md": {
+      "checksum": "676d18587c568816de1272cb19e59117"
     },
     "wiki/chapters/chapter-09.md": {
       "checksum": "5cd546039e6437ed18613104a000ecaf"

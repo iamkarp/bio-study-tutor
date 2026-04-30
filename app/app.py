@@ -366,18 +366,22 @@ app_ui = ui.page_navbar(
 .hackathon-banner .sep { color: rgba(255,255,255,0.5); margin: 0 10px; }
 """),
         ui.tags.script(NAV_JS),
-    ),
-
-    ui.HTML(
-        '<div class="hackathon-banner">'
-        '🏆 Submission to <b>The Gemma 4 Good Hackathon</b> · Future of Education Track'
-        '<span class="sep">·</span>'
-        '<a href="https://github.com/iamkarp/bio-study-tutor" target="_blank">GitHub repo</a>'
-        '<span class="sep">·</span>'
-        '<a href="https://github.com/iamkarp/bio-study-tutor/blob/main/WRITEUP.md" target="_blank">Writeup</a>'
-        '<span class="sep">·</span>'
-        'Powered by <b>Gemma 4</b> · runs locally on 24 GB RAM via Ollama'
-        '</div>'
+        # Inject the hackathon banner at the top of body via JS — page_navbar
+        # doesn't accept loose HTML siblings, so we DOM-insert on load.
+        ui.tags.script("""
+$(document).ready(function() {
+    var banner = '<div class="hackathon-banner">' +
+        '🏆 Submission to <b>The Gemma 4 Good Hackathon</b> · Future of Education Track' +
+        '<span class="sep">·</span>' +
+        '<a href="https://github.com/iamkarp/bio-study-tutor" target="_blank">GitHub repo</a>' +
+        '<span class="sep">·</span>' +
+        '<a href="https://github.com/iamkarp/bio-study-tutor/blob/main/WRITEUP.md" target="_blank">Writeup</a>' +
+        '<span class="sep">·</span>' +
+        'Powered by <b>Gemma 4</b> · runs locally on 24 GB RAM via Ollama' +
+        '</div>';
+    $('body').prepend(banner);
+});
+"""),
     ),
 
     # Tab 1: Study Guide
