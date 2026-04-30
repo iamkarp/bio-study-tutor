@@ -29,6 +29,14 @@ rsconnect-python/
 # Generated graph snapshots — rebuilt at runtime
 app/www/graph-*.html
 
+# Video build intermediates — final mp4 only
+video/audio/
+video/parts/
+video/jason_raw.*
+
+# Contest brief (not redistributed)
+readme.txt
+
 # Build / cache
 build/
 dist/

@@ -350,8 +350,34 @@ app_ui = ui.page_navbar(
             href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap",
             rel="stylesheet",
         ),
-        ui.tags.style(THEME_CSS),
+        ui.tags.style(THEME_CSS + """
+.hackathon-banner {
+    background: linear-gradient(90deg, #4f46e5 0%, #7c3aed 100%);
+    color: white;
+    padding: 8px 18px;
+    font-size: 13px;
+    font-weight: 500;
+    text-align: center;
+    letter-spacing: 0.005em;
+}
+.hackathon-banner a { color: #fde68a; text-decoration: none; font-weight: 600;
+                       border-bottom: 1px dotted #fde68a; padding: 0 2px; }
+.hackathon-banner a:hover { background: rgba(255,255,255,0.15); }
+.hackathon-banner .sep { color: rgba(255,255,255,0.5); margin: 0 10px; }
+"""),
         ui.tags.script(NAV_JS),
+    ),
+
+    ui.HTML(
+        '<div class="hackathon-banner">'
+        '🏆 Submission to <b>The Gemma 4 Good Hackathon</b> · Future of Education Track'
+        '<span class="sep">·</span>'
+        '<a href="https://github.com/iamkarp/bio-study-tutor" target="_blank">GitHub repo</a>'
+        '<span class="sep">·</span>'
+        '<a href="https://github.com/iamkarp/bio-study-tutor/blob/main/WRITEUP.md" target="_blank">Writeup</a>'
+        '<span class="sep">·</span>'
+        'Powered by <b>Gemma 4</b> · runs locally on 24 GB RAM via Ollama'
+        '</div>'
     ),
 
     # Tab 1: Study Guide
