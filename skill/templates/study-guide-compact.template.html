@@ -1,0 +1,504 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Bio 1320 Exam 3 — Compact 4-Page Edition</title>
+<style>
+@page {
+    size: letter; margin: 0.45in 0.55in 0.55in 0.55in;
+    @bottom-center { content: "Page " counter(page) " of 4"; font: 7.5pt 'Charter', serif; color: #888; }
+    @top-right { content: "Bio 1320 · Exam 3 · Compact"; font: 7pt 'Charter', serif; color: #aaa; }
+}
+@media screen {
+    body { background: #efefef; }
+    .pages { max-width: 8.5in; margin: 16px auto; }
+    .page-sheet { background: white; padding: 0.45in 0.55in; min-height: 11in;
+                  box-shadow: 0 1px 8px rgba(0,0,0,0.1); margin-bottom: 16px; }
+    .toolbar { position: sticky; top: 0; background: white; padding: 12px 16px;
+               border-bottom: 1px solid #e5e5e5; z-index: 10; box-shadow: 0 1px 3px rgba(0,0,0,0.04); }
+    .toolbar h1 { font-size: 14pt; margin: 0 0 2px 0; }
+    .toolbar p { margin: 0; color: #666; font-size: 11pt; }
+    .toolbar button { margin-right: 8px; padding: 6px 14px; font-size: 13px; cursor: pointer;
+                      border: 1px solid #ccc; border-radius: 6px; background: white; }
+    .toolbar button:hover { background: #f0f0f0; }
+    .toolbar button.primary { background: #4f46e5; color: white; border-color: #4f46e5; }
+    .toolbar button.primary:hover { background: #4338ca; }
+}
+@media print {
+    body { background: white; }
+    .pages { max-width: none; margin: 0; }
+    .page-sheet { box-shadow: none; padding: 0; min-height: 0; margin-bottom: 0;
+                  page-break-after: always; }
+    .page-sheet:last-child { page-break-after: auto; }
+    .toolbar { display: none; }
+    a { color: #000; text-decoration: none; }
+    a.xref { color: #1f2a4a; }
+}
+body {
+    font-family: 'Charter', 'Georgia', 'Cambria', 'Times New Roman', serif;
+    font-size: 9pt; line-height: 1.32; color: #111; margin: 0;
+}
+h1.cover-title { font-size: 22pt; margin: 0 0 4pt 0; letter-spacing: -0.005em; }
+h1.cover-subtitle { font-size: 11pt; color: #555; margin: 0 0 0 0; font-weight: 400; font-style: italic; }
+.cover { display: flex; justify-content: space-between; align-items: baseline;
+         border-bottom: 1.2pt solid #222; padding-bottom: 5pt; margin-bottom: 10pt; }
+.cover .meta { font-size: 8pt; color: #666; text-align: right; }
+
+.section-title {
+    font-size: 10.5pt; font-weight: 700; color: #222;
+    margin: 8pt 0 3pt 0; letter-spacing: -0.005em;
+    border-bottom: 0.5pt solid #999; padding-bottom: 1pt;
+    break-after: avoid;
+    column-span: all;
+}
+.cols-2 { columns: 2; column-gap: 14pt; column-rule: 0.5pt solid #ddd; }
+.fact {
+    break-inside: avoid; margin: 0 0 4pt 0; font-size: 8.6pt; line-height: 1.35;
+}
+.fact-num { color: #4f46e5; font-weight: 700; font-size: 7.5pt; vertical-align: 1pt; margin-right: 2pt;
+            letter-spacing: 0; font-variant-numeric: tabular-nums; }
+.fact-key { font-weight: 700; color: #111; }
+a.xref { color: #2c3e8a; text-decoration: none; font-size: 7.5pt; vertical-align: 1pt;
+         font-variant-numeric: tabular-nums; }
+a.xref:hover { text-decoration: underline; }
+.fact ul { margin: 1pt 0 0 0; padding-left: 12pt; }
+.fact li { margin: 0; }
+.fact code { font-family: 'Consolas', 'Menlo', monospace; font-size: 7.8pt; background: #f5f5f5;
+             padding: 0 2pt; border-radius: 1pt; }
+
+.tbl { border-collapse: collapse; width: 100%; font-size: 8pt; margin: 2pt 0 4pt 0; }
+.tbl th, .tbl td { border: 0.5pt solid #aaa; padding: 1.5pt 4pt; text-align: left; vertical-align: top; }
+.tbl th { background: #f0f0f0; font-weight: 700; }
+
+.mnemonic { background: #fff8e6; border: 0.5pt solid #d4a900; border-radius: 3pt;
+            padding: 3pt 6pt; margin: 4pt 0; font-size: 8.3pt; }
+.mnemonic b { color: #8a5a00; }
+
+.callout { background: #eef0fa; border-left: 2.5pt solid #4f46e5; padding: 3pt 7pt;
+           margin: 4pt 0; font-size: 8.3pt; }
+</style>
+</head>
+<body>
+
+<div class="toolbar">
+  <h1>Bio 1320 Exam 3 · Compact 4-Page Edition</h1>
+  <p style="margin: 4px 0 10px 0;">Numbered facts · cross-referenced · hyperlinked in PDF</p>
+  <button class="primary" onclick="window.print()">Print → Save as PDF</button>
+  <button onclick="window.scrollTo(0, 0)">Back to top</button>
+</div>
+
+<div class="pages">
+
+<!-- ═════════════════════════ PAGE 1 ═════════════════════════ -->
+<div class="page-sheet">
+
+<div class="cover">
+  <div>
+    <h1 class="cover-title">Bio 1320 — Exam 3 Quick Reference</h1>
+    <h1 class="cover-subtitle">Chapters 9–13 · Meiosis · Inheritance · DNA · Genes · Biotech</h1>
+  </div>
+  <div class="meta">4 pages · 100 numbered facts<br>cross-references hyperlinked</div>
+</div>
+
+<div class="section-title">Chapter 9 · Meiosis</div>
+<div class="cols-2">
+
+<div class="fact" id="sec-1"><span class="fact-num">§1</span><span class="fact-key">Sex chromosomes:</span> humans have 22 pairs of autosomes + 1 pair sex chromosomes. <b>XX = female</b>, <b>XY = male</b>. Y carries SRY → male development. Father determines sex.</div>
+
+<div class="fact" id="sec-2"><span class="fact-num">§2</span><span class="fact-key">Meiosis math:</span> 1 round of DNA replication (S phase) + 2 rounds of division → <b>4 haploid gametes</b> from 1 diploid cell. <b>No replication between meiosis I and II.</b></div>
+
+<div class="fact" id="sec-3"><span class="fact-num">§3</span><span class="fact-key">Meiosis I (reductive):</span> separates <b>homologous pairs</b>. Sister chromatids stay attached. 2n → n. Each daughter has duplicated chromosomes.</div>
+
+<div class="fact" id="sec-4"><span class="fact-num">§4</span><span class="fact-key">Meiosis II (equational):</span> separates <b>sister chromatids</b>. Mechanically like mitosis but starting haploid. Final result: 4 haploid cells with single chromosomes.</div>
+
+<div class="fact" id="sec-5"><span class="fact-num">§5</span><span class="fact-key">Prophase I:</span> homologues pair (synapsis); <a href="#sec-6" class="xref">§6</a> crossing over occurs at chiasmata; nuclear envelope breaks; spindle forms. Longest phase.</div>
+
+<div class="fact" id="sec-6"><span class="fact-num">§6</span><span class="fact-key">Crossing over:</span> exchange of DNA between non-sister chromatids of homologues during <a href="#sec-5" class="xref">§5</a>. 2–3 chiasmata per pair in humans. Produces <b>genetic recombination</b> (new allele combinations).</div>
+
+<div class="fact" id="sec-7"><span class="fact-num">§7</span><span class="fact-key">Metaphase I:</span> homologous <b>pairs</b> line up at equator with <b>random orientation</b> per pair → independent assortment. 2²³ ≈ 8.4 million combos in humans.</div>
+
+<div class="fact" id="sec-8"><span class="fact-num">§8</span><span class="fact-key">Anaphase I vs II:</span> Ana I separates <b>homologues</b> (chromatids stay together). Ana II separates <b>sister chromatids</b>. Mitotic anaphase = like ana II.</div>
+
+<div class="fact" id="sec-9"><span class="fact-num">§9</span><span class="fact-key">Independent assortment:</span> alleles for one gene segregate into gametes independently of alleles for a different gene. Cellular basis = random metaphase I orientation. Only true for genes on different chromosomes (or far apart). See <a href="#sec-23" class="xref">§23</a>.</div>
+
+<div class="fact" id="sec-10"><span class="fact-num">§10</span><span class="fact-key">Nondisjunction</span> = chromosomes fail to separate in anaphase. <b>In meiosis I:</b> ALL 4 gametes abnormal (2 extra, 2 missing). <b>In meiosis II:</b> 2 abnormal + 2 normal. Trisomy 21 → Down syndrome.</div>
+
+<div class="fact" id="sec-11"><span class="fact-num">§11</span><span class="fact-key">Mitosis vs meiosis:</span>
+<table class="tbl"><tr><th></th><th>Mitosis</th><th>Meiosis</th></tr>
+<tr><td>Replications</td><td>1</td><td>1</td></tr>
+<tr><td>Divisions</td><td>1</td><td>2</td></tr>
+<tr><td>Daughter cells</td><td>2 diploid</td><td>4 haploid</td></tr>
+<tr><td>Crossing over</td><td>No</td><td>Yes (P-I)</td></tr>
+<tr><td>Pairing</td><td>No</td><td>Yes (P-I)</td></tr>
+</table></div>
+
+<div class="fact" id="sec-12"><span class="fact-num">§12</span><span class="fact-key">Why sex?</span> Genetic diversity → some offspring survive when conditions change. Asexual reproduction = clones, vulnerable to single threats but faster.</div>
+
+<div class="fact" id="sec-13"><span class="fact-num">§13</span><span class="fact-key">Twins:</span> <b>Monozygotic</b> (identical) = one zygote splits, identical DNA. <b>Dizygotic</b> (fraternal) = two eggs, two sperm; ~50% shared DNA like ordinary siblings.</div>
+
+</div><!-- /cols-2 -->
+
+<div class="section-title">Chapter 10 · Patterns of Inheritance</div>
+<div class="cols-2">
+
+<div class="fact" id="sec-14"><span class="fact-num">§14</span><span class="fact-key">Vocabulary fast:</span>
+<ul>
+<li><b>Allele</b>: alternative version of a gene</li>
+<li><b>Genotype</b>: two alleles (YY, Yy, yy)</li>
+<li><b>Phenotype</b>: observable trait</li>
+<li><b>Homozygous</b>: same alleles (YY/yy)</li>
+<li><b>Heterozygous</b>: different (Yy)</li>
+<li><b>Carrier</b>: heterozygous unaffected</li>
+<li><b>Dominant</b>: shows when present</li>
+<li><b>Recessive</b>: masked by dominant</li>
+</ul></div>
+
+<div class="fact" id="sec-15"><span class="fact-num">§15</span><span class="fact-key">True breeding</span> = pure breeding = homozygous. Self-fertilized offspring all match the parent's trait.</div>
+
+<div class="fact" id="sec-16"><span class="fact-num">§16</span><span class="fact-key">P / F1 / F2:</span> P = true-breeding parents. F1 = hybrid offspring (all dominant phenotype if YY × yy). F2 = F1 self-cross → <b>3:1 phenotype</b>, <b>1:2:1 genotype</b>.</div>
+
+<div class="fact" id="sec-17"><span class="fact-num">§17</span><span class="fact-key">Mendel's law of segregation:</span> the two alleles for a gene separate during meiosis. Gametes carry only one. Cellular basis = anaphase I.</div>
+
+<div class="fact" id="sec-18"><span class="fact-num">§18</span><span class="fact-key">Punnett squares:</span> Aa × Aa → 1 AA : 2 Aa : 1 aa → 3 dominant : 1 recessive (with full dominance). Heterozygote gametes: 1/2 A, 1/2 a.</div>
+
+<div class="fact" id="sec-19"><span class="fact-num">§19</span><span class="fact-key">Incomplete dominance</span> = heterozygote shows blended intermediate (red × white → pink). Genotype:phenotype ratio 1:2:1.</div>
+
+<div class="fact" id="sec-20"><span class="fact-num">§20</span><span class="fact-key">Codominance</span> = both alleles fully expressed simultaneously, NOT blended. Example <a href="#sec-21" class="xref">§21</a>.</div>
+
+<div class="fact" id="sec-21"><span class="fact-num">§21</span><span class="fact-key">ABO blood typing:</span> alleles I^A, I^B, i. I^A and I^B are codominant; both dominant over i. <b>I^A I^B → AB</b> (both antigens). <b>ii → O</b> (none).</div>
+
+<div class="fact" id="sec-22"><span class="fact-num">§22</span><span class="fact-key">Sex-linked recessive:</span> trait on X chromosome. Males (XY) only need 1 copy → expressed. Females (XX) need 2 → carriers possible. Affected mom + normal dad → all daughters carriers, all sons affected.</div>
+
+<div class="fact" id="sec-23"><span class="fact-num">§23</span><span class="fact-key">Gene linkage</span> = genes close together on same chromosome inherited as a unit (exception to <a href="#sec-9" class="xref">§9</a>). <a href="#sec-6" class="xref">§6</a> Crossing over breaks linkage; probability ∝ distance.</div>
+
+<div class="fact" id="sec-24"><span class="fact-num">§24</span><span class="fact-key">X-inactivation</span> = in each XX cell, ONE X is randomly silenced (Barr body). Prevents double-dosing. Why calicos have patches; why Rett syndrome severity varies in girls.</div>
+
+<div class="fact" id="sec-25"><span class="fact-num">§25</span><span class="fact-key">Polygenic</span> = ONE trait, MANY genes (skin, height) → continuous variation. <b>Pleiotropy</b> = ONE gene, MANY effects (Marfan: tall + lens + aorta). Don't confuse.</div>
+
+<div class="fact" id="sec-26"><span class="fact-num">§26</span><span class="fact-key">Environment + phenotype:</span> Siamese cat fur — pigment enzyme only works at cool temps → dark on extremities. Genotype fixed; phenotype = genotype × environment.</div>
+
+</div><!-- /cols-2 -->
+
+</div><!-- /page-sheet -->
+
+<!-- ═════════════════════════ PAGE 2 ═════════════════════════ -->
+<div class="page-sheet">
+
+<div class="section-title">Chapter 11 · DNA Structure &amp; Replication</div>
+<div class="cols-2">
+
+<div class="fact" id="sec-27"><span class="fact-num">§27</span><span class="fact-key">Nucleotide = 3 parts:</span> phosphate (PO₄⁻) + deoxyribose sugar + nitrogenous base. Backbone faces <b>exterior</b>; bases face <b>interior</b> of helix.</div>
+
+<div class="fact" id="sec-28"><span class="fact-num">§28</span><span class="fact-key">Bases &amp; pairing:</span> <b>A–T</b> via 2 H-bonds, <b>G–C</b> via 3 H-bonds. Purines (A, G) pair with pyrimidines (T, C) — equal helix width. RNA: U replaces T.</div>
+
+<div class="fact" id="sec-29"><span class="fact-num">§29</span><span class="fact-key">Chargaff's rule:</span> %A = %T and %G = %C. <b>Worked example:</b> if T = 20%, then A = 20%, G = C = 30% each.</div>
+
+<div class="fact" id="sec-30"><span class="fact-num">§30</span><span class="fact-key">Antiparallel:</span> the two strands run in opposite 5'→3' directions. Why? DNA pol can only build 5'→3'; antiparallel template forces leading/lagging strand asymmetry <a href="#sec-37" class="xref">§37</a>.</div>
+
+<div class="fact" id="sec-31"><span class="fact-num">§31</span><span class="fact-key">5' vs 3' end:</span> 5' carbon carries phosphate. 3' carbon carries free –OH. DNA pol extends only at 3'-OH → needs primer.</div>
+
+<div class="fact" id="sec-32"><span class="fact-num">§32</span><span class="fact-key">Complement example:</span>
+template 3'-TACGGT-5' → mRNA 5'-AUGCCA-3'. (For DNA→DNA: substitute T for U.) Antiparallel + complementary.</div>
+
+<div class="fact" id="sec-33"><span class="fact-num">§33</span><span class="fact-key">Cell cycle:</span> G1 → <b>S phase (DNA replication)</b> → G2 → M (mitosis or meiosis). DNA replicates ONCE per cycle.</div>
+
+<div class="fact" id="sec-34"><span class="fact-num">§34</span><span class="fact-key">Semiconservative replication:</span> each daughter helix has 1 old strand + 1 new strand. Confirmed by Meselson-Stahl (1958).</div>
+
+<div class="fact" id="sec-35"><span class="fact-num">§35</span><span class="fact-key">Replication enzymes:</span>
+<ul>
+<li><b>Helicase</b> — unwinds helix (breaks H-bonds)</li>
+<li><b>SSB</b> — stabilizes single strands</li>
+<li><b>Topoisomerase</b> — relieves twist tension</li>
+<li><b>Primase</b> — lays RNA primer (3'-OH start)</li>
+<li><b>DNA pol III</b> — extends 5'→3', proofreads</li>
+<li><b>DNA pol I</b> — replaces RNA primers w/ DNA</li>
+<li><b>Ligase</b> — seals fragment gaps</li>
+</ul></div>
+
+<div class="mnemonic"><b>Mnemonic:</b> "Helicase Pulls Apart, Primer Provides A 3' Start, Pol III Adds the Parts, Pol I Rewrites RNA, Ligase Seals" (HPPPL).</div>
+
+<div class="fact" id="sec-36"><span class="fact-num">§36</span><span class="fact-key">Direction of synthesis:</span> template read <b>3'→5'</b>; new strand built <b>5'→3'</b>. The 3'-OH on the existing strand is what gets extended.</div>
+
+<div class="fact" id="sec-37"><span class="fact-num">§37</span><span class="fact-key">Leading vs lagging strand:</span>
+<table class="tbl">
+<tr><th></th><th>Leading</th><th>Lagging</th></tr>
+<tr><td>Direction</td><td>toward fork</td><td>away from fork</td></tr>
+<tr><td>Continuous?</td><td>Yes</td><td>No (Okazaki)</td></tr>
+<tr><td>Primers</td><td>1</td><td>Many</td></tr>
+</table>
+Lagging needs DNA pol I + ligase to finish.</div>
+
+<div class="fact" id="sec-38"><span class="fact-num">§38</span><span class="fact-key">Okazaki fragments:</span> short DNA pieces on the lagging strand only. ~100–200 nt in eukaryotes.</div>
+
+<div class="fact" id="sec-39"><span class="fact-num">§39</span><span class="fact-key">Origin of replication (ORI):</span>
+<table class="tbl">
+<tr><th></th><th>Prokaryote</th><th>Eukaryote</th></tr>
+<tr><td>Chromosome</td><td>1 circular</td><td>Multiple linear</td></tr>
+<tr><td>ORIs</td><td>1</td><td>Many</td></tr>
+<tr><td>Plasmids?</td><td>Yes</td><td>No</td></tr>
+</table></div>
+
+<div class="fact" id="sec-40"><span class="fact-num">§40</span><span class="fact-key">Telomeres:</span> repetitive DNA (TTAGGG) at chromosome ends. Linear chromosomes shorten each replication because lagging strand can't extend the very end (no upstream 3'-OH after primer removal).</div>
+
+<div class="fact" id="sec-41"><span class="fact-num">§41</span><span class="fact-key">Telomerase:</span> enzyme that ADDS telomere repeats using its own RNA template. Active in <b>germ cells, stem cells, ~85% of cancers</b>. Inactive in most somatic cells → telomere shortening with age.</div>
+
+<div class="fact" id="sec-42"><span class="fact-num">§42</span><span class="fact-key">Replication accuracy:</span> raw error ~1 / 1000 nt. After DNA pol III proofreading: ~1 / 10⁷ nt.</div>
+
+<div class="fact" id="sec-43"><span class="fact-num">§43</span><span class="fact-key">Mutation</span> = permanent change in DNA. Most occur during replication. <b>Mutagen</b> = agent that increases mutation rate (UV, X-rays, chemicals). Types: <a href="#sec-66" class="xref">§66</a></div>
+
+<div class="fact" id="sec-44"><span class="fact-num">§44</span><span class="fact-key">Same mechanism mitosis vs meiosis:</span> DNA replicates the same way regardless of which division follows. The difference is in the divisions, not the replication.</div>
+
+<div class="fact" id="sec-45"><span class="fact-num">§45</span><span class="fact-key">Griffith (1928):</span> heat-killed virulent S bacteria + live harmless R bacteria → live virulent S recovered. Something in dead S "transformed" R. Later identified as DNA (Avery et al. 1944).</div>
+
+</div><!-- /cols-2 -->
+
+</div><!-- /page-sheet -->
+
+<!-- ═════════════════════════ PAGE 3 ═════════════════════════ -->
+<div class="page-sheet">
+
+<div class="section-title">Chapter 12 · How Genes Work — Transcription &amp; Translation</div>
+<div class="cols-2">
+
+<div class="fact" id="sec-46"><span class="fact-num">§46</span><span class="fact-key">Central dogma:</span> <b>DNA → (transcription) → RNA → (translation) → Protein</b>. Transcription in nucleus; translation at ribosomes in cytoplasm.</div>
+
+<div class="fact" id="sec-47"><span class="fact-num">§47</span><span class="fact-key">RNA vs DNA — 3 differences:</span>
+<table class="tbl">
+<tr><th></th><th>DNA</th><th>RNA</th></tr>
+<tr><td>Sugar</td><td>deoxyribose</td><td>ribose</td></tr>
+<tr><td>Base</td><td>T</td><td>U</td></tr>
+<tr><td>Strands</td><td>double</td><td>single</td></tr>
+</table></div>
+
+<div class="fact" id="sec-48"><span class="fact-num">§48</span><span class="fact-key">Three RNA classes:</span>
+<ul>
+<li><b>mRNA</b> — message; codons read at ribosome</li>
+<li><b>tRNA</b> — adaptor; anticodon ↔ codon, carries amino acid</li>
+<li><b>rRNA</b> — ribosome structure + catalysis (peptide bonds). Ribosomes are ribozymes.</li>
+</ul></div>
+
+<div class="fact" id="sec-49"><span class="fact-num">§49</span><span class="fact-key">Transcription steps:</span>
+<ul>
+<li><b>Initiation:</b> RNA polymerase binds <b>promoter</b> (eukaryotes need <b>transcription factors</b> first); unwinds DNA</li>
+<li><b>Elongation:</b> reads template 3'→5'; builds RNA 5'→3'; only 1 strand copied</li>
+<li><b>Termination:</b> at terminator sequence, all 3 (RNA, DNA, polymerase) separate</li>
+</ul></div>
+
+<div class="fact" id="sec-50"><span class="fact-num">§50</span><span class="fact-key">mRNA processing</span> (eukaryotes, in nucleus):
+<ul>
+<li><b>5' cap</b> — modified G; ribosome recognition + protection</li>
+<li><b>3' poly-A tail</b> — ~100–250 As; stability + export</li>
+<li><b>Splicing</b> — introns removed, exons joined</li>
+</ul></div>
+
+<div class="fact" id="sec-51"><span class="fact-num">§51</span><span class="fact-key">Introns vs exons:</span>
+<ul>
+<li><b>Ex</b>ons stay = <b>EX</b>pressed (in mature mRNA, code for protein)</li>
+<li><b>In</b>trons go = <b>IN</b>tervening (spliced out)</li>
+</ul>
+<b>Alternative splicing</b> → multiple proteins from one gene.</div>
+
+<div class="fact" id="sec-52"><span class="fact-num">§52</span><span class="fact-key">Codon</span> = 3-nt sequence on mRNA → 1 amino acid. 4³ = 64 codons. 61 code amino acids; 3 stop codons.</div>
+
+<div class="fact" id="sec-53"><span class="fact-num">§53</span><span class="fact-key">Start codon</span> = <b>AUG → methionine (Met)</b>. EVERY protein begins with Met (sometimes cleaved later). Initiator tRNA carries Met.</div>
+
+<div class="fact" id="sec-54"><span class="fact-num">§54</span><span class="fact-key">Stop codons:</span> <b>UAA, UAG, UGA</b>. No tRNA matches. Release factor binds A site → polypeptide released → ribosome dissociates.
+<div class="mnemonic"><b>Mnemonic:</b> U Are Away · U Are Gone · U Go Away.</div>
+</div>
+
+<div class="fact" id="sec-55"><span class="fact-num">§55</span><span class="fact-key">Codon redundancy:</span> 64 codons / 20 amino acids → most amino acids have multiple codons (esp. 3rd position "wobble"). Why some substitutions are silent.</div>
+
+<div class="fact" id="sec-56"><span class="fact-num">§56</span><span class="fact-key">Translation steps:</span>
+<ul>
+<li><b>Initiation:</b> small subunit binds 5' cap, scans to AUG; initiator tRNA(Met) base-pairs; large subunit joins → ribosome assembled</li>
+<li><b>Elongation:</b> 2nd tRNA enters A site (matches codon); rRNA forms peptide bond; 1st tRNA exits via E site; ribosome shifts; repeat</li>
+<li><b>Termination:</b> stop codon → release factor → done</li>
+</ul></div>
+
+<div class="fact" id="sec-57"><span class="fact-num">§57</span><span class="fact-key">Ribosome sites:</span> <b>A</b> (Aminoacyl, incoming) → <b>P</b> (Peptidyl, growing chain) → <b>E</b> (Exit). tRNAs flow A → P → E.</div>
+
+<div class="fact" id="sec-58"><span class="fact-num">§58</span><span class="fact-key">Where catalysis happens:</span> rRNA in the large subunit forms the peptide bond — ribosomes are ribozymes (RNA enzymes), not protein enzymes.</div>
+
+<div class="fact" id="sec-59"><span class="fact-num">§59</span><span class="fact-key">Polyribosomes:</span> multiple ribosomes can translate the same mRNA at the same time → fast protein production from one transcript.</div>
+
+<div class="fact" id="sec-60"><span class="fact-num">§60</span><span class="fact-key">Transcription vs translation:</span>
+<table class="tbl">
+<tr><th></th><th>Transcr.</th><th>Transl.</th></tr>
+<tr><td>Template</td><td>DNA</td><td>mRNA</td></tr>
+<tr><td>Product</td><td>RNA</td><td>protein</td></tr>
+<tr><td>Where (euk)</td><td>nucleus</td><td>cytoplasm</td></tr>
+<tr><td>Enzyme</td><td>RNA pol</td><td>ribosome</td></tr>
+<tr><td>Reads as</td><td>nucleotides</td><td>codons (3 nt)</td></tr>
+<tr><td>Start</td><td>promoter</td><td>AUG</td></tr>
+</table></div>
+
+<div class="fact" id="sec-61"><span class="fact-num">§61</span><span class="fact-key">Eukaryotic gene regulation</span> (6 levels):
+<ul>
+<li>Chromatin (histone packing)</li>
+<li>Transcription factors</li>
+<li>Alternative splicing</li>
+<li>mRNA export from nucleus</li>
+<li>mRNA stability + microRNA silencing</li>
+<li>Post-translational (folding, modification)</li>
+</ul></div>
+
+<div class="fact" id="sec-62"><span class="fact-num">§62</span><span class="fact-key">Transcription factors:</span> proteins that must bind near promoter for RNA polymerase to engage in eukaryotes. Different cell types → different TFs → different gene sets.</div>
+
+<div class="fact" id="sec-63"><span class="fact-num">§63</span><span class="fact-key">microRNA (miRNA):</span> short non-coding RNA that base-pairs with mRNA to block translation or trigger degradation. Major post-transcriptional regulator.</div>
+
+<div class="fact" id="sec-64"><span class="fact-num">§64</span><span class="fact-key">Pre-mRNA</span> = initial transcript. Longer than mature mRNA (still has introns + no cap/tail). Becomes mature mRNA after <a href="#sec-50" class="xref">§50</a> processing.</div>
+
+<div class="fact" id="sec-65"><span class="fact-num">§65</span><span class="fact-key">Anticodon:</span> 3-nt on tRNA that pairs with mRNA codon. Each tRNA carries one specific amino acid matched to its anticodon.</div>
+
+<div class="fact" id="sec-66"><span class="fact-num">§66</span><span class="fact-key">Mutation effects on protein:</span>
+<ul>
+<li><b>Silent</b> substitution: codon → same aa (codon redundancy)</li>
+<li><b>Missense</b>: codon → different aa (sickle cell)</li>
+<li><b>Nonsense</b>: codon → stop (truncated protein)</li>
+<li><b>In-frame indel</b>: adds/removes whole codons; mild</li>
+<li><b>Frameshift</b>: indel ≠ multiple of 3 → all downstream codons wrong → catastrophic</li>
+</ul></div>
+
+<div class="fact" id="sec-67"><span class="fact-num">§67</span><span class="fact-key">Sickle cell anemia:</span> single A→T substitution in β-hemoglobin gene. <b>GAG → GTG</b> changes 6th amino acid <b>Glu → Val</b>. Hydrophobic Val causes hemoglobin to aggregate under low O₂; cells deform.</div>
+
+</div><!-- /cols-2 -->
+
+</div><!-- /page-sheet -->
+
+<!-- ═════════════════════════ PAGE 4 ═════════════════════════ -->
+<div class="page-sheet">
+
+<div class="section-title">Chapter 13 · The New Biology — Biotechnology</div>
+<div class="cols-2">
+
+<div class="fact" id="sec-68"><span class="fact-num">§68</span><span class="fact-key">Biotechnology</span> = use of organisms or biomolecules for human purposes. <b>Genetic engineering</b> = subset that DIRECTLY alters genomes (recombinant DNA, CRISPR).</div>
+
+<div class="fact" id="sec-69"><span class="fact-num">§69</span><span class="fact-key">PCR (Mullis, Nobel 1993):</span> amplifies a specific DNA target exponentially. Each cycle <b>DOUBLES</b> copies. After n cycles → 2ⁿ. 30 cycles → ~10⁹ copies.</div>
+
+<div class="fact" id="sec-70"><span class="fact-num">§70</span><span class="fact-key">PCR — 4 ingredients:</span>
+<ul>
+<li><b>Target DNA</b> — template</li>
+<li><b>Heat-stable polymerase</b> (Taq) — survives 95°C</li>
+<li><b>dNTPs</b> — building blocks</li>
+<li><b>Primers</b> — flank target, define amplification region</li>
+</ul>
+Missing any → no product. <a href="#sec-71" class="xref">§71</a></div>
+
+<div class="fact" id="sec-71"><span class="fact-num">§71</span><span class="fact-key">PCR — 3 temperature steps:</span>
+<table class="tbl">
+<tr><th>Step</th><th>°C</th><th>What</th></tr>
+<tr><td>Denature</td><td>95</td><td>H-bonds break; strands separate</td></tr>
+<tr><td>Anneal</td><td>55</td><td>Primers bind</td></tr>
+<tr><td>Extend</td><td>72</td><td>Taq builds new DNA</td></tr>
+</table></div>
+
+<div class="fact" id="sec-72"><span class="fact-num">§72</span><span class="fact-key">Gel electrophoresis:</span> separates DNA <b>by size</b>. DNA negatively charged → migrates toward + electrode. <b>Smaller = faster</b> through agarose mesh → travels FARTHER. Bands sorted by length.</div>
+
+<div class="fact" id="sec-73"><span class="fact-num">§73</span><span class="fact-key">Short Tandem Repeat (STR):</span> short DNA sequence (2–6 bp) repeated head-to-tail. Repeat <b>count varies between people</b>. CODIS uses 13 STRs → match probability ~1 in a trillion.</div>
+
+<div class="fact" id="sec-74"><span class="fact-num">§74</span><span class="fact-key">DNA profiling workflow:</span> collect DNA → PCR amplifies 13 STR loci → gel electrophoresis → band pattern = profile. Mismatch on even one STR locus → exclusion.</div>
+
+<div class="fact" id="sec-75"><span class="fact-num">§75</span><span class="fact-key">DNA sequencing (Sanger):</span> normal nucleotides + dye-labeled chain-terminators in replication mix. Each position fragment is color-coded by its terminal base. Run on gel → read order from shortest to longest.</div>
+
+<div class="fact" id="sec-76"><span class="fact-num">§76</span><span class="fact-key">Human Genome Project:</span> 1990 → 2003. Sequenced all <b>3 billion bases</b> with 99.99% accuracy. Found <b>~19,949 genes</b>; genes are only <b>~2%</b> of the genome.</div>
+
+<div class="fact" id="sec-77"><span class="fact-num">§77</span><span class="fact-key">Recombinant DNA:</span> joining DNA segments from different sources (e.g. human insulin gene → bacterial plasmid → bacterium produces human insulin).</div>
+
+<div class="fact" id="sec-78"><span class="fact-num">§78</span><span class="fact-key">Other tools:</span> gene therapy (replace defective gene), cloning (Dolly 1996), preimplantation genetic diagnosis (PGD: screen embryos at 8-cell stage).</div>
+
+</div><!-- /cols-2 -->
+
+<div class="section-title">Quick-reference comparisons &amp; computation cheats</div>
+<div class="cols-2">
+
+<div class="fact" id="sec-79"><span class="fact-num">§79</span><span class="fact-key">Sister chromatids vs homologues:</span>
+<ul>
+<li><b>Sister chromatids:</b> 2 IDENTICAL copies of one chromosome (joined at centromere)</li>
+<li><b>Homologues:</b> matching pair, same genes / different alleles, one from each parent</li>
+</ul></div>
+
+<div class="fact" id="sec-80"><span class="fact-num">§80</span><span class="fact-key">Metaphase comparison:</span>
+<table class="tbl">
+<tr><th></th><th>What lines up</th></tr>
+<tr><td>Met I</td><td>Homolog. PAIRS (random orientation)</td></tr>
+<tr><td>Met II</td><td>Single chromosomes</td></tr>
+<tr><td>Mitotic met</td><td>Single chromosomes (diploid)</td></tr>
+</table></div>
+
+<div class="fact" id="sec-81"><span class="fact-num">§81</span><span class="fact-key">Punnett worked example (TT × tt):</span>
+F1 = all <b>Tt</b> (100% tall).
+F2 (Tt × Tt) = <b>1 TT : 2 Tt : 1 tt</b> → 3 tall : 1 short.</div>
+
+<div class="fact" id="sec-82"><span class="fact-num">§82</span><span class="fact-key">Sex-linked Punnett (X^h X^h × X^H Y):</span>
+All daughters X^H X^h (carriers, normal). All sons X^h Y (affected). <a href="#sec-22" class="xref">§22</a></div>
+
+<div class="fact" id="sec-83"><span class="fact-num">§83</span><span class="fact-key">Chargaff worked:</span> if A = 30%, then T = 30%, G = C = 20% each. (A+T+G+C = 100%; A=T; G=C.)</div>
+
+<div class="fact" id="sec-84"><span class="fact-num">§84</span><span class="fact-key">PCR copies after n cycles:</span> 2ⁿ. So 2¹⁰ = 1024 ≈ 1000; 2²⁰ ≈ 1,000,000; 2³⁰ ≈ 10⁹.</div>
+
+<div class="fact" id="sec-85"><span class="fact-num">§85</span><span class="fact-key">Nondisjunction outcomes:</span>
+<table class="tbl">
+<tr><th>Where</th><th>Gametes</th></tr>
+<tr><td>Meiosis I</td><td>4 abnormal (2 +1, 2 −1)</td></tr>
+<tr><td>Meiosis II</td><td>2 abnormal + 2 normal</td></tr>
+</table></div>
+
+<div class="fact" id="sec-86"><span class="fact-num">§86</span><span class="fact-key">Five mutation types impact-ranking:</span>
+silent &lt; missense &lt; in-frame indel &lt; nonsense &lt; <b>frameshift</b> (worst).</div>
+
+<div class="fact" id="sec-87"><span class="fact-num">§87</span><span class="fact-key">DNA → mRNA quick rules:</span>
+<ul>
+<li>Read template 3'→5'</li>
+<li>Substitute base: A↔U, T→A, G↔C</li>
+<li>Write mRNA 5'→3'</li>
+</ul></div>
+
+<div class="fact" id="sec-88"><span class="fact-num">§88</span><span class="fact-key">mRNA → protein quick rules:</span>
+<ul>
+<li>Read mRNA 5'→3' starting at AUG</li>
+<li>Group into codons (3 nt each)</li>
+<li>Use codon chart → amino acid</li>
+<li>Stop at first UAA/UAG/UGA</li>
+</ul></div>
+
+<div class="fact" id="sec-89"><span class="fact-num">§89</span><span class="fact-key">Inheritance pattern decision tree:</span>
+<ul>
+<li>Hetero shows blend? → incomplete dominance <a href="#sec-19" class="xref">§19</a></li>
+<li>Both alleles fully expressed? → codominance <a href="#sec-20" class="xref">§20</a></li>
+<li>More males affected? → X-linked recessive <a href="#sec-22" class="xref">§22</a></li>
+<li>Continuous variation? → polygenic <a href="#sec-25" class="xref">§25</a></li>
+<li>One gene, many effects? → pleiotropy <a href="#sec-25" class="xref">§25</a></li>
+</ul></div>
+
+<div class="fact" id="sec-90"><span class="fact-num">§90</span><span class="fact-key">Don't confuse:</span>
+<ul>
+<li><b>Polygenic ≠ pleiotropy</b> — see <a href="#sec-25" class="xref">§25</a></li>
+<li><b>Codominance ≠ incomplete dom.</b> — blended vs both-expressed</li>
+<li><b>Sister chromatids ≠ homologues</b> — see <a href="#sec-79" class="xref">§79</a></li>
+<li><b>Anaphase I ≠ Anaphase II</b> — see <a href="#sec-8" class="xref">§8</a></li>
+<li><b>Introns ≠ exons</b> — Ex stay, In go <a href="#sec-51" class="xref">§51</a></li>
+</ul></div>
+
+<div class="fact" id="sec-91"><span class="fact-num">§91</span><span class="fact-key">Key numbers to know:</span>
+<ul>
+<li>Human chromosomes: 2n = 46 (23 pairs)</li>
+<li>Human gametes: n = 23</li>
+<li>Codons: 64 (61 amino + 3 stop)</li>
+<li>Amino acids: 20</li>
+<li>STRs in CODIS: 13 → 1 in 10¹²</li>
+<li>Genes in human genome: ~19,949 (~2%)</li>
+<li>Genome size: ~3 × 10⁹ bases</li>
+</ul></div>
+
+<div class="fact" id="sec-92"><span class="fact-num">§92</span><span class="fact-key">Hot terms to nail:</span> <b>haploid, diploid, allele, genotype, phenotype, homo/heterozygous, dominant, recessive, polygenic, pleiotropic, carrier, true breeding, P/F1/F2, monohybrid, codominance, incomplete dominance, nondisjunction, crossing over, independent assortment, telomere, telomerase, Okazaki fragment, semiconservative, antiparallel, complementary base pairing, codon, anticodon, intron, exon, mutation, mutagen, frameshift, biotechnology, PCR, STR.</b></div>
+
+<div class="callout"><b>Top mistakes to avoid on exam day:</b> ① Confusing anaphase I (homologues) with anaphase II (chromatids). ② Saying "DNA pol can start from scratch" — it can't, primase makes a primer. ③ Mixing up codominance and incomplete dominance — codominance shows BOTH at once; incomplete BLENDS. ④ Forgetting that males CAN'T be carriers for X-linked recessive. ⑤ Frameshift is worse than substitution because EVERY downstream codon shifts.</div>
+
+</div><!-- /cols-2 -->
+
+</div><!-- /page-sheet -->
+
+</div><!-- /pages -->
+
+</body>
+</html>
