@@ -90,7 +90,6 @@ def _openai_compat(
 def _anthropic(messages: list[dict], model: str, temperature: float, max_tokens: int) -> str:
     system, conv = "", []
     for m in messages:
-        (conv if m["role"] != "system" else []).append(m) if m["role"] != "system" else None
         if m["role"] == "system":
             system = m["content"]
         else:
@@ -114,7 +113,7 @@ def _claude_cli(messages: list[dict]) -> str:
     """Route through the `claude` CLI — uses Claude Code session, no API key needed."""
     prompt = "\n\n".join(f"[{m['role'].upper()}]\n{m['content']}" for m in messages)
     result = subprocess.run(
-        ["claude", "--print", "--no-markdown", "-"],
+        ["claude", "--print", "--no-markdown"],
         input=prompt, capture_output=True, text=True, timeout=120,
     )
     if result.returncode != 0:
