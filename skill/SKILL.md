@@ -36,6 +36,62 @@ The reference Bio Study Tutor produces ~250 wiki pages, ~1,200 typed edges, 30 h
 
 ---
 
+## Using the llm-wiki and knowledge-graph patterns
+
+The two most labor-intensive artifacts — the wiki and the knowledge graph — each have an established pattern. Use them to structure your work in Phases 1 and 4.
+
+### The LLM-Wiki pattern (for Phase 4 — wiki authoring)
+
+The LLM-Wiki pattern (from [Andrej Karpathy's gist](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)) is the authoring model this skill uses. The key principles:
+
+1. **One Markdown file per concept.** Every page has YAML frontmatter (`id`, `type`, `slug`, `title`, `aliases`, `tags`, `status`, `chapters`, `exam_topics`). The LLM reads and writes these files incrementally — it never tries to generate everything at once.
+2. **`[[wikilinks]]` are the connective tissue.** Every page that mentions a concept with its own page should link to it with `[[slug]]` syntax. The KG builder infers edges from these links.
+3. **Section headings drive edge types.** The heading under which a `[[wikilink]]` appears tells the KG builder what *kind* of relationship it is (see `SECTION_TO_RELATION` in `tools/build_kg.py`). For example, a link under `## Steps` becomes a `part_of` edge; under `## Produces` becomes a `produces` edge.
+4. **Author incrementally, validate continuously.** After every batch of pages, run `python3 tools/build_kg.py && python3 tools/validate.py`. Fix broken wikilinks before adding more pages.
+5. **Coverage, not perfection.** The goal is one page per concept in the source material — not flawless prose. A page with a two-sentence summary and three wikilinks is better than no page at all.
+
+To create the wiki folder structure for a new subject:
+```bash
+mkdir -p wiki/{chapters,exam-topics,concepts,processes,structures,<your-types>}
+touch wiki/index.md wiki/log.md
+```
+
+Then author pages following `reference/wiki-authoring.md`.
+
+### The Knowledge Graph pattern (for Phase 4 — KG build)
+
+The knowledge graph is **derived from the wiki** — you never hand-edit `kg/`. The build pipeline:
+
+```bash
+# Build the graph from wiki/
+python3 tools/build_kg.py
+
+# Validate all edge endpoints resolve and frontmatter is well-formed
+python3 tools/validate.py
+
+# Regenerate wiki/index.md from the graph
+python3 tools/render_index.py
+```
+
+The KG builder (`tools/build_kg.py`) does three things:
+1. Parses every wiki page's frontmatter → creates a node in `kg/nodes/<type>/<slug>.json`
+2. Scans every `[[wikilink]]` and the section it appears in → creates a typed edge in `kg/edges.jsonl`
+3. Builds lookup indexes: `kg/indexes/by-chapter.json`, `by-type.json`, `alias-map.json`, `coverage.json`, `orphans.json`
+
+**Coverage check** — run this after each authoring session:
+```bash
+python3 -c "import json; c=json.load(open('kg/indexes/coverage.json')); print('Uncovered exam topics:', c.get('uncovered_exam_topics', []))"
+```
+
+**Orphan check** — pages no other page links to (signals a coverage gap):
+```bash
+python3 -c "import json; print('Orphans:', json.load(open('kg/indexes/orphans.json')))"
+```
+
+The app reads the KG at startup (via `app/kg_loader.py`) to populate the Study Guide tab, scope quiz/flashcard generation to the right chapters, and power the knowledge graph visualization.
+
+---
+
 ## Procedure
 
 Follow these phases in order. Each phase has a **Goal**, **Action**, and **Verify** step. Don't skip the verifications — they catch the silent failures that kill the final result.
@@ -50,11 +106,17 @@ Follow these phases in order. Each phase has a **Goal**, **Action**, and **Verif
    - **Source location** — absolute path to the folder of documents
    - **Project name (slug)** — kebab-case, e.g. `bio-1320-exam-3`. This becomes the directory name and the shinyapps.io app name.
    - **Deployment target** — local only / shinyapps.io / both
-   - **OpenRouter API key available?** — required for the chat tutor and on-demand game generation. The user may have one in `~/.claude/CLAUDE.md` or a `.env` file.
+   - **LLM backend** — how should the chat tutor and game generator call an LLM? Choose one:
+     - **LM Studio** (local, free, private) — set `LMSTUDIO_URL=http://localhost:1234/v1` in `.env`. Start LM Studio, load any model, enable the local server.
+     - **Ollama** (local, free, private) — set `OLLAMA_URL=http://localhost:11434/v1` and `OLLAMA_MODEL=gemma4:26b` (or `gemma4:9b` for 16 GB RAM).
+     - **Claude via Anthropic API** — set `ANTHROPIC_API_KEY=sk-ant-...` in `.env`. Set `LLM_MODEL=claude-sonnet-4-6` or any Claude model id.
+     - **Claude Code CLI** (no API key) — set `CLAUDE_CODE_CLI=1`. Uses the current Claude Code session. Requires `claude` CLI installed and authenticated.
+     - **OpenRouter** (hosted, many models) — set `OPENROUTER_API_KEY=sk-or-v1-...`. Free tier available at https://openrouter.ai/keys. Default model: `google/gemma-4-26b-a4b-it`.
+   - Confirm which `.env` key(s) the user has available.
 
 2. List the source folder. Identify file types (PPTX, DOCX, PDF, MD, etc.). Flag any unsupported formats.
 
-**Verify:** you have a clear scope, a source folder with at least one supported file, and the user has confirmed the project slug.
+**Verify:** you have a clear scope, a source folder with at least one supported file, the user has confirmed the project slug, and the LLM backend is known.
 
 ### Phase 1 — Schema design
 
@@ -96,7 +158,18 @@ The `templates/` directory of this skill contains the reference Bio Study Tutor 
    - `app/prebuild.py`
    - `.python-version`, `.rscignore`, `.gitignore`, `.env.example`
 
-3. Copy these template files **with subject-specific edits**:
+3. Create the `.env` file based on the backend the user confirmed in Phase 0:
+   ```bash
+   cp .env.example .env
+   # then edit .env — uncomment ONE backend block and fill in credentials
+   ```
+   Test the backend immediately:
+   ```bash
+   python3 -c "from app.llm import chat; print(chat([{'role':'user','content':'say hello'}]))"
+   ```
+   If that succeeds, the LLM backend is wired. If it fails, fix `.env` before continuing.
+
+4. Copy these template files **with subject-specific edits**:
    - `tools/build_kg.py` — update `NODE_TYPES`, `EDGE_RELATIONS`, and the `SECTION_TO_RELATION` mapping for the chosen schema
    - `app/app.py` — update the `CHAPTER_TITLES`, type colors in `TYPE_COLORS`, navbar title (logo path + subject name), starter-content paths
    - `tools/build_print_version.py` — update `TYPE_ORDER`, `CHAPTER_LABELS`
