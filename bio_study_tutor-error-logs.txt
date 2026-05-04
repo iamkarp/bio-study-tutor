@@ -1,0 +1,437 @@
+2026-04-29T22:39:11.566149+00:00 shinyapps[17261035]: Container event from container-13656693: start
+2026-04-29T22:39:13.566020+00:00 shinyapps[17261035]: Running on host: 1749a5dd1b5b
+2026-04-29T22:39:13.571746+00:00 shinyapps[17261035]: Process ID: 27
+2026-04-29T22:39:13.577229+00:00 shinyapps[17261035]: Running as user: uid=10001(shiny) gid=10001(shiny) groups=10001(shiny)
+2026-04-29T22:39:13.582792+00:00 shinyapps[17261035]: Connect version: 2026.01.1
+2026-04-29T22:39:13.588369+00:00 shinyapps[17261035]: LANG: C.UTF-8
+2026-04-29T22:39:13.593520+00:00 shinyapps[17261035]: Working directory: /srv/connect/apps/bio_study_tutor
+2026-04-29T22:39:13.598711+00:00 shinyapps[17261035]: Bootstrapping environment using Python 3.11.4 (main, May  7 2024, 12:37:37) [GCC 11.4.0] at /srv/connect/venv/bin/python
+2026-04-29T22:39:13.603836+00:00 shinyapps[17261035]: Running content using the current Python environment
+2026-04-29T22:39:13.609063+00:00 shinyapps[17261035]: Running content using Python "3.11.4 (main, May  7 2024, 12:37:37) [GCC 11.4.0]" at "/srv/connect/venv/bin/python"
+2026-04-29T22:39:13.614476+00:00 shinyapps[17261035]: Loading code from "app"
+2026-04-29T22:39:13.619874+00:00 shinyapps[17261035]: Error while loading Python API: Failed to find an application object (('app', 'application', 'demo')) or factory function (('create_app', 'make_app')) in module 'app'. You can specify a different entrypoint in the manifest.json file or on the rsconnect-python command line.
+2026-04-29T22:39:15.565940+00:00 shinyapps[17261035]: Running on host: 1749a5dd1b5b
+2026-04-29T22:39:15.571498+00:00 shinyapps[17261035]: Process ID: 29
+2026-04-29T22:39:15.576725+00:00 shinyapps[17261035]: Running as user: uid=10001(shiny) gid=10001(shiny) groups=10001(shiny)
+2026-04-29T22:39:15.581846+00:00 shinyapps[17261035]: Connect version: 2026.01.1
+2026-04-29T22:39:15.586973+00:00 shinyapps[17261035]: LANG: C.UTF-8
+2026-04-29T22:39:15.592192+00:00 shinyapps[17261035]: Working directory: /srv/connect/apps/bio_study_tutor
+2026-04-29T22:39:15.597601+00:00 shinyapps[17261035]: Bootstrapping environment using Python 3.11.4 (main, May  7 2024, 12:37:37) [GCC 11.4.0] at /srv/connect/venv/bin/python
+2026-04-29T22:39:15.602676+00:00 shinyapps[17261035]: Running content using the current Python environment
+2026-04-29T22:39:16.565689+00:00 shinyapps[17261035]: Running content using Python "3.11.4 (main, May  7 2024, 12:37:37) [GCC 11.4.0]" at "/srv/connect/venv/bin/python"
+2026-04-29T22:39:16.571357+00:00 shinyapps[17261035]: Loading code from "app"
+2026-04-29T22:39:16.576934+00:00 shinyapps[17261035]: Error while loading Python API: Failed to find an application object (('app', 'application', 'demo')) or factory function (('create_app', 'make_app')) in module 'app'. You can specify a different entrypoint in the manifest.json file or on the rsconnect-python command line.
+2026-04-29T22:41:13.565718+00:00 shinyapps[17261035]: Running on host: 1749a5dd1b5b
+2026-04-29T22:41:13.570970+00:00 shinyapps[17261035]: Process ID: 65
+2026-04-29T22:41:13.576270+00:00 shinyapps[17261035]: Running as user: uid=10001(shiny) gid=10001(shiny) groups=10001(shiny)
+2026-04-29T22:41:13.581280+00:00 shinyapps[17261035]: Connect version: 2026.01.1
+2026-04-29T22:41:13.586738+00:00 shinyapps[17261035]: LANG: C.UTF-8
+2026-04-29T22:41:13.591813+00:00 shinyapps[17261035]: Working directory: /srv/connect/apps/bio_study_tutor
+2026-04-29T22:41:13.597076+00:00 shinyapps[17261035]: Bootstrapping environment using Python 3.11.4 (main, May  7 2024, 12:37:37) [GCC 11.4.0] at /srv/connect/venv/bin/python
+2026-04-29T22:41:13.602364+00:00 shinyapps[17261035]: Running content using the current Python environment
+2026-04-29T22:41:14.565292+00:00 shinyapps[17261035]: Running content using Python "3.11.4 (main, May  7 2024, 12:37:37) [GCC 11.4.0]" at "/srv/connect/venv/bin/python"
+2026-04-29T22:41:14.591135+00:00 shinyapps[17261035]: Loading code from "app"
+2026-04-29T22:41:14.597569+00:00 shinyapps[17261035]: Error while loading Python API: Failed to find an application object (('app', 'application', 'demo')) or factory function (('create_app', 'make_app')) in module 'app'. You can specify a different entrypoint in the manifest.json file or on the rsconnect-python command line.
+2026-04-29T22:45:12.732173+00:00 shinyapps[17261035]: Container event from container-13656717: start
+2026-04-29T22:45:14.733254+00:00 shinyapps[17261035]: Running on host: e07709aaf87d
+2026-04-29T22:45:14.738072+00:00 shinyapps[17261035]: Process ID: 27
+2026-04-29T22:45:14.742722+00:00 shinyapps[17261035]: Running as user: uid=10001(shiny) gid=10001(shiny) groups=10001(shiny)
+2026-04-29T22:45:14.747217+00:00 shinyapps[17261035]: Connect version: 2026.01.1
+2026-04-29T22:45:14.751339+00:00 shinyapps[17261035]: LANG: C.UTF-8
+2026-04-29T22:45:14.755607+00:00 shinyapps[17261035]: Working directory: /srv/connect/apps/bio_study_tutor
+2026-04-29T22:45:14.761509+00:00 shinyapps[17261035]: Bootstrapping environment using Python 3.11.4 (main, May  7 2024, 12:37:37) [GCC 11.4.0] at /srv/connect/venv/bin/python
+2026-04-29T22:45:14.765626+00:00 shinyapps[17261035]: Running content using the current Python environment
+2026-04-29T22:45:14.769885+00:00 shinyapps[17261035]: Running content using Python "3.11.4 (main, May  7 2024, 12:37:37) [GCC 11.4.0]" at "/srv/connect/venv/bin/python"
+2026-04-29T22:45:14.774045+00:00 shinyapps[17261035]: Loading code from "app"
+2026-04-29T22:45:15.731031+00:00 shinyapps[17261035]: App type is "App"
+2026-04-29T22:45:15.735510+00:00 shinyapps[17261035]: Using Shiny bookmarking base directory 
+2026-04-29T22:45:15.739892+00:00 shinyapps[17261035]: Starting server on 127.0.0.1:43885...
+2026-04-29T22:45:18.947846+00:00 shinyapps[17261035]: Running on host: e07709aaf87d
+2026-04-29T22:45:18.952241+00:00 shinyapps[17261035]: Process ID: 30
+2026-04-29T22:45:18.956495+00:00 shinyapps[17261035]: Running as user: uid=10001(shiny) gid=10001(shiny) groups=10001(shiny)
+2026-04-29T22:45:18.960776+00:00 shinyapps[17261035]: Connect version: 2026.01.1
+2026-04-29T22:45:18.965089+00:00 shinyapps[17261035]: LANG: C.UTF-8
+2026-04-29T22:45:18.969630+00:00 shinyapps[17261035]: Working directory: /srv/connect/apps/bio_study_tutor
+2026-04-29T22:45:18.975971+00:00 shinyapps[17261035]: Bootstrapping environment using Python 3.11.4 (main, May  7 2024, 12:37:37) [GCC 11.4.0] at /srv/connect/venv/bin/python
+2026-04-29T22:45:18.980660+00:00 shinyapps[17261035]: Running content using the current Python environment
+2026-04-29T22:45:20.022444+00:00 shinyapps[17261035]: Running content using Python "3.11.4 (main, May  7 2024, 12:37:37) [GCC 11.4.0]" at "/srv/connect/venv/bin/python"
+2026-04-29T22:45:20.029315+00:00 shinyapps[17261035]: Loading code from "app"
+2026-04-29T22:45:20.783095+00:00 shinyapps[17261035]: App type is "App"
+2026-04-29T22:45:20.788309+00:00 shinyapps[17261035]: Using Shiny bookmarking base directory 
+2026-04-29T22:45:20.792560+00:00 shinyapps[17261035]: Starting server on 127.0.0.1:40571...
+2026-04-29T22:45:36.731948+00:00 shinyapps[17261035]: Running on host: e07709aaf87d
+2026-04-29T22:45:36.736734+00:00 shinyapps[17261035]: Process ID: 48
+2026-04-29T22:45:36.741135+00:00 shinyapps[17261035]: Running as user: uid=10001(shiny) gid=10001(shiny) groups=10001(shiny)
+2026-04-29T22:45:36.745336+00:00 shinyapps[17261035]: Connect version: 2026.01.1
+2026-04-29T22:45:36.749545+00:00 shinyapps[17261035]: LANG: C.UTF-8
+2026-04-29T22:45:36.753493+00:00 shinyapps[17261035]: Working directory: /srv/connect/apps/bio_study_tutor
+2026-04-29T22:45:36.757702+00:00 shinyapps[17261035]: Bootstrapping environment using Python 3.11.4 (main, May  7 2024, 12:37:37) [GCC 11.4.0] at /srv/connect/venv/bin/python
+2026-04-29T22:45:36.761824+00:00 shinyapps[17261035]: Running content using the current Python environment
+2026-04-29T22:45:37.730997+00:00 shinyapps[17261035]: Running content using Python "3.11.4 (main, May  7 2024, 12:37:37) [GCC 11.4.0]" at "/srv/connect/venv/bin/python"
+2026-04-29T22:45:37.735565+00:00 shinyapps[17261035]: Loading code from "app"
+2026-04-29T22:45:38.751887+00:00 shinyapps[17261035]: App type is "App"
+2026-04-29T22:45:38.756184+00:00 shinyapps[17261035]: Using Shiny bookmarking base directory 
+2026-04-29T22:45:38.760273+00:00 shinyapps[17261035]: Starting server on 127.0.0.1:38853...
+2026-04-29T22:46:32.732070+00:00 shinyapps[17261035]: /srv/connect/apps/bio_study_tutor/app/app.py:597: ShinyDeprecationWarning: `shiny.ui.update_navs()` has been superseded by `shiny.ui.update_navset()` and will be removed in the near future.
+2026-04-29T22:46:32.736665+00:00 shinyapps[17261035]:   ui.update_navs("navbar", selected="Study Guide")
+2026-04-29T22:46:42.731791+00:00 shinyapps[17261035]: /srv/connect/apps/bio_study_tutor/app/app.py:597: ShinyDeprecationWarning: `shiny.ui.update_navs()` has been superseded by `shiny.ui.update_navset()` and will be removed in the near future.
+2026-04-29T22:46:42.736363+00:00 shinyapps[17261035]:   ui.update_navs("navbar", selected="Study Guide")
+2026-04-29T22:52:07.172860+00:00 shinyapps[17261035]: Container event from container-13656737: start
+2026-04-29T22:52:12.174310+00:00 shinyapps[17261035]: Running on host: 7852ab3e15e9
+2026-04-29T22:52:12.178073+00:00 shinyapps[17261035]: Process ID: 27
+2026-04-29T22:52:12.181502+00:00 shinyapps[17261035]: Running as user: uid=10001(shiny) gid=10001(shiny) groups=10001(shiny)
+2026-04-29T22:52:12.185394+00:00 shinyapps[17261035]: Connect version: 2026.01.1
+2026-04-29T22:52:12.189104+00:00 shinyapps[17261035]: LANG: C.UTF-8
+2026-04-29T22:52:12.193040+00:00 shinyapps[17261035]: Working directory: /srv/connect/apps/bio_study_tutor
+2026-04-29T22:52:12.197070+00:00 shinyapps[17261035]: Bootstrapping environment using Python 3.11.4 (main, May  7 2024, 12:37:37) [GCC 11.4.0] at /srv/connect/venv/bin/python
+2026-04-29T22:52:12.200457+00:00 shinyapps[17261035]: Running content using the current Python environment
+2026-04-29T22:52:12.204106+00:00 shinyapps[17261035]: Running content using Python "3.11.4 (main, May  7 2024, 12:37:37) [GCC 11.4.0]" at "/srv/connect/venv/bin/python"
+2026-04-29T22:52:12.207793+00:00 shinyapps[17261035]: Loading code from "app"
+2026-04-29T22:52:12.211322+00:00 shinyapps[17261035]: App type is "App"
+2026-04-29T22:52:12.214881+00:00 shinyapps[17261035]: Using Shiny bookmarking base directory 
+2026-04-29T22:52:12.218450+00:00 shinyapps[17261035]: Starting server on 127.0.0.1:33963...
+2026-04-29T22:52:14.173208+00:00 shinyapps[17261035]: Running on host: 7852ab3e15e9
+2026-04-29T22:52:14.177171+00:00 shinyapps[17261035]: Process ID: 29
+2026-04-29T22:52:14.180815+00:00 shinyapps[17261035]: Running as user: uid=10001(shiny) gid=10001(shiny) groups=10001(shiny)
+2026-04-29T22:52:14.184671+00:00 shinyapps[17261035]: Connect version: 2026.01.1
+2026-04-29T22:52:14.188400+00:00 shinyapps[17261035]: LANG: C.UTF-8
+2026-04-29T22:52:14.192364+00:00 shinyapps[17261035]: Working directory: /srv/connect/apps/bio_study_tutor
+2026-04-29T22:52:14.196379+00:00 shinyapps[17261035]: Bootstrapping environment using Python 3.11.4 (main, May  7 2024, 12:37:37) [GCC 11.4.0] at /srv/connect/venv/bin/python
+2026-04-29T22:52:14.200291+00:00 shinyapps[17261035]: Running content using the current Python environment
+2026-04-29T22:52:14.204109+00:00 shinyapps[17261035]: Running content using Python "3.11.4 (main, May  7 2024, 12:37:37) [GCC 11.4.0]" at "/srv/connect/venv/bin/python"
+2026-04-29T22:52:14.208117+00:00 shinyapps[17261035]: Loading code from "app"
+2026-04-29T22:52:16.187575+00:00 shinyapps[17261035]: App type is "App"
+2026-04-29T22:52:16.191574+00:00 shinyapps[17261035]: Using Shiny bookmarking base directory 
+2026-04-29T22:52:16.195176+00:00 shinyapps[17261035]: Starting server on 127.0.0.1:45265...
+2026-04-29T22:52:32.193576+00:00 shinyapps[17261035]: Running on host: 7852ab3e15e9
+2026-04-29T22:52:32.197189+00:00 shinyapps[17261035]: Process ID: 48
+2026-04-29T22:52:32.200836+00:00 shinyapps[17261035]: Running as user: uid=10001(shiny) gid=10001(shiny) groups=10001(shiny)
+2026-04-29T22:52:32.204416+00:00 shinyapps[17261035]: Connect version: 2026.01.1
+2026-04-29T22:52:32.207723+00:00 shinyapps[17261035]: LANG: C.UTF-8
+2026-04-29T22:52:32.211319+00:00 shinyapps[17261035]: Working directory: /srv/connect/apps/bio_study_tutor
+2026-04-29T22:52:32.214834+00:00 shinyapps[17261035]: Bootstrapping environment using Python 3.11.4 (main, May  7 2024, 12:37:37) [GCC 11.4.0] at /srv/connect/venv/bin/python
+2026-04-29T22:52:32.218334+00:00 shinyapps[17261035]: Running content using the current Python environment
+2026-04-29T22:52:33.173218+00:00 shinyapps[17261035]: Running on host: 7852ab3e15e9
+2026-04-29T22:52:33.176968+00:00 shinyapps[17261035]: Process ID: 50
+2026-04-29T22:52:33.180651+00:00 shinyapps[17261035]: Running as user: uid=10001(shiny) gid=10001(shiny) groups=10001(shiny)
+2026-04-29T22:52:33.184239+00:00 shinyapps[17261035]: Connect version: 2026.01.1
+2026-04-29T22:52:33.188065+00:00 shinyapps[17261035]: LANG: C.UTF-8
+2026-04-29T22:52:33.191567+00:00 shinyapps[17261035]: Working directory: /srv/connect/apps/bio_study_tutor
+2026-04-29T22:52:33.195246+00:00 shinyapps[17261035]: Bootstrapping environment using Python 3.11.4 (main, May  7 2024, 12:37:37) [GCC 11.4.0] at /srv/connect/venv/bin/python
+2026-04-29T22:52:33.199305+00:00 shinyapps[17261035]: Running content using the current Python environment
+2026-04-29T22:52:33.203419+00:00 shinyapps[17261035]: Running content using Python "3.11.4 (main, May  7 2024, 12:37:37) [GCC 11.4.0]" at "/srv/connect/venv/bin/python"
+2026-04-29T22:52:33.206839+00:00 shinyapps[17261035]: Loading code from "app"
+2026-04-29T22:52:34.175106+00:00 shinyapps[17261035]: Running content using Python "3.11.4 (main, May  7 2024, 12:37:37) [GCC 11.4.0]" at "/srv/connect/venv/bin/python"
+2026-04-29T22:52:34.179088+00:00 shinyapps[17261035]: Loading code from "app"
+2026-04-29T22:52:35.172521+00:00 shinyapps[17261035]: App type is "App"
+2026-04-29T22:52:35.176496+00:00 shinyapps[17261035]: Using Shiny bookmarking base directory 
+2026-04-29T22:52:35.180377+00:00 shinyapps[17261035]: Starting server on 127.0.0.1:46701...
+2026-04-29T22:52:36.184291+00:00 shinyapps[17261035]: App type is "App"
+2026-04-29T22:52:36.188275+00:00 shinyapps[17261035]: Using Shiny bookmarking base directory 
+2026-04-29T22:52:36.192210+00:00 shinyapps[17261035]: Starting server on 127.0.0.1:41443...
+2026-04-29T22:56:21.867552+00:00 shinyapps[17261035]: Container event from container-13656746: start
+2026-04-29T22:56:22.853719+00:00 shinyapps[17261035]: Running on host: 3b9780304d10
+2026-04-29T22:56:22.859200+00:00 shinyapps[17261035]: Process ID: 27
+2026-04-29T22:56:22.864025+00:00 shinyapps[17261035]: Running as user: uid=10001(shiny) gid=10001(shiny) groups=10001(shiny)
+2026-04-29T22:56:22.869176+00:00 shinyapps[17261035]: Connect version: 2026.01.1
+2026-04-29T22:56:22.902838+00:00 shinyapps[17261035]: LANG: C.UTF-8
+2026-04-29T22:56:22.908707+00:00 shinyapps[17261035]: Working directory: /srv/connect/apps/bio_study_tutor
+2026-04-29T22:56:22.916533+00:00 shinyapps[17261035]: Bootstrapping environment using Python 3.11.4 (main, May  7 2024, 12:37:37) [GCC 11.4.0] at /srv/connect/venv/bin/python
+2026-04-29T22:56:22.928476+00:00 shinyapps[17261035]: Running content using the current Python environment
+2026-04-29T22:56:22.933669+00:00 shinyapps[17261035]: Running content using Python "3.11.4 (main, May  7 2024, 12:37:37) [GCC 11.4.0]" at "/srv/connect/venv/bin/python"
+2026-04-29T22:56:22.939545+00:00 shinyapps[17261035]: Loading code from "app"
+2026-04-29T22:56:24.853541+00:00 shinyapps[17261035]: App type is "App"
+2026-04-29T22:56:24.858575+00:00 shinyapps[17261035]: Using Shiny bookmarking base directory 
+2026-04-29T22:56:24.863393+00:00 shinyapps[17261035]: Starting server on 127.0.0.1:38571...
+2026-04-29T22:57:32.854215+00:00 shinyapps[17261035]: Running on host: 3b9780304d10
+2026-04-29T22:57:32.858874+00:00 shinyapps[17261035]: Process ID: 65
+2026-04-29T22:57:32.868124+00:00 shinyapps[17261035]: Running as user: uid=10001(shiny) gid=10001(shiny) groups=10001(shiny)
+2026-04-29T22:57:32.874070+00:00 shinyapps[17261035]: Connect version: 2026.01.1
+2026-04-29T22:57:32.878885+00:00 shinyapps[17261035]: LANG: C.UTF-8
+2026-04-29T22:57:32.883975+00:00 shinyapps[17261035]: Working directory: /srv/connect/apps/bio_study_tutor
+2026-04-29T22:57:32.889064+00:00 shinyapps[17261035]: Bootstrapping environment using Python 3.11.4 (main, May  7 2024, 12:37:37) [GCC 11.4.0] at /srv/connect/venv/bin/python
+2026-04-29T22:57:32.893767+00:00 shinyapps[17261035]: Running content using the current Python environment
+2026-04-29T22:57:33.855626+00:00 shinyapps[17261035]: Running content using Python "3.11.4 (main, May  7 2024, 12:37:37) [GCC 11.4.0]" at "/srv/connect/venv/bin/python"
+2026-04-29T22:57:33.860464+00:00 shinyapps[17261035]: Loading code from "app"
+2026-04-29T22:57:34.854338+00:00 shinyapps[17261035]: App type is "App"
+2026-04-29T22:57:34.859445+00:00 shinyapps[17261035]: Using Shiny bookmarking base directory 
+2026-04-29T22:57:34.864189+00:00 shinyapps[17261035]: Starting server on 127.0.0.1:41103...
+2026-04-29T23:03:13.799450+00:00 shinyapps[17261035]: Container event from container-13656771: start
+2026-04-29T23:03:17.798988+00:00 shinyapps[17261035]: Running on host: 67ea3786b9f7
+2026-04-29T23:03:17.803943+00:00 shinyapps[17261035]: Process ID: 29
+2026-04-29T23:03:17.809063+00:00 shinyapps[17261035]: Running as user: uid=10001(shiny) gid=10001(shiny) groups=10001(shiny)
+2026-04-29T23:03:17.814044+00:00 shinyapps[17261035]: Connect version: 2026.01.1
+2026-04-29T23:03:17.819582+00:00 shinyapps[17261035]: LANG: C.UTF-8
+2026-04-29T23:03:17.824716+00:00 shinyapps[17261035]: Working directory: /srv/connect/apps/bio_study_tutor
+2026-04-29T23:03:17.829548+00:00 shinyapps[17261035]: Bootstrapping environment using Python 3.11.4 (main, May  7 2024, 12:37:37) [GCC 11.4.0] at /srv/connect/venv/bin/python
+2026-04-29T23:03:17.834564+00:00 shinyapps[17261035]: Running content using the current Python environment
+2026-04-29T23:03:17.839678+00:00 shinyapps[17261035]: Running content using Python "3.11.4 (main, May  7 2024, 12:37:37) [GCC 11.4.0]" at "/srv/connect/venv/bin/python"
+2026-04-29T23:03:17.845511+00:00 shinyapps[17261035]: Loading code from "app"
+2026-04-29T23:03:17.850553+00:00 shinyapps[17261035]: App type is "App"
+2026-04-29T23:03:17.855395+00:00 shinyapps[17261035]: Using Shiny bookmarking base directory 
+2026-04-29T23:03:17.860343+00:00 shinyapps[17261035]: Starting server on 127.0.0.1:46367...
+2026-04-29T23:03:20.921527+00:00 shinyapps[17261035]: Running on host: 67ea3786b9f7
+2026-04-29T23:03:20.926487+00:00 shinyapps[17261035]: Process ID: 31
+2026-04-29T23:03:20.931963+00:00 shinyapps[17261035]: Running as user: uid=10001(shiny) gid=10001(shiny) groups=10001(shiny)
+2026-04-29T23:03:20.936740+00:00 shinyapps[17261035]: Connect version: 2026.01.1
+2026-04-29T23:03:20.941850+00:00 shinyapps[17261035]: LANG: C.UTF-8
+2026-04-29T23:03:20.946576+00:00 shinyapps[17261035]: Working directory: /srv/connect/apps/bio_study_tutor
+2026-04-29T23:03:20.951505+00:00 shinyapps[17261035]: Bootstrapping environment using Python 3.11.4 (main, May  7 2024, 12:37:37) [GCC 11.4.0] at /srv/connect/venv/bin/python
+2026-04-29T23:03:20.956615+00:00 shinyapps[17261035]: Running content using the current Python environment
+2026-04-29T23:03:20.961416+00:00 shinyapps[17261035]: Running content using Python "3.11.4 (main, May  7 2024, 12:37:37) [GCC 11.4.0]" at "/srv/connect/venv/bin/python"
+2026-04-29T23:03:20.966087+00:00 shinyapps[17261035]: Loading code from "app"
+2026-04-29T23:03:22.796997+00:00 shinyapps[17261035]: App type is "App"
+2026-04-29T23:03:22.801539+00:00 shinyapps[17261035]: Using Shiny bookmarking base directory 
+2026-04-29T23:03:22.806177+00:00 shinyapps[17261035]: Starting server on 127.0.0.1:35869...
+2026-04-29T23:21:38.796779+00:00 shinyapps[17261035]: Running on host: 67ea3786b9f7
+2026-04-29T23:21:38.803377+00:00 shinyapps[17261035]: Process ID: 305
+2026-04-29T23:21:38.808609+00:00 shinyapps[17261035]: Running as user: uid=10001(shiny) gid=10001(shiny) groups=10001(shiny)
+2026-04-29T23:21:38.813965+00:00 shinyapps[17261035]: Connect version: 2026.01.1
+2026-04-29T23:21:38.819599+00:00 shinyapps[17261035]: LANG: C.UTF-8
+2026-04-29T23:21:38.825006+00:00 shinyapps[17261035]: Working directory: /srv/connect/apps/bio_study_tutor
+2026-04-29T23:21:38.830279+00:00 shinyapps[17261035]: Bootstrapping environment using Python 3.11.4 (main, May  7 2024, 12:37:37) [GCC 11.4.0] at /srv/connect/venv/bin/python
+2026-04-29T23:21:38.835556+00:00 shinyapps[17261035]: Running content using the current Python environment
+2026-04-29T23:21:39.798550+00:00 shinyapps[17261035]: Running content using Python "3.11.4 (main, May  7 2024, 12:37:37) [GCC 11.4.0]" at "/srv/connect/venv/bin/python"
+2026-04-29T23:21:39.803839+00:00 shinyapps[17261035]: Loading code from "app"
+2026-04-29T23:21:40.804634+00:00 shinyapps[17261035]: App type is "App"
+2026-04-29T23:21:40.809670+00:00 shinyapps[17261035]: Using Shiny bookmarking base directory 
+2026-04-29T23:21:40.815805+00:00 shinyapps[17261035]: Starting server on 127.0.0.1:36597...
+2026-04-29T23:28:38.797723+00:00 shinyapps[17261035]: Running on host: 67ea3786b9f7
+2026-04-29T23:28:38.803300+00:00 shinyapps[17261035]: Process ID: 405
+2026-04-29T23:28:38.808521+00:00 shinyapps[17261035]: Running as user: uid=10001(shiny) gid=10001(shiny) groups=10001(shiny)
+2026-04-29T23:28:38.813926+00:00 shinyapps[17261035]: Connect version: 2026.01.1
+2026-04-29T23:28:38.819325+00:00 shinyapps[17261035]: LANG: C.UTF-8
+2026-04-29T23:28:38.824395+00:00 shinyapps[17261035]: Working directory: /srv/connect/apps/bio_study_tutor
+2026-04-29T23:28:38.829607+00:00 shinyapps[17261035]: Bootstrapping environment using Python 3.11.4 (main, May  7 2024, 12:37:37) [GCC 11.4.0] at /srv/connect/venv/bin/python
+2026-04-29T23:28:38.834422+00:00 shinyapps[17261035]: Running content using the current Python environment
+2026-04-29T23:28:38.839602+00:00 shinyapps[17261035]: Running content using Python "3.11.4 (main, May  7 2024, 12:37:37) [GCC 11.4.0]" at "/srv/connect/venv/bin/python"
+2026-04-29T23:28:38.845195+00:00 shinyapps[17261035]: Loading code from "app"
+2026-04-29T23:28:40.797287+00:00 shinyapps[17261035]: App type is "App"
+2026-04-29T23:28:40.802912+00:00 shinyapps[17261035]: Using Shiny bookmarking base directory 
+2026-04-29T23:28:40.808066+00:00 shinyapps[17261035]: Starting server on 127.0.0.1:38095...
+2026-04-30T12:30:49.732803+00:00 shinyapps[17261035]: Container event from container-13656771: start
+2026-04-30T12:30:54.731560+00:00 shinyapps[17261035]: Running on host: 689f117a49dd
+2026-04-30T12:30:54.735850+00:00 shinyapps[17261035]: Process ID: 27
+2026-04-30T12:30:54.740776+00:00 shinyapps[17261035]: Running as user: uid=10001(shiny) gid=10001(shiny) groups=10001(shiny)
+2026-04-30T12:30:54.744889+00:00 shinyapps[17261035]: Connect version: 2026.01.1
+2026-04-30T12:30:54.748954+00:00 shinyapps[17261035]: LANG: C.UTF-8
+2026-04-30T12:30:54.753067+00:00 shinyapps[17261035]: Working directory: /srv/connect/apps/bio_study_tutor
+2026-04-30T12:30:54.757223+00:00 shinyapps[17261035]: Bootstrapping environment using Python 3.11.4 (main, May  7 2024, 12:37:37) [GCC 11.4.0] at /srv/connect/venv/bin/python
+2026-04-30T12:30:54.761206+00:00 shinyapps[17261035]: Running content using the current Python environment
+2026-04-30T12:30:54.765447+00:00 shinyapps[17261035]: Running content using Python "3.11.4 (main, May  7 2024, 12:37:37) [GCC 11.4.0]" at "/srv/connect/venv/bin/python"
+2026-04-30T12:30:54.769597+00:00 shinyapps[17261035]: Loading code from "app"
+2026-04-30T12:30:54.773540+00:00 shinyapps[17261035]: App type is "App"
+2026-04-30T12:30:54.777542+00:00 shinyapps[17261035]: Using Shiny bookmarking base directory 
+2026-04-30T12:30:54.781718+00:00 shinyapps[17261035]: Starting server on 127.0.0.1:43327...
+2026-04-30T12:32:09.820598+00:00 shinyapps[17261035]: Container event from container-13659604: start
+2026-04-30T12:32:11.734093+00:00 shinyapps[17261035]: Running on host: 654a17a56ad9
+2026-04-30T12:32:11.738281+00:00 shinyapps[17261035]: Process ID: 27
+2026-04-30T12:32:11.742132+00:00 shinyapps[17261035]: Running as user: uid=10001(shiny) gid=10001(shiny) groups=10001(shiny)
+2026-04-30T12:32:11.746163+00:00 shinyapps[17261035]: Connect version: 2026.01.1
+2026-04-30T12:32:11.750487+00:00 shinyapps[17261035]: LANG: C.UTF-8
+2026-04-30T12:32:11.754676+00:00 shinyapps[17261035]: Working directory: /srv/connect/apps/bio_study_tutor
+2026-04-30T12:32:11.800031+00:00 shinyapps[17261035]: Bootstrapping environment using Python 3.11.4 (main, May  7 2024, 12:37:37) [GCC 11.4.0] at /srv/connect/venv/bin/python
+2026-04-30T12:32:11.804017+00:00 shinyapps[17261035]: Running content using the current Python environment
+2026-04-30T12:32:11.808306+00:00 shinyapps[17261035]: Running content using Python "3.11.4 (main, May  7 2024, 12:37:37) [GCC 11.4.0]" at "/srv/connect/venv/bin/python"
+2026-04-30T12:32:11.812590+00:00 shinyapps[17261035]: Loading code from "app"
+2026-04-30T12:32:13.734202+00:00 shinyapps[17261035]: Unexpected error while running Python API: 'HTML' object has no attribute 'get_value'
+2026-04-30T12:32:13.738302+00:00 shinyapps[17261035]: Traceback (most recent call last):
+2026-04-30T12:32:13.742352+00:00 shinyapps[17261035]:   File "/opt/connect/python/connect_fastapi_runtime.py", line 567, in <module>
+2026-04-30T12:32:13.746587+00:00 shinyapps[17261035]:     main(sys.argv)
+2026-04-30T12:32:13.750683+00:00 shinyapps[17261035]:   File "/opt/connect/python/connect_fastapi_runtime.py", line 528, in main
+2026-04-30T12:32:13.752194+00:00 shinyapps[17261035]: Container event from container-13656771: stop
+2026-04-30T12:32:13.754601+00:00 shinyapps[17261035]:     app = setup_asgi_application(
+2026-04-30T12:32:13.759544+00:00 shinyapps[17261035]:           ^^^^^^^^^^^^^^^^^^^^^^^
+2026-04-30T12:32:13.763751+00:00 shinyapps[17261035]:   File "/opt/connect/python/connect_fastapi_runtime.py", line 414, in setup_asgi_application
+2026-04-30T12:32:13.767996+00:00 shinyapps[17261035]:     user_app = import_app(entrypoint, app_mode)
+2026-04-30T12:32:13.771987+00:00 shinyapps[17261035]:                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2026-04-30T12:32:13.775782+00:00 shinyapps[17261035]:   File "/opt/connect/python/connect_common_runtime.py", line 124, in import_app
+2026-04-30T12:32:13.779531+00:00 shinyapps[17261035]:     module = import_module(module_name)
+2026-04-30T12:32:13.783541+00:00 shinyapps[17261035]:              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+2026-04-30T12:32:13.787569+00:00 shinyapps[17261035]:   File "/opt/python/3.11.4/lib/python3.11/importlib/__init__.py", line 126, in import_module
+2026-04-30T12:32:13.791371+00:00 shinyapps[17261035]:     return _bootstrap._gcd_import(name[level:], package, level)
+2026-04-30T12:32:13.795572+00:00 shinyapps[17261035]:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2026-04-30T12:32:13.799701+00:00 shinyapps[17261035]:   File "<frozen importlib._bootstrap>", line 1204, in _gcd_import
+2026-04-30T12:32:13.803647+00:00 shinyapps[17261035]:   File "<frozen importlib._bootstrap>", line 1176, in _find_and_load
+2026-04-30T12:32:13.807543+00:00 shinyapps[17261035]:   File "<frozen importlib._bootstrap>", line 1147, in _find_and_load_unlocked
+2026-04-30T12:32:13.811531+00:00 shinyapps[17261035]:   File "<frozen importlib._bootstrap>", line 690, in _load_unlocked
+2026-04-30T12:32:13.815552+00:00 shinyapps[17261035]:   File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+2026-04-30T12:32:13.819885+00:00 shinyapps[17261035]:   File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+2026-04-30T12:32:13.823994+00:00 shinyapps[17261035]:   File "/srv/connect/apps/bio_study_tutor/app/__init__.py", line 16, in <module>
+2026-04-30T12:32:13.827969+00:00 shinyapps[17261035]:     _spec.loader.exec_module(_mod)
+2026-04-30T12:32:13.831884+00:00 shinyapps[17261035]:   File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+2026-04-30T12:32:13.835974+00:00 shinyapps[17261035]:   File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+2026-04-30T12:32:13.840010+00:00 shinyapps[17261035]:   File "/srv/connect/apps/bio_study_tutor/app/app.py", line 1471, in <module>
+2026-04-30T12:32:13.843783+00:00 shinyapps[17261035]:     app = App(app_ui, server, static_assets={
+2026-04-30T12:32:13.847674+00:00 shinyapps[17261035]:           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2026-04-30T12:32:13.851452+00:00 shinyapps[17261035]:   File "/srv/connect/venv/lib/python3.11/site-packages/shiny/_app.py", line 227, in __init__
+2026-04-30T12:32:13.855465+00:00 shinyapps[17261035]:     self.ui = self._render_page(
+2026-04-30T12:32:13.859163+00:00 shinyapps[17261035]:               ^^^^^^^^^^^^^^^^^^
+2026-04-30T12:32:13.863010+00:00 shinyapps[17261035]:   File "/srv/connect/venv/lib/python3.11/site-packages/shiny/_app.py", line 490, in _render_page
+2026-04-30T12:32:13.867895+00:00 shinyapps[17261035]:     rendered = HTMLDocument(ui_res).render(lib_prefix=lib_prefix)
+2026-04-30T12:32:13.872043+00:00 shinyapps[17261035]:                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2026-04-30T12:32:13.875667+00:00 shinyapps[17261035]:   File "/srv/connect/venv/lib/python3.11/site-packages/htmltools/_core.py", line 1099, in render
+2026-04-30T12:32:13.879191+00:00 shinyapps[17261035]:     html_ = self._gen_html_tag_tree(lib_prefix, include_version=include_version)
+2026-04-30T12:32:13.883126+00:00 shinyapps[17261035]:             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2026-04-30T12:32:13.886822+00:00 shinyapps[17261035]:   File "/srv/connect/venv/lib/python3.11/site-packages/htmltools/_core.py", line 1152, in _gen_html_tag_tree
+2026-04-30T12:32:13.890403+00:00 shinyapps[17261035]:     html = html.tagify()
+2026-04-30T12:32:13.893970+00:00 shinyapps[17261035]:            ^^^^^^^^^^^^^
+2026-04-30T12:32:13.897467+00:00 shinyapps[17261035]:   File "/srv/connect/venv/lib/python3.11/site-packages/htmltools/_core.py", line 850, in tagify
+2026-04-30T12:32:13.901101+00:00 shinyapps[17261035]:     cp.children = cp.children.tagify()
+2026-04-30T12:32:13.905272+00:00 shinyapps[17261035]:                   ^^^^^^^^^^^^^^^^^^^^
+2026-04-30T12:32:13.909258+00:00 shinyapps[17261035]:   File "/srv/connect/venv/lib/python3.11/site-packages/htmltools/_core.py", line 336, in tagify
+2026-04-30T12:32:13.913062+00:00 shinyapps[17261035]:     tagified_child = child.tagify()
+2026-04-30T12:32:13.917013+00:00 shinyapps[17261035]:                      ^^^^^^^^^^^^^^
+2026-04-30T12:32:13.920768+00:00 shinyapps[17261035]:   File "/srv/connect/venv/lib/python3.11/site-packages/htmltools/_core.py", line 850, in tagify
+2026-04-30T12:32:13.924722+00:00 shinyapps[17261035]:     cp.children = cp.children.tagify()
+2026-04-30T12:32:13.928786+00:00 shinyapps[17261035]:                   ^^^^^^^^^^^^^^^^^^^^
+2026-04-30T12:32:13.932499+00:00 shinyapps[17261035]:   File "/srv/connect/venv/lib/python3.11/site-packages/htmltools/_core.py", line 336, in tagify
+2026-04-30T12:32:13.936565+00:00 shinyapps[17261035]:     tagified_child = child.tagify()
+2026-04-30T12:32:13.940356+00:00 shinyapps[17261035]:                      ^^^^^^^^^^^^^^
+2026-04-30T12:32:13.944223+00:00 shinyapps[17261035]:   File "/srv/connect/venv/lib/python3.11/site-packages/shiny/ui/_navs.py", line 413, in tagify
+2026-04-30T12:32:13.948110+00:00 shinyapps[17261035]:     nav, content = render_navset(
+2026-04-30T12:32:13.951938+00:00 shinyapps[17261035]:                    ^^^^^^^^^^^^^^
+2026-04-30T12:32:13.955817+00:00 shinyapps[17261035]:   File "/srv/connect/venv/lib/python3.11/site-packages/shiny/ui/_navs.py", line 1639, in render_navset
+2026-04-30T12:32:13.959625+00:00 shinyapps[17261035]:     selected = x.get_value()
+2026-04-30T12:32:13.963314+00:00 shinyapps[17261035]:                ^^^^^^^^^^^
+2026-04-30T12:32:13.967531+00:00 shinyapps[17261035]: AttributeError: 'HTML' object has no attribute 'get_value'
+2026-04-30T12:32:15.747048+00:00 shinyapps[17261035]: Running on host: 654a17a56ad9
+2026-04-30T12:32:15.751352+00:00 shinyapps[17261035]: Process ID: 29
+2026-04-30T12:32:15.755226+00:00 shinyapps[17261035]: Running as user: uid=10001(shiny) gid=10001(shiny) groups=10001(shiny)
+2026-04-30T12:32:15.759498+00:00 shinyapps[17261035]: Connect version: 2026.01.1
+2026-04-30T12:32:15.763513+00:00 shinyapps[17261035]: LANG: C.UTF-8
+2026-04-30T12:32:15.767880+00:00 shinyapps[17261035]: Working directory: /srv/connect/apps/bio_study_tutor
+2026-04-30T12:32:15.771976+00:00 shinyapps[17261035]: Bootstrapping environment using Python 3.11.4 (main, May  7 2024, 12:37:37) [GCC 11.4.0] at /srv/connect/venv/bin/python
+2026-04-30T12:32:15.776604+00:00 shinyapps[17261035]: Running content using the current Python environment
+2026-04-30T12:32:16.733032+00:00 shinyapps[17261035]: Running content using Python "3.11.4 (main, May  7 2024, 12:37:37) [GCC 11.4.0]" at "/srv/connect/venv/bin/python"
+2026-04-30T12:32:16.737264+00:00 shinyapps[17261035]: Loading code from "app"
+2026-04-30T12:32:17.734332+00:00 shinyapps[17261035]: Unexpected error while running Python API: 'HTML' object has no attribute 'get_value'
+2026-04-30T12:32:17.738860+00:00 shinyapps[17261035]: Traceback (most recent call last):
+2026-04-30T12:32:17.742775+00:00 shinyapps[17261035]:   File "/opt/connect/python/connect_fastapi_runtime.py", line 567, in <module>
+2026-04-30T12:32:17.746893+00:00 shinyapps[17261035]:     main(sys.argv)
+2026-04-30T12:32:17.751065+00:00 shinyapps[17261035]:   File "/opt/connect/python/connect_fastapi_runtime.py", line 528, in main
+2026-04-30T12:32:17.756242+00:00 shinyapps[17261035]:     app = setup_asgi_application(
+2026-04-30T12:32:17.760690+00:00 shinyapps[17261035]:           ^^^^^^^^^^^^^^^^^^^^^^^
+2026-04-30T12:32:17.764625+00:00 shinyapps[17261035]:   File "/opt/connect/python/connect_fastapi_runtime.py", line 414, in setup_asgi_application
+2026-04-30T12:32:17.768572+00:00 shinyapps[17261035]:     user_app = import_app(entrypoint, app_mode)
+2026-04-30T12:32:17.772920+00:00 shinyapps[17261035]:                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2026-04-30T12:32:17.777090+00:00 shinyapps[17261035]:   File "/opt/connect/python/connect_common_runtime.py", line 124, in import_app
+2026-04-30T12:32:17.780866+00:00 shinyapps[17261035]:     module = import_module(module_name)
+2026-04-30T12:32:17.785183+00:00 shinyapps[17261035]:              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+2026-04-30T12:32:17.789189+00:00 shinyapps[17261035]:   File "/opt/python/3.11.4/lib/python3.11/importlib/__init__.py", line 126, in import_module
+2026-04-30T12:32:17.793280+00:00 shinyapps[17261035]:     return _bootstrap._gcd_import(name[level:], package, level)
+2026-04-30T12:32:17.797428+00:00 shinyapps[17261035]:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2026-04-30T12:32:17.801768+00:00 shinyapps[17261035]:   File "<frozen importlib._bootstrap>", line 1204, in _gcd_import
+2026-04-30T12:32:17.806082+00:00 shinyapps[17261035]:   File "<frozen importlib._bootstrap>", line 1176, in _find_and_load
+2026-04-30T12:32:17.809989+00:00 shinyapps[17261035]:   File "<frozen importlib._bootstrap>", line 1147, in _find_and_load_unlocked
+2026-04-30T12:32:17.814688+00:00 shinyapps[17261035]:   File "<frozen importlib._bootstrap>", line 690, in _load_unlocked
+2026-04-30T12:32:17.818914+00:00 shinyapps[17261035]:   File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+2026-04-30T12:32:17.823121+00:00 shinyapps[17261035]:   File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+2026-04-30T12:32:17.826790+00:00 shinyapps[17261035]:   File "/srv/connect/apps/bio_study_tutor/app/__init__.py", line 16, in <module>
+2026-04-30T12:32:17.830487+00:00 shinyapps[17261035]:     _spec.loader.exec_module(_mod)
+2026-04-30T12:32:17.834618+00:00 shinyapps[17261035]:   File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+2026-04-30T12:32:17.838749+00:00 shinyapps[17261035]:   File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+2026-04-30T12:32:17.842584+00:00 shinyapps[17261035]:   File "/srv/connect/apps/bio_study_tutor/app/app.py", line 1471, in <module>
+2026-04-30T12:32:17.846687+00:00 shinyapps[17261035]:     app = App(app_ui, server, static_assets={
+2026-04-30T12:32:17.850661+00:00 shinyapps[17261035]:           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2026-04-30T12:32:17.854611+00:00 shinyapps[17261035]:   File "/srv/connect/venv/lib/python3.11/site-packages/shiny/_app.py", line 227, in __init__
+2026-04-30T12:32:17.858943+00:00 shinyapps[17261035]:     self.ui = self._render_page(
+2026-04-30T12:32:17.863218+00:00 shinyapps[17261035]:               ^^^^^^^^^^^^^^^^^^
+2026-04-30T12:32:17.867008+00:00 shinyapps[17261035]:   File "/srv/connect/venv/lib/python3.11/site-packages/shiny/_app.py", line 490, in _render_page
+2026-04-30T12:32:17.870915+00:00 shinyapps[17261035]:     rendered = HTMLDocument(ui_res).render(lib_prefix=lib_prefix)
+2026-04-30T12:32:17.875130+00:00 shinyapps[17261035]:                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2026-04-30T12:32:17.879190+00:00 shinyapps[17261035]:   File "/srv/connect/venv/lib/python3.11/site-packages/htmltools/_core.py", line 1099, in render
+2026-04-30T12:32:17.883340+00:00 shinyapps[17261035]:     html_ = self._gen_html_tag_tree(lib_prefix, include_version=include_version)
+2026-04-30T12:32:17.887168+00:00 shinyapps[17261035]:             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2026-04-30T12:32:17.890905+00:00 shinyapps[17261035]:   File "/srv/connect/venv/lib/python3.11/site-packages/htmltools/_core.py", line 1152, in _gen_html_tag_tree
+2026-04-30T12:32:17.894603+00:00 shinyapps[17261035]:     html = html.tagify()
+2026-04-30T12:32:17.898666+00:00 shinyapps[17261035]:            ^^^^^^^^^^^^^
+2026-04-30T12:32:17.902554+00:00 shinyapps[17261035]:   File "/srv/connect/venv/lib/python3.11/site-packages/htmltools/_core.py", line 850, in tagify
+2026-04-30T12:32:17.906534+00:00 shinyapps[17261035]:     cp.children = cp.children.tagify()
+2026-04-30T12:32:17.910496+00:00 shinyapps[17261035]:                   ^^^^^^^^^^^^^^^^^^^^
+2026-04-30T12:32:17.914719+00:00 shinyapps[17261035]:   File "/srv/connect/venv/lib/python3.11/site-packages/htmltools/_core.py", line 336, in tagify
+2026-04-30T12:32:17.918578+00:00 shinyapps[17261035]:     tagified_child = child.tagify()
+2026-04-30T12:32:17.922480+00:00 shinyapps[17261035]:                      ^^^^^^^^^^^^^^
+2026-04-30T12:32:17.926330+00:00 shinyapps[17261035]:   File "/srv/connect/venv/lib/python3.11/site-packages/htmltools/_core.py", line 850, in tagify
+2026-04-30T12:32:17.930284+00:00 shinyapps[17261035]:     cp.children = cp.children.tagify()
+2026-04-30T12:32:17.934183+00:00 shinyapps[17261035]:                   ^^^^^^^^^^^^^^^^^^^^
+2026-04-30T12:32:17.937929+00:00 shinyapps[17261035]:   File "/srv/connect/venv/lib/python3.11/site-packages/htmltools/_core.py", line 336, in tagify
+2026-04-30T12:32:17.942329+00:00 shinyapps[17261035]:     tagified_child = child.tagify()
+2026-04-30T12:32:17.946701+00:00 shinyapps[17261035]:                      ^^^^^^^^^^^^^^
+2026-04-30T12:32:17.951362+00:00 shinyapps[17261035]:   File "/srv/connect/venv/lib/python3.11/site-packages/shiny/ui/_navs.py", line 413, in tagify
+2026-04-30T12:32:17.955122+00:00 shinyapps[17261035]:     nav, content = render_navset(
+2026-04-30T12:32:17.958966+00:00 shinyapps[17261035]:                    ^^^^^^^^^^^^^^
+2026-04-30T12:32:17.962965+00:00 shinyapps[17261035]:   File "/srv/connect/venv/lib/python3.11/site-packages/shiny/ui/_navs.py", line 1639, in render_navset
+2026-04-30T12:32:17.967206+00:00 shinyapps[17261035]:     selected = x.get_value()
+2026-04-30T12:32:17.971358+00:00 shinyapps[17261035]:                ^^^^^^^^^^^
+2026-04-30T12:32:17.975155+00:00 shinyapps[17261035]: AttributeError: 'HTML' object has no attribute 'get_value'
+2026-04-30T12:32:32.757033+00:00 shinyapps[17261035]: Running on host: 654a17a56ad9
+2026-04-30T12:32:32.761730+00:00 shinyapps[17261035]: Process ID: 31
+2026-04-30T12:32:32.766733+00:00 shinyapps[17261035]: Running as user: uid=10001(shiny) gid=10001(shiny) groups=10001(shiny)
+2026-04-30T12:32:32.770613+00:00 shinyapps[17261035]: Connect version: 2026.01.1
+2026-04-30T12:32:32.774651+00:00 shinyapps[17261035]: LANG: C.UTF-8
+2026-04-30T12:32:32.779110+00:00 shinyapps[17261035]: Working directory: /srv/connect/apps/bio_study_tutor
+2026-04-30T12:32:32.783259+00:00 shinyapps[17261035]: Bootstrapping environment using Python 3.11.4 (main, May  7 2024, 12:37:37) [GCC 11.4.0] at /srv/connect/venv/bin/python
+2026-04-30T12:32:32.788211+00:00 shinyapps[17261035]: Running content using the current Python environment
+2026-04-30T12:32:33.734126+00:00 shinyapps[17261035]: Running content using Python "3.11.4 (main, May  7 2024, 12:37:37) [GCC 11.4.0]" at "/srv/connect/venv/bin/python"
+2026-04-30T12:32:33.738748+00:00 shinyapps[17261035]: Loading code from "app"
+2026-04-30T12:32:34.733706+00:00 shinyapps[17261035]: Unexpected error while running Python API: 'HTML' object has no attribute 'get_value'
+2026-04-30T12:32:34.737946+00:00 shinyapps[17261035]: Traceback (most recent call last):
+2026-04-30T12:32:34.741723+00:00 shinyapps[17261035]:   File "/opt/connect/python/connect_fastapi_runtime.py", line 567, in <module>
+2026-04-30T12:32:34.745314+00:00 shinyapps[17261035]:     main(sys.argv)
+2026-04-30T12:32:34.749690+00:00 shinyapps[17261035]:   File "/opt/connect/python/connect_fastapi_runtime.py", line 528, in main
+2026-04-30T12:32:34.753909+00:00 shinyapps[17261035]:     app = setup_asgi_application(
+2026-04-30T12:32:34.757568+00:00 shinyapps[17261035]:           ^^^^^^^^^^^^^^^^^^^^^^^
+2026-04-30T12:32:34.761572+00:00 shinyapps[17261035]:   File "/opt/connect/python/connect_fastapi_runtime.py", line 414, in setup_asgi_application
+2026-04-30T12:32:34.765176+00:00 shinyapps[17261035]:     user_app = import_app(entrypoint, app_mode)
+2026-04-30T12:32:34.768966+00:00 shinyapps[17261035]:                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2026-04-30T12:32:34.772931+00:00 shinyapps[17261035]:   File "/opt/connect/python/connect_common_runtime.py", line 124, in import_app
+2026-04-30T12:32:34.776579+00:00 shinyapps[17261035]:     module = import_module(module_name)
+2026-04-30T12:32:34.800568+00:00 shinyapps[17261035]:              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+2026-04-30T12:32:34.804890+00:00 shinyapps[17261035]:   File "/opt/python/3.11.4/lib/python3.11/importlib/__init__.py", line 126, in import_module
+2026-04-30T12:32:34.808922+00:00 shinyapps[17261035]:     return _bootstrap._gcd_import(name[level:], package, level)
+2026-04-30T12:32:34.812909+00:00 shinyapps[17261035]:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2026-04-30T12:32:34.816832+00:00 shinyapps[17261035]:   File "<frozen importlib._bootstrap>", line 1204, in _gcd_import
+2026-04-30T12:32:34.820818+00:00 shinyapps[17261035]:   File "<frozen importlib._bootstrap>", line 1176, in _find_and_load
+2026-04-30T12:32:34.824679+00:00 shinyapps[17261035]:   File "<frozen importlib._bootstrap>", line 1147, in _find_and_load_unlocked
+2026-04-30T12:32:34.828543+00:00 shinyapps[17261035]:   File "<frozen importlib._bootstrap>", line 690, in _load_unlocked
+2026-04-30T12:32:34.832281+00:00 shinyapps[17261035]:   File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+2026-04-30T12:32:34.836210+00:00 shinyapps[17261035]:   File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+2026-04-30T12:32:34.839822+00:00 shinyapps[17261035]:   File "/srv/connect/apps/bio_study_tutor/app/__init__.py", line 16, in <module>
+2026-04-30T12:32:34.843481+00:00 shinyapps[17261035]:     _spec.loader.exec_module(_mod)
+2026-04-30T12:32:34.847330+00:00 shinyapps[17261035]:   File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+2026-04-30T12:32:34.851151+00:00 shinyapps[17261035]:   File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+2026-04-30T12:32:34.854979+00:00 shinyapps[17261035]:   File "/srv/connect/apps/bio_study_tutor/app/app.py", line 1471, in <module>
+2026-04-30T12:32:34.858869+00:00 shinyapps[17261035]:     app = App(app_ui, server, static_assets={
+2026-04-30T12:32:34.862596+00:00 shinyapps[17261035]:           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2026-04-30T12:32:34.866317+00:00 shinyapps[17261035]:   File "/srv/connect/venv/lib/python3.11/site-packages/shiny/_app.py", line 227, in __init__
+2026-04-30T12:32:34.870231+00:00 shinyapps[17261035]:     self.ui = self._render_page(
+2026-04-30T12:32:34.874036+00:00 shinyapps[17261035]:               ^^^^^^^^^^^^^^^^^^
+2026-04-30T12:32:34.877982+00:00 shinyapps[17261035]:   File "/srv/connect/venv/lib/python3.11/site-packages/shiny/_app.py", line 490, in _render_page
+2026-04-30T12:32:34.881838+00:00 shinyapps[17261035]:     rendered = HTMLDocument(ui_res).render(lib_prefix=lib_prefix)
+2026-04-30T12:32:34.885553+00:00 shinyapps[17261035]:                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2026-04-30T12:32:34.891360+00:00 shinyapps[17261035]:   File "/srv/connect/venv/lib/python3.11/site-packages/htmltools/_core.py", line 1099, in render
+2026-04-30T12:32:34.896527+00:00 shinyapps[17261035]:     html_ = self._gen_html_tag_tree(lib_prefix, include_version=include_version)
+2026-04-30T12:32:34.900400+00:00 shinyapps[17261035]:             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2026-04-30T12:32:34.904468+00:00 shinyapps[17261035]:   File "/srv/connect/venv/lib/python3.11/site-packages/htmltools/_core.py", line 1152, in _gen_html_tag_tree
+2026-04-30T12:32:34.908918+00:00 shinyapps[17261035]:     html = html.tagify()
+2026-04-30T12:32:34.912665+00:00 shinyapps[17261035]:            ^^^^^^^^^^^^^
+2026-04-30T12:32:34.916624+00:00 shinyapps[17261035]:   File "/srv/connect/venv/lib/python3.11/site-packages/htmltools/_core.py", line 850, in tagify
+2026-04-30T12:32:34.920881+00:00 shinyapps[17261035]:     cp.children = cp.children.tagify()
+2026-04-30T12:32:34.924706+00:00 shinyapps[17261035]:                   ^^^^^^^^^^^^^^^^^^^^
+2026-04-30T12:32:34.930844+00:00 shinyapps[17261035]:   File "/srv/connect/venv/lib/python3.11/site-packages/htmltools/_core.py", line 336, in tagify
+2026-04-30T12:32:34.934976+00:00 shinyapps[17261035]:     tagified_child = child.tagify()
+2026-04-30T12:32:34.939046+00:00 shinyapps[17261035]:                      ^^^^^^^^^^^^^^
+2026-04-30T12:32:34.942890+00:00 shinyapps[17261035]:   File "/srv/connect/venv/lib/python3.11/site-packages/htmltools/_core.py", line 850, in tagify
+2026-04-30T12:32:34.946755+00:00 shinyapps[17261035]:     cp.children = cp.children.tagify()
+2026-04-30T12:32:34.950719+00:00 shinyapps[17261035]:                   ^^^^^^^^^^^^^^^^^^^^
+2026-04-30T12:32:34.954500+00:00 shinyapps[17261035]:   File "/srv/connect/venv/lib/python3.11/site-packages/htmltools/_core.py", line 336, in tagify
+2026-04-30T12:32:34.958779+00:00 shinyapps[17261035]:     tagified_child = child.tagify()
+2026-04-30T12:32:34.965565+00:00 shinyapps[17261035]:                      ^^^^^^^^^^^^^^
+2026-04-30T12:32:34.969531+00:00 shinyapps[17261035]:   File "/srv/connect/venv/lib/python3.11/site-packages/shiny/ui/_navs.py", line 413, in tagify
+2026-04-30T12:32:34.973446+00:00 shinyapps[17261035]:     nav, content = render_navset(
+2026-04-30T12:32:34.978066+00:00 shinyapps[17261035]:                    ^^^^^^^^^^^^^^
+2026-04-30T12:32:34.981840+00:00 shinyapps[17261035]:   File "/srv/connect/venv/lib/python3.11/site-packages/shiny/ui/_navs.py", line 1639, in render_navset
+2026-04-30T12:32:34.985772+00:00 shinyapps[17261035]:     selected = x.get_value()
+2026-04-30T12:32:34.989564+00:00 shinyapps[17261035]:                ^^^^^^^^^^^
+2026-04-30T12:32:34.994465+00:00 shinyapps[17261035]: AttributeError: 'HTML' object has no attribute 'get_value'

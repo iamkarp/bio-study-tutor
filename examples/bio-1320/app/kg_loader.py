@@ -8,7 +8,11 @@ from pathlib import Path
 
 import yaml
 
-REPO = Path(__file__).resolve().parents[1]
+_here = Path(__file__).resolve().parent
+# Locally kg_loader.py lives inside app/ so wiki/ is one level up.
+# On shinyapps.io the app/ contents are flattened to the deployment root,
+# so wiki/ is in the same directory as kg_loader.py.
+REPO = _here if (_here / "wiki").exists() else _here.parent
 WIKI = REPO / "wiki"
 KG = REPO / "kg"
 

@@ -3,7 +3,7 @@
   "locale": "en_US.UTF-8",
   "metadata": {
     "appmode": "python-shiny",
-    "entrypoint": "app"
+    "entrypoint": "app:app"
   },
   "python": {
     "version": "3.11.0",
@@ -23,22 +23,16 @@
       "checksum": "a332af9b94783f11eb1bb6f462bd4091"
     },
     ".DS_Store": {
-      "checksum": "0384d1fec4a7cd3c6131a07a00463742"
-    },
-    ".env": {
-      "checksum": "4ed4d90573ca53b57472560651ef75b8"
-    },
-    ".env.example": {
-      "checksum": "a24d0089ac058d3da2d64688db14a430"
+      "checksum": "47f4e802aba296ff7098f35fdec70e03"
     },
     ".gitignore": {
-      "checksum": "7957a39688f83d737ab068b11fcf6f1c"
+      "checksum": "f37497cb04e458eb2cb92dccd6a14401"
     },
     ".python-version": {
       "checksum": "c0479ff484dacd51dc5ba0461b16b9bf"
     },
     ".rscignore": {
-      "checksum": "42c63a22b2a9df88e6bd282802e85c5b"
+      "checksum": "41e8883cde11dfbd2af04e19d0ad3c58"
     },
     "ABOUT.md": {
       "checksum": "effc09ab1fb818574f4915e7233433dc"
@@ -46,8 +40,23 @@
     "CLAUDE.md": {
       "checksum": "a925d40a6925e50519c4e2fe89fced56"
     },
+    "Chapter 10 Patterns of Inheritance .pptx": {
+      "checksum": "762a83380fb03671380568612bf22a25"
+    },
+    "Chapter 11 DNA Structure and Replication.pptx": {
+      "checksum": "8393333c617de6d0dd990f871258195c"
+    },
+    "Chapter 12 How Genes Work.pptx": {
+      "checksum": "38a04054d30ccd1cc1a8c0fc458e6f19"
+    },
+    "Chapter 13 New Biology.pptx": {
+      "checksum": "0916c4fe5a02810a40cff510342d6404"
+    },
+    "Chapter 9 Meiosis.pptx": {
+      "checksum": "52b5fa61b5c16deea3b50f8ff3aabc70"
+    },
     "README.md": {
-      "checksum": "8d9ce4822a4f7c01ec3a1ebf76b83e22"
+      "checksum": "3054d9da186ae16efaac7836bca0be9d"
     },
     "Screenshots/Study Guide.png": {
       "checksum": "c51a2357a160607fa9bad976a0be3e85"
@@ -72,6 +81,9 @@
     },
     "Screenshots/quiz.png": {
       "checksum": "af72e129bb7bb0aa087b87a19162854c"
+    },
+    "Study Guide Exam 3 Bio 1320 Spring 2026 (1).docx": {
+      "checksum": "eb2eaf8c103d9b53f8cd7ad48e16fbfd"
     },
     "WRITEUP.md": {
       "checksum": "302cb301452a23373766d2ad3a8a54b5"
@@ -110,7 +122,7 @@
       "checksum": "566b3ab0df43699654a07f70fa4f6c3d"
     },
     "app/kg_loader.py": {
-      "checksum": "42ab7083ee90591b635ccc0817bfa0fd"
+      "checksum": "b89d3753ec24454dcc03e7b3dfe739fd"
     },
     "app/llm.py": {
       "checksum": "bbfaa12a461b7f9ca59a2fc6cd02da3d"
@@ -142,11 +154,17 @@
     "app/www/graph-8b656e40.html": {
       "checksum": "906008c065b548c9ffbbf48b308b8fcd"
     },
+    "bio_study_tutor-error-logs.txt": {
+      "checksum": "a3fada9c9f84e23827cc91963d5a4c9d"
+    },
+    "cover.png": {
+      "checksum": "d6ad0e289dbcb3e09624cafa31fa917e"
+    },
     "gemm4.png": {
       "checksum": "e707e308aa3ca7b675d1e0e0d2ffaa24"
     },
     "kg/.DS_Store": {
-      "checksum": "0c8cd65c868617a096be07478c2dec3a"
+      "checksum": "69753066484900cdd732a00a775a6ab7"
     },
     "kg/build.log": {
       "checksum": "c9f8901eb2703dc64a99156d32ab2943"
@@ -180,6 +198,9 @@
     },
     "kg/manifest.json": {
       "checksum": "a5283d42f062f371d6d58b1db3f915f5"
+    },
+    "kg/nodes/.DS_Store": {
+      "checksum": "b73ac1f4a00ea68918880b4cabf76eff"
     },
     "kg/nodes/chapter/09.json": {
       "checksum": "f4358faab37ce6052f329e7de79701f9"
@@ -976,8 +997,113 @@
     "readme.txt": {
       "checksum": "575a71c7f744d8a61144f7c21dff2848"
     },
+    "skill/SKILL.md": {
+      "checksum": "1c31af5b343fc4b872c1e47392007ee6"
+    },
+    "skill/reference/CLAUDE-template.md": {
+      "checksum": "73c81369e2975a4d66b467eed93fd90f"
+    },
+    "skill/reference/architecture.md": {
+      "checksum": "44978c00885b76381d480c65c00c16ef"
+    },
+    "skill/reference/deployment.md": {
+      "checksum": "9373dee854268a5a38f3ef6739c6d0c9"
+    },
+    "skill/reference/html-static-alternative.md": {
+      "checksum": "610566b9992c9585ecbe3c3c9dfb117d"
+    },
+    "skill/reference/pdf-extraction.md": {
+      "checksum": "fc7614f183a44debd7be13b3a049b387"
+    },
+    "skill/reference/schema-design.md": {
+      "checksum": "65f0c7d68d832bce61fae52acb291b5e"
+    },
+    "skill/reference/starter-content-template.md": {
+      "checksum": "fea73b43abbc4905541d11290a61f139"
+    },
+    "skill/reference/templates-manifest.md": {
+      "checksum": "75d721db3149cff03f7f01209a5fb90e"
+    },
+    "skill/reference/troubleshooting.md": {
+      "checksum": "793d45211c5f424881fa90dd00967b4b"
+    },
+    "skill/reference/wiki-authoring.md": {
+      "checksum": "8c31fd7bf2595dbc0fa6fb2cc0b3b034"
+    },
+    "skill/templates/.gitignore": {
+      "checksum": "273bbe1ff3552b79c4861891fa277e80"
+    },
+    "skill/templates/.python-version": {
+      "checksum": "c0479ff484dacd51dc5ba0461b16b9bf"
+    },
+    "skill/templates/.rscignore": {
+      "checksum": "42c63a22b2a9df88e6bd282802e85c5b"
+    },
+    "skill/templates/__init__.py": {
+      "checksum": "e5506464d86731e2247b3925bfe0842d"
+    },
+    "skill/templates/app.py": {
+      "checksum": "5d0274d88157926b1401018dca1f4898"
+    },
+    "skill/templates/build_kg.py": {
+      "checksum": "b666b652b764b810ecbcc4a7ae825134"
+    },
+    "skill/templates/build_print_version.py": {
+      "checksum": "245fb113231f502ee879de3eedeb84ea"
+    },
+    "skill/templates/extract/__init__.py": {
+      "checksum": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "skill/templates/extract/frontmatter.py": {
+      "checksum": "8778d89ec1ee3cf67d08c34910ea8f8b"
+    },
+    "skill/templates/extract/sections.py": {
+      "checksum": "9cc51ed058f077c56fcdc39aa6705749"
+    },
+    "skill/templates/extract/tables.py": {
+      "checksum": "1080316ec6591c3af6d399f3ae36ebe1"
+    },
+    "skill/templates/extract/wikilinks.py": {
+      "checksum": "5e4cf2e9ff2158859c1db487e9beab0f"
+    },
+    "skill/templates/extract_docx.py": {
+      "checksum": "bb0a8ab3d1b5474f4ca01004802ec7c7"
+    },
+    "skill/templates/extract_pptx.py": {
+      "checksum": "b41ae785fafab516588c8151d61364d4"
+    },
+    "skill/templates/games.py": {
+      "checksum": "1a3a00c950bca0152ab525784fb2056b"
+    },
+    "skill/templates/graph_viz.py": {
+      "checksum": "566b3ab0df43699654a07f70fa4f6c3d"
+    },
+    "skill/templates/kg_loader.py": {
+      "checksum": "42ab7083ee90591b635ccc0817bfa0fd"
+    },
+    "skill/templates/llm.py": {
+      "checksum": "c438de7eaae1db50f8a6cd68a5a373cb"
+    },
+    "skill/templates/prebuild.py": {
+      "checksum": "28fda8eab54b709fb93cc16f04338ebe"
+    },
+    "skill/templates/render_index.py": {
+      "checksum": "8d4778ce53517dd2f9db095cc266e68e"
+    },
+    "skill/templates/study-guide-compact.template.html": {
+      "checksum": "aaa39272e735d987e607c3f7949ea2b4"
+    },
+    "skill/templates/validate.py": {
+      "checksum": "a3c7da8371597149471c8b2a70330be5"
+    },
+    "skill/templates/wikilink.py": {
+      "checksum": "44e7dbf7eca7f507e745df6da8e3bfa8"
+    },
     "tools/__pycache__/build_video.cpython-314.pyc": {
       "checksum": "a1a15d9ab6e40cf876ef9e7932951ce4"
+    },
+    "tools/build_cover.py": {
+      "checksum": "7ebb117c6d1a019fc8d05ae3a66134c1"
     },
     "tools/build_kg.py": {
       "checksum": "b666b652b764b810ecbcc4a7ae825134"
@@ -1176,6 +1302,9 @@
     },
     "video/script.md": {
       "checksum": "676d18587c568816de1272cb19e59117"
+    },
+    "wiki/.DS_Store": {
+      "checksum": "e876ff2d9adb4c61809a464707b7fa97"
     },
     "wiki/chapters/chapter-09.md": {
       "checksum": "5cd546039e6437ed18613104a000ecaf"

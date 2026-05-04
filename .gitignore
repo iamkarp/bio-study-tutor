@@ -27,18 +27,14 @@ Thumbs.db
 rsconnect-python/
 
 # Generated graph snapshots — rebuilt at runtime
-app/www/graph-*.html
+examples/*/app/www/graph-*.html
 
 # Video build intermediates — final mp4 only
-video/audio/
-video/parts/
-video/jason_raw.*
-
-# Contest brief (not redistributed)
-readme.txt
+examples/*/video/audio/
+examples/*/video/parts/
+examples/*/video/jason_raw.*
 
 # Build / cache
 build/
 dist/
 *.log
-bio_study_tutor-error-logs.txt

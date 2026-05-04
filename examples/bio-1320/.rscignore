@@ -1,3 +1,5 @@
+.env
+.env.*
 Chapter*.pptx
 Chapter*.PPTX
 Study Guide*.docx
